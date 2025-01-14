@@ -22,7 +22,8 @@
       - ibśimsis artimu=k kulumsis aaraλ biraλ=k
       - kλidaλ kofuλ=k qiraλ qelλ=k bilλ vcbaqẽnt
   - inscription[n=2]:
-    - note[lg=eng-Latn]: 2
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
     - p:
       - '[b]orlλ X III II oraλ cuvellλ artakśassaλ=ś'
       - '[q]aλmλuλ dãν eśś vãnaś mru=k bλasokiτ'
@@ -38,7 +39,8 @@
       - '[..]ra bistaν taqaλaν siśirorś śfẽnda=k=mλ=in'
       - '[..]lbuqid'
   - inscription[n=3]:
-    - note[lg=eng-Latn]: 3
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
     - p:
       - brvãν III II aλiksãntruλ dãν eśś vãnaś es=k mrud
       - atraśtalid timlelid ardẽc alarmś fadol vśtaś
@@ -46,7 +48,8 @@
       - levś sarẽtaś qis=it fẽnsλibid esλ vãnaλ
       - buk esλ mruλ fak=mλ levś vcbaqẽnt
   - inscription[n=4a]:
-    - note[lg=eng-Latn]: 4a
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
     - p:
       - eś aśinaś manelis alulis ak=mλ=t qis fẽnsλibid
       - buk esνaν anlolaν buk
@@ -63,7 +66,8 @@
       - fak=mλ=t qλdãnś
       - artymu=k vcbaqẽnt
   - inscription[n=5]:
-    - note[lg=eng-Latn]: 5
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
     - p:
       - eśś vãnaś atalis tivdalis tarvτallis
       - ak=in kud kaτaλres ak teśaśtid sivãmlid
@@ -71,7 +75,8 @@
       - ẽmλ kãnaλ kileλ buk ẽminaν eśaν citalad
       - fadint fak=mλ artimuś qiraλ qelλ=k vcbaqẽnt
   - inscription[n=6]:
-    - note[lg=eng-Latn]: 6
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
     - p:
       - eśś vãnaś sivãmlis armã-vlis
       - ak=it qis esλ vãnaλ
@@ -80,7 +85,8 @@
       - fak=aν viśśis niviśścν
       - varbtokid
   - inscription[n=7]:
-    - note[lg=eng-Latn]: 7
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
     - p:
       - eśś vãnaś es=[k] laqrisa
       - es=k qelad bavafunidν
@@ -89,7 +95,8 @@
       - fẽnsλbid fak=aν viśis
       - niviścν varbtokid
   - inscription[n=8]:
-    - note[lg=eng-Latn]: 8
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
     - p:
       - eśś vãnaś es=k mrud es
       - laqris=k kud=k=it esλ
@@ -104,7 +111,8 @@
       - fak=aν viśśis niviścν
       - varbtokid
   - inscription[n=9]:
-    - note[lg=eng-Latn]: 9
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
     - p:
       - III
       - eśś vãnaś kumlil-is
@@ -117,7 +125,8 @@
       - '[viśś]is n[iviścν]'
       - '[varbtokid]'
   - inscription[n=10]:
-    - note[lg=eng-Latn]: 10
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
     - p:
       - es[t] mrud karoś katovalis bilλ
       - vora[λ ka]ntrol katovaλ karolλ
@@ -145,7 +154,8 @@
       - esλ=it mr qis fẽnsλibid ak=aν viśśis
       - niviścν varbtok
   - inscription[n=11]:
-    - note[lg=eng-Latn]: 11
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
     - p:
       - est mruvaad saristrośλ śfarvad aśtrkoλ
       - vãnτaś vicν areλ kaτared=k=mś iskoś
@@ -160,7 +170,8 @@
       - vãnτa=k=t esνaν ifrol qis fakorfid katofn
       - buk mruvaaλ fak=mλ=at=aν viśśis vaarś nid kantrod
   - inscription[n=12]:
-    - note[lg=eng-Latn]: 12
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
     - p:
       - est mru sivãmlλ saroλ ẽntarfλod
       - dum=(m)λ=is nid qaaslλ veśfaś alarmλ cavλoś
@@ -173,7 +184,8 @@
       - kot lumbaaś dum=mλ=it kocvid niqasllλ tatrot
       - nin linẽd vνisλ lẽν fẽntasẽnaν lafod
   - inscription[n=13]:
-    - note[lg=eng-Latn]: 13
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
     - p:
       - il=im ãnas iśaś kud=m=ãk cẽnsidν alarmaś
       - amu=k nãsi=k ẽmis istaminlis vśtaaś
@@ -189,7 +201,8 @@
       - '[.......]śtolν qedna=k volν kibτad'
       - '[..............]aśẽmis eλoś iślaaś'
   - inscription[n=14]:
-    - note[lg=eng-Latn]: 14
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
     - p:
       - mru=m=it baal dum=is qλ[......]ś factot
       - aśtrkota=k savtaarś eλf=k....]λa=k taśo=k
@@ -211,7 +224,8 @@
       - '[    ]sid fabad ẽnτavλoλ'
       - '[       ]s sivraλaλ karftoś'
   - inscription[n=15]:
-    - note[lg=eng-Latn]: 15
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
     - p:
       - '[    ]mλiλś nid kafolcν fadil'
       - '[     ] kolcis tarblaś fẽnanil'
@@ -224,7 +238,8 @@
       - '[     ]vãnaλ ba[    ]'
       - '[    ]caqr[    ]'
   - inscription[n=16]:
-    - note[lg=eng-Latn]: 16
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
     - p:
       - '[...eśś v]ãnaś tivdalis [...]'
       - '[...]λmlis borlλ ś[...]'
@@ -232,34 +247,40 @@
       - '[...]alarmś sidλ[...]'
       - '[...]ẽl[...]'
   - inscription[n=17]:
-    - note[lg=eng-Latn]: 17
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
     - p:
       - '[...siv]ãmlis ak=it qis'
       - '[...esνa]ν anlolaν fẽnsλib[id]'
       - '[...katsa]rlokid ẽna=k=mλ[...]'
   - inscription[n=18]:
-    - note[lg=eng-Latn]: 18
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
     - p:
       - '[...]'
       - e. vãnaν qisredν ni=m=it fẽnsλi[bid]
       - ak=mś=in śof
   - inscription[n=19]:
-    - note[lg=eng-Latn]: 19
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
     - p:
       - '[...]'
       - fẽnsλibid bi[...]
       - fẽncãν bi[...]
       - fak[...]
   - inscription[n=20]:
-    - note[lg=eng-Latn]: 20
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
     - p:
       - nannaś bakivalis artimuλ
   - inscription[n=21]:
-    - note[lg=eng-Latn]: 21
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
     - p:
       - '[m]an[e]ś bakivalis mane[lis(?)] artim[uλ(?)]'
   - inscription[n=22]:
-    - note[lg=eng-Latn]: 22
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
     - p:
       - est mrud śfardẽnτ facνiris mλimnaś vicν
       - dum=mś ebad favnẽris amẽd śfardẽtλ aśtrkoλ
@@ -277,7 +298,8 @@
       - aśtrkoś mλimlλ nãku=kod fakatvãmid ak qed
       - aλidad taśod ak=mλ=ad inãnt
   - inscription[n=23]:
-    - note[lg=eng-Latn]: 23
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
     - p:
       - eśś syrmaś qλdãnl artimuλ=k dacuverś=t
       - vintaś ak=it esλ sirmaλ qys fẽnsλibid
@@ -302,7 +324,8 @@
       - qed ẽnud ẽtamś uν ak=ad artimuś
       - biferś=t
   - inscription[n=24]:
-    - note[lg=eng-Latn]: 24
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
     - p:
       - ãnτẽt mitridastaś mitra[talis]
       - kaveś nak amu katosν faov
@@ -328,7 +351,8 @@
       - '[aλaś] nid qis=k dẽt ifrlis mitridasta[.]'
       - '[...(15)..(?)b]itad mitridastaś [...]'
   - inscription[n=25]:
-    - note[lg=eng-Latn]: 25
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
     - p:
       - '[    ]is ta[    ]'
       - '[   kat]ovalis man[    ]'
@@ -337,76 +361,92 @@
       - '[   ar]timulis [    ]'
       - '[    ]is m[    ]'
   - inscription[n=26]:
-    - note[lg=eng-Latn]: 26
+    - note[lg=eng-Latn]:
+      - placeName: Mersindere
     - p:
       - eś sadmẽś es=k mrud alikrelid karol[id(?)] anlali=k atraśt[alid(?)]
       - kaveś lamẽtrulis qis alikamśo=k bilis [ti]vdalis atalid a[k=it]
       - '[esλ s]admẽλ buk esλ mruλ buk esνaν maśtãν qis fẽn[sλibid   ]'
       - '[    ]lamẽtruś [....] sa[dmẽ]λ artimu=k aśbluvaś viś[        ]'
   - inscription[n=27]:
-    - note[lg=eng-Latn]: 27
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
     - p:
       - '[...]'
       - '[   ]ẽrblocimλ'
       - '[    ]il karo=k=it ẽndiblint'
       - '[    ]ocν iraν cuλdalẽλ taacdaν bimirś śfarda=k'
   - inscription[n=28]:
-    - note[lg=eng-Latn]: 28
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
     - p:
       - '[    ]ftellis kaveś inl'
   - inscription[n=29]:
-    - note[lg=eng-Latn]: 29
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
     - p:
       - '[   ]ud'
       - '[   ]re'
   - inscription[n=30]:
-    - note[lg=eng-Latn]: 30
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
     - p:
       - 'titiś=in : ẽmν : tiśardν : fabil'
       - 'ataλ : kitvaλ'
   - inscription[n=31]:
-    - note[lg=eng-Latn]: 31
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
     - p:
       - śaśa
   - inscription[n=32]:
-    - note[lg=eng-Latn]: 32
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
     - p:
       - '[    ]ralulis kardal'
   - inscription[n=33]:
-    - note[lg=eng-Latn]: 33
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
     - p:
       - mivad
   - inscription[n=34]:
-    - note[lg=eng-Latn]: 34
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
     - p:
       - eg
   - inscription[n=35]:
-    - note[lg=eng-Latn]: 35
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
     - p:
       - cm
   - inscription[n=36]:
-    - note[lg=eng-Latn]: 36
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
     - p:
       - .ru
   - inscription[n=37]:
-    - note[lg=eng-Latn]: 37
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
     - p:
       - art f
   - inscription[n=38]:
-    - note[lg=eng-Latn]: 38
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
     - p:
       - ly
   - inscription[n=39]:
-    - note[lg=eng-Latn]: 39
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
     - p:
       - tiv
   - inscription[n=40]:
-    - note[lg=eng-Latn]: 40
+    - note[lg=eng-Latn]:
+      - placeName: Pergamon
     - p:
       - esν taśẽν acνil
       - bartaraś śa.it
   - inscription[n=41]:
-    - note[lg=eng-Latn]: 41
+    - note[lg=eng-Latn]:
+      - placeName: Falaka
     - p:
       - borlλ X III III arta[kśass-]aλ
       - qaλmλuλ dãν
@@ -416,7 +456,8 @@
       - abrnalis kãna=k bil[is]
       - '[.]ret=k aśaν qaλem[   ]'
   - inscription[n=42]:
-    - note[lg=eng-Latn]: 42
+    - note[lg=eng-Latn]:
+      - placeName: Emre
     - p:
       - borlλ XI ora[λ ...]
       - qaλmλuλ dãν es[...]
@@ -426,7 +467,8 @@
       - es=k=iś labta qis fẽn[...]
       - '[......]vad ak ẽnaλ[...]'
   - inscription[n=43]:
-    - note[lg=eng-Latn]: 43
+    - note[lg=eng-Latn]:
+      - placeName: Eǵriköy
     - p:
       - brvãν II dãν
       - oraλ kanlelaλ
@@ -435,7 +477,8 @@
       - facunil cẽqrad
       - '[.]aλidẽnl bar[..]'
   - inscription[n=44]:
-    - note[lg=eng-Latn]: 44
+    - note[lg=eng-Latn]:
+      - placeName: č̣oban-isa
     - p:
       - '[...(18)...]ẽtsa[...(8)...]'
       - trismν adẽnν satiś um cak trfnod
@@ -456,7 +499,8 @@
       - edλ=t=in niviśva civs f[..]
       - dumν=um arś[...]
   - inscription[n=45]:
-    - note[lg=eng-Latn]: 45
+    - note[lg=eng-Latn]:
+      - placeName: Arablhк Hachкlhк Mahallesi
     - p:
       - '[...]'
       - '[...]ś fẽntrol'
@@ -464,7 +508,8 @@
       - '[r]aval fak=mλ śanẽν inal'
       - ak=it esλ taacλ qis fẽnsλibid
   - inscription[n=46]:
-    - note[lg=eng-Latn]: 46
+    - note[lg=eng-Latn]:
+      - placeName: Hamidiye
     - p:
       - '[..]k sibad śak[...a]λad dẽt nid'
       - fasabid qi[s] bidẽν fratinid
@@ -475,21 +520,25 @@
       - '[.]ivard ak=a[d...]'
       - visi[...]
   - inscription[n=47]:
-    - note[lg=eng-Latn]: 47
+    - note[lg=eng-Latn]:
+      - placeName: Tire
     - p:
       - '[.....]qa[...(15)...]a[...(20)...]a'
       - brafraν laduvad intiśtcν tin[.]ν τaλad fasitamra[...]
   - inscription[n=48]:
-    - note[lg=eng-Latn]: 48
+    - note[lg=eng-Latn]:
+      - placeName: Ephesos
     - p:
       - '[    ]is inl'
   - inscription[n=49]:
-    - note[lg=eng-Latn]: 49
+    - note[lg=eng-Latn]:
+      - placeName: Silsilis
     - p:
       - lẽKqug i
       - aluś=mretlis=ul
   - inscription[n=50]:
-    - note[lg=eng-Latn]: 50
+    - note[lg=eng-Latn]:
+      - placeName: Megalais Katefches
     - p:
       - forlλ XII oraλ kanlelaλ
       - '[...]tralaλ aλiksantruλ'
@@ -499,20 +548,24 @@
       - '[?]aśaãν bill ak=mλ lefś'
       - sarẽtaś/saretaś
   - inscription[n=51]:
-    - note[lg=eng-Latn]: 51
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
     - p:
       - bakivalid
       - samlid
   - inscription[n=52]:
-    - note[lg=eng-Latn]: 52
+    - note[lg=eng-Latn]:
+      - placeName: Ephesos
     - p:
       - valvel
   - inscription[n=53]:
-    - note[lg=eng-Latn]: 53
+    - note[lg=eng-Latn]:
+      - placeName: Jabachк
     - p:
       - nteś ntś (??)
   - inscription[n=54]:
-    - note[lg=eng-Latn]: 54
+    - note[lg=eng-Latn]:
+      - placeName: Manisa
     - p:
       - '[e]s anlola atraśtal'
       - śakardal ak=ad qis fisqãnt
@@ -521,38 +574,46 @@
       - nã=k=mλ [...]clλ ak=ad
       - artimuλ ibśimlλ fẽncãν
   - inscription[n=55]:
-    - note[lg=eng-Latn]: 55
+    - note[lg=eng-Latn]:
+      - placeName: (?)
     - p:
       - manel=im
   - inscription[n=56]:
-    - note[lg=eng-Latn]: 56
+    - note[lg=eng-Latn]:
+      - placeName: (?)
     - p:
       - manel=im
   - inscription[n=57]:
-    - note[lg=eng-Latn]: 57
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
     - p:
       - '[   ]rlam[  ]'
   - inscription[n=58]:
-    - note[lg=eng-Latn]: 58
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
     - p:
       - ']eśivśis /['
   - inscription[n=59]:
-    - note[lg=eng-Latn]: 59
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
     - p:
       - borlλ d or[aλ...]
       - '[...] qaλmλ[uλ...]'
   - inscription[n=60]:
-    - note[lg=eng-Latn]: 60
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
     - p:
       - esλ[...]
       - fa[...]
       - fa[...]
   - inscription[n=61]:
-    - note[lg=eng-Latn]: 61
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
     - p:
       - '[...]valis ak=aν qi[s...]'
   - inscription[n=62]:
-    - note[lg=eng-Latn]: 62
+    - note[lg=eng-Latn]:
+      - placeName: Tire
     - p:
       - '[...]'
       - '[.]rd.aś dẽt qaλmu=k vard['
@@ -562,43 +623,52 @@
       - esn qaλdãl ãn civlad [
       - '[  ]t tim[  ] ak=m.[?] qa['
   - inscription[n=63]:
-    - note[lg=eng-Latn]: 63
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
     - p:
       - ']lis ['
       - ']sima.['
   - inscription[n=64]:
-    - note[lg=eng-Latn]: 64
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
     - p:
       - ']kãλ : labλ : vrit['
       - τakm[
   - inscription[n=65]:
-    - note[lg=eng-Latn]: 65
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
     - p:
       - qis=m[
   - inscription[n=66]:
-    - note[lg=eng-Latn]: 66
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
     - p:
       - ']alis at['
       - ']k art['
   - inscription[n=67]:
-    - note[lg=eng-Latn]: 67
+    - note[lg=eng-Latn]:
+      - placeName: Bin Tepe
     - p:
       - ve (??)
   - inscription[n=68]:
-    - note[lg=eng-Latn]: 68
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
     - p:
       - ']. kun...['
   - inscription[n=69]:
-    - note[lg=eng-Latn]: 69
+    - note[lg=eng-Latn]:
+      - placeName: (Coins)
     - p:
       - rkalim (?)
   - inscription[n=70]:
-    - note[lg=eng-Latn]: 70
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
     - p:
       - eś sadmẽś os=k anlola[...(6)...]
       - ar[tim]ul ak=it esλ sa[dmẽλ ...]
   - inscription[n=71]:
-    - note[lg=eng-Latn]: 71
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
     - p:
       - '...] s ['
       - '...ser]lis srmli[s]'
@@ -608,15 +678,18 @@
       - '...]| brullis[?]'
       - '...]rolis aλa[?]'
   - inscription[n=72]:
-    - note[lg=eng-Latn]: 72
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
     - p:
       - ']s kuvav['
   - inscription[n=73]:
-    - note[lg=eng-Latn]: 73
+    - note[lg=eng-Latn]:
+      - placeName: Kerč
     - p:
       - manel=im
   - inscription[n=74]:
-    - note[lg=eng-Latn]: 74
+    - note[lg=eng-Latn]:
+      - placeName: Sardes (?)
     - p:
       - 'eś sadmẽś : mitratalis'
   - inscription[n=75]:
@@ -632,13 +705,15 @@
       - foreign[lg=eng-Latn]: (?)
       - nanaś
   - inscription[n=79]:
-    - note[lg=eng-Latn]: 79
+    - note[lg=eng-Latn]:
+      - placeName: Aphrodisias
     - p:
       - '[...]'
       - ś]ãntaλ [?
       - ']talid [?'
   - inscription[n=80]:
-    - note[lg=eng-Latn]: 80
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
     - p:
       - '[a]larmś bis fa=t=is[?].['
       - '[.]aarcrś il amito['
@@ -660,88 +735,109 @@
       - '[...(8)...] baritod dum['
       - '[...]ẽ[...'
   - inscription[n=81]:
-    - note[lg=eng-Latn]: 81
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
     - p:
       - badi[...(6)...]l
   - inscription[n=82]:
-    - note[lg=eng-Latn]: 82
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
     - p:
       - ']lma['
   - inscription[n=83]:
-    - note[lg=eng-Latn]: 83
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
     - p:
       - ']uli[s(?)'
   - inscription[n=84]:
-    - note[lg=eng-Latn]: 84
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
     - p:
       - ']ulis['
   - inscription[n=85]:
-    - note[lg=eng-Latn]: 85
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
     - p:
       - '] va ['
   - inscription[n=86]:
-    - note[lg=eng-Latn]: 86
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
     - p:
       - ']. ka ['
   - inscription[n=87]:
-    - note[lg=eng-Latn]: 87
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
     - p:
       - ']ma['
   - inscription[n=88]:
-    - note[lg=eng-Latn]: 88
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
     - p:
       - '] ba ['
   - inscription[n=89]:
-    - note[lg=eng-Latn]: 89
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
     - p:
       - ']uk['
   - inscription[n=90]:
-    - note[lg=eng-Latn]: 90
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
     - p:
       - ']ma['
   - inscription[n=91]:
-    - note[lg=eng-Latn]: 91
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
     - p:
       - '] ba['
   - inscription[n=92]:
-    - note[lg=eng-Latn]: 92
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
     - p:
       - ']min['
   - inscription[n=93]:
-    - note[lg=eng-Latn]: 93
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
     - p:
       - art
   - inscription[n=94]:
-    - note[lg=eng-Latn]: 94
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
     - p:
       - '].a.ś'
   - inscription[n=95]:
-    - note[lg=eng-Latn]: 95
+    - note[lg=eng-Latn]:
+      - placeName: Sardes (?)
     - p:
       - tetel=im
   - inscription[n=96]:
-    - note[lg=eng-Latn]: 96
+    - note[lg=eng-Latn]:
+      - placeName: Old-Smyrna
     - p:
       - ']vmś'
   - inscription[n=97]:
-    - note[lg=eng-Latn]: 97
+    - note[lg=eng-Latn]:
+      - placeName: Old-Smyrna
     - p:
       - '?]unaν : eś : śdi.['
   - inscription[n=98]:
-    - note[lg=eng-Latn]: 98
+    - note[lg=eng-Latn]:
+      - placeName: Old-Smyrna
     - p:
       - śil[ ]karol
       - ar[ti]mal=k
   - inscription[n=99]:
-    - note[lg=eng-Latn]: 99
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
     - p:
       - '[bra]vrsis bil ['
   - inscription[n=100]:
-    - note[lg=eng-Latn]: 100
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
     - p:
       - ']urdo['
   - inscription[n=101]:
-    - note[lg=eng-Latn]: 101
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
     - p:
       - '[...(7)...m]anelis'
       - '[...(7)...]is inal'
@@ -750,7 +846,8 @@
       - foreign[lg=eng-Latn]: (?)
       - ośflś
   - inscription[n=103]:
-    - note[lg=eng-Latn]: 103
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
     - p:
       - '] srkastulis śf[ardẽt...'
   - inscription[n=104]:
@@ -766,11 +863,13 @@
       - foreign[lg=eng-Latn]: (?)
       - miλaś
   - inscription[n=107]:
-    - note[lg=eng-Latn]: 107
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
     - p:
       - ']lefś=tλ ba.['
   - inscription[n=108]:
-    - note[lg=eng-Latn]: 108
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
     - p:
       - '[e]śś vanaś bakiv[alis]'
       - '[...]mi.ãlis ba.[....]'
@@ -779,6 +878,7 @@
       - '[fẽnsλ]ifid buk es[λ]'
       - '[...]'
   - inscription[n=109]:
-    - note[lg=eng-Latn]: 109
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
     - p:
       - śo.[
