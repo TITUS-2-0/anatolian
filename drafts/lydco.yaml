@@ -1,0 +1,784 @@
+- body:
+  - inscription[n=1]:
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
+    - p[lg=arc-Latn-x-transliterated]:
+      - B 5 L-MRḤŠWN ŠNT 10 ՚RTḤŠSŠ MLK՚
+      - B-SPRD B-YRT՚ ZNH STWN՚ W-MՙRT՚ DRḤT՚
+      - ՚TRT՚ W-PRBR ZY ՙL SPRB ZNH PRBR-H ՚ḤR
+      - ZY MNY BR KMLY SRWKY՚ W-MN ZY ՙL STWN՚ ZNH ՙW
+      - MՙRT՚ ՚W L-DRḤT՚ (՚)W? L-QBL ZY PRBR L-MՙRT՚
+      - ZNH ՚ḤR MN ZY YḤBL ՚W YPRK MNDՙM ՚ḤR
+      - ՚RTMW ZY KLW W-՚PŠŠY TRBṢ-H BYT-H
+      - QNYN-H ṬYN W-MYN W-MNDՙMT-H YBDRWN-H W-YRT-H
+    - p:
+      - '...'
+      - '[o]raλ islλ bakillλ est mrud eśś=k [vãnaś]'
+      - laqrisa=k qela=k kud=k=it ist esλ vãn[aλ]
+      - bλtarvod ak=ad manelid kumlilid silukalid ak=it n[ãqis]
+      - esλ mruλ buk esλ vãnaλ buk esνaν
+      - laqirisaν buk=it kud ist esλ vãnaλ bλtarvo[d]
+      - ak=t=in nãqis qelλ=k fẽnsλifid fak=mλ artimuś
+      - ibśimsis artimu=k kulumsis aaraλ biraλ=k
+      - kλidaλ kofuλ=k qiraλ qelλ=k bilλ vcbaqẽnt
+  - inscription[n=2]:
+    - note[lg=eng-Latn]: 2
+    - p:
+      - '[b]orlλ X III II oraλ cuvellλ artakśassaλ=ś'
+      - '[q]aλmλuλ dãν eśś vãnaś mru=k bλasokiτ'
+      - qid kataνil laqrisa=k=in qid ẽtośrś ak=ad
+      - karolid sabλalid iśtubeλmlid ak=t=in
+      - nãqis fẽnsλibid esνaν mλvẽndaν iskon
+      - qid=a tamν buk vãnaλ esλ buk mruλ buk
+      - bλasoλ esλ buk laqrisaν buk=in aλẽν
+      - avλãν qis=k dctdid ist esλ vãnaλ karolλ
+      - sabλalλ karola=ś śfẽndaν arvol ak=mλ
+      - artimuν ibśimνaν kulumνa=k sivraλmn
+      - '[in]ãnu ak=t=in nãqis fẽnsλibid fak=at=aν ebad'
+      - '[..]ra bistaν taqaλaν siśirorś śfẽnda=k=mλ=in'
+      - '[..]lbuqid'
+  - inscription[n=3]:
+    - note[lg=eng-Latn]: 3
+    - p:
+      - brvãν III II aλiksãntruλ dãν eśś vãnaś es=k mrud
+      - atraśtalid timlelid ardẽc alarmś fadol vśtaś
+      - ak qis qisred fak=aś silavad fa=t nid ẽnsλibid ak=mλ
+      - levś sarẽtaś qis=it fẽnsλibid esλ vãnaλ
+      - buk esλ mruλ fak=mλ levś vcbaqẽnt
+  - inscription[n=4a]:
+    - note[lg=eng-Latn]: 4a
+    - p:
+      - eś aśinaś manelis alulis ak=mλ=t qis fẽnsλibid
+      - buk esνaν anlolaν buk
+      - esλ karolλ fak=mλ śãntaś
+      - kufav=k marivda=k
+      - ẽnsλibb[i]d
+  - inscription[n=4b]:
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
+    - p:
+      - eś vãnaś manelis
+      - alulis ak=mλ=t
+      - qis fẽnsλibid
+      - fak=mλ=t qλdãnś
+      - artymu=k vcbaqẽnt
+  - inscription[n=5]:
+    - note[lg=eng-Latn]: 5
+    - p:
+      - eśś vãnaś atalis tivdalis tarvτallis
+      - ak=in kud kaτaλres ak teśaśtid sivãmlid
+      - mλola śrfaśtid mẽλalid mλola ak nãqis
+      - ẽmλ kãnaλ kileλ buk ẽminaν eśaν citalad
+      - fadint fak=mλ artimuś qiraλ qelλ=k vcbaqẽnt
+  - inscription[n=6]:
+    - note[lg=eng-Latn]: 6
+    - p:
+      - eśś vãnaś sivãmlis armã-vlis
+      - ak=it qis esλ vãnaλ
+      - buk esνaν antolaν buk esν-aν
+      - laqrisaν fẽnsλibid
+      - fak=aν viśśis niviśścν
+      - varbtokid
+  - inscription[n=7]:
+    - note[lg=eng-Latn]: 7
+    - p:
+      - eśś vãnaś es=[k] laqrisa
+      - es=k qelad bavafunidν
+      - ak=it nãqis esλ vãnaλ bu[k]
+      - laqrisaν buk qelaλ
+      - fẽnsλbid fak=aν viśis
+      - niviścν varbtokid
+  - inscription[n=8]:
+    - note[lg=eng-Latn]: 8
+    - p:
+      - eśś vãnaś es=k mrud es
+      - laqris=k kud=k=it esλ
+      - '[vã]naλ bλtarvod ak=a[d]'
+      - '[...]'
+      - artabãnalid katoval-i
+      - =k atraśalid ak=it nãqis
+      - fẽnsλibid esλ vãnaλ
+      - buk esλ mruλ buk esν-aν
+      - laqrisaν kud=k=it
+      - esλ vãnaλ bλtarvod
+      - fak=aν viśśis niviścν
+      - varbtokid
+  - inscription[n=9]:
+    - note[lg=eng-Latn]: 9
+    - p:
+      - III
+      - eśś vãnaś kumlil-is
+      - atelis śam-[..]vlis
+      - laqris-a
+      - =k ak=i[t] nãqis
+      - fẽnsλ[ibid esλ]
+      - vãnaλ bu[k esνaν]
+      - laqrisa[ν fak=aν]
+      - '[viśś]is n[iviścν]'
+      - '[varbtokid]'
+  - inscription[n=10]:
+    - note[lg=eng-Latn]: 10
+    - p:
+      - es[t] mrud karoś katovalis bilλ
+      - vora[λ ka]ntrol katovaλ karolλ
+      - voraλ bλ [bili=k] iskubtoλ dum=mλ=is sellis
+      - veśfa=k voraś dacal
+      - est=it qid trodν sẽsvad qistoridν kaśtãν
+      - mruλ=it trodν fẽlla=k=in tamν trfãν
+      - f=aś katul fak=it mruλ=k ẽnsarbtat
+      - ak cẽnal nãrś qλ serś civνalis kaττadmẽś
+      - fak=m=it ẽnud ist katovalλ sadmẽλ
+      - fak=mś=ad amu kov civard kot
+      - sλẽcad laλẽnś [> civν fadofidν
+      - tavśẽν ak=um nãqid kol fak=m=it
+      - el eds vaśtνunlis qasaaś
+      - nãm qid kot aλtokad ak=mλ=ad
+      - sλẽcad qirad [> iśq=k=um qardoλcν
+      - facasidν fak=um ãn islodaλ
+      - alarmn kaśtaλcν kud nak
+      - ẽnaś amãś qed=m bis ẽtamν unadν
+      - ak ebad inãnidν śfarvad
+      - ak cẽnu ẽna=k taada=k sivetτis santoλ
+      - τ
+      - faśisa malãν nak kim ãs
+      - ẽnaλ=t bakivalλ mrud bśl
+      - esλ=it mr qis fẽnsλibid ak=aν viśśis
+      - niviścν varbtok
+  - inscription[n=11]:
+    - note[lg=eng-Latn]: 11
+    - p:
+      - est mruvaad saristrośλ śfarvad aśtrkoλ
+      - vãnτaś vicν areλ kaτared=k=mś iskoś
+      - aνiś qid=ad savν vratuλ arśτãnsrś kasnod
+      - kśbλtaλ=k=ś atrgolλ tafaaλ fabaλkol
+      - avkaν ẽtamν uved=m=aś varedtaλ śfatoś
+      - kot=aś cat qed=k=τ=ad cfiśad isaaλal umνod
+      - saristrośλ srkastuś katovalis śuλoś
+      - datrośis qaλmλad qis labtãnal atrokl
+      - śfarda=k artimuλ dãν caqrlaλ aśtrkoλ
+      - fak=iτ est inal adalλ aksaakmλ iskod
+      - vãnτa=k=t esνaν ifrol qis fakorfid katofn
+      - buk mruvaaλ fak=mλ=at=aν viśśis vaarś nid kantrod
+  - inscription[n=12]:
+    - note[lg=eng-Latn]: 12
+    - p:
+      - est mru sivãmlλ saroλ ẽntarfλod
+      - dum=(m)λ=is nid qaaslλ veśfaś alarmλ cavλoś
+      - ak=aν mλvẽsis vνisλ lẽν savkarbloś
+      - cinaλ qis qiraλ fẽtvintat tutrloλ
+      - nin=in nid qaaslis vãnaλ akτaλ favkufot
+      - iśaś il alarmś τeśaś kud=ãk islukol
+      - nir=at nãν sirmaλ ẽn ãn ismẽnlis śfatoś
+      - bili=k eśś śfatrτaś vroλt laafcν tulod
+      - kot lumbaaś dum=mλ=it kocvid niqasllλ tatrot
+      - nin linẽd vνisλ lẽν fẽntasẽnaν lafod
+  - inscription[n=13]:
+    - note[lg=eng-Latn]: 13
+    - p:
+      - il=im ãnas iśaś kud=m=ãk cẽnsidν alarmaś
+      - amu=k nãsi=k ẽmis istaminlis vśtaaś
+      - datrośis=k saryś nãν isqasãnvν qiraad
+      - kot=τ=in aśfã=k cesvν aśtrkot midaτad
+      - kud=τ=in atνãν nak fasivν afaλaλ=k
+      - nik=τ=aś bitat ul=τ=in koττiś tarblaś
+      - fak=τ=in davicil istaminlaν qiraaλ
+      - ẽna=t faśfẽnvν lẽm=k τaλalaν aνatν
+      - ak=ad vratoś aśẽmλ votlλ tarbτad
+      - '[...]ẽν siτẽnit kot=τ=in kocvid kancat'
+      - '[......]ãn τẽnvν ni=τ=in vratoś sikimλaν'
+      - '[.......]śtolν qedna=k volν kibτad'
+      - '[..............]aśẽmis eλoś iślaaś'
+  - inscription[n=14]:
+    - note[lg=eng-Latn]: 14
+    - p:
+      - mru=m=it baal dum=is qλ[......]ś factot
+      - aśtrkota=k savtaarś eλf=k....]λa=k taśo=k
+      - nã=m baλτaś ist savkorfλ[...sav]taarλ=k arktoλ
+      - fak=m=at τeλmdaν śνãλaν ẽ[......]śakoś
+      - caqrlãν ak=um adẽnν a[......a]larmlν ẽtolt
+      - faśqν niqaaslad ak=m ciraλad iskod
+      - istaν qλaśtãnu ni=k mrslaś sitarfλoś
+      - dã=k=um est siqr[ ]saralλ taktod
+      - kot=iś famrasidν[     ] qiraλ ẽnvνatoλ=k
+      - lẽmś=um taada[     ] eśt kaτfλads qλ śatrot
+      - ãnś qλ nśa[ ]ararmś facato[.]
+      - kibτama[ ]ankãν[...]śtrol
+      - qaλm=k c[     ] fa=m qiraλ [.....]trol
+      - umν=it [    ] otraν adalλ fartol
+      - '[...]ś[     ] tartaś fak=m=is col'
+      - '[      ]fa=mλ=ad taadaś ẽntrol'
+      - '[     ] facatil kukok'
+      - '[    ]sid fabad ẽnτavλoλ'
+      - '[       ]s sivraλaλ karftoś'
+  - inscription[n=15]:
+    - note[lg=eng-Latn]: 15
+    - p:
+      - '[    ]mλiλś nid kafolcν fadil'
+      - '[     ] kolcis tarblaś fẽnanil'
+      - '[     ]śtil ãnś kocvid qis tfil'
+      - '[     ]kud=ãk fasivλidν'
+      - '[    ]τad tarblatil mari[..]'
+      - '[     ]is irẽnν sanil'
+      - '[     ]mtν fistrovν a[..]'
+      - '[     ]qelqil siviś'
+      - '[     ]vãnaλ ba[    ]'
+      - '[    ]caqr[    ]'
+  - inscription[n=16]:
+    - note[lg=eng-Latn]: 16
+    - p:
+      - '[...eśś v]ãnaś tivdalis [...]'
+      - '[...]λmlis borlλ ś[...]'
+      - '[...qa]λmλuλ dãν[...]'
+      - '[...]alarmś sidλ[...]'
+      - '[...]ẽl[...]'
+  - inscription[n=17]:
+    - note[lg=eng-Latn]: 17
+    - p:
+      - '[...siv]ãmlis ak=it qis'
+      - '[...esνa]ν anlolaν fẽnsλib[id]'
+      - '[...katsa]rlokid ẽna=k=mλ[...]'
+  - inscription[n=18]:
+    - note[lg=eng-Latn]: 18
+    - p:
+      - '[...]'
+      - e. vãnaν qisredν ni=m=it fẽnsλi[bid]
+      - ak=mś=in śof
+  - inscription[n=19]:
+    - note[lg=eng-Latn]: 19
+    - p:
+      - '[...]'
+      - fẽnsλibid bi[...]
+      - fẽncãν bi[...]
+      - fak[...]
+  - inscription[n=20]:
+    - note[lg=eng-Latn]: 20
+    - p:
+      - nannaś bakivalis artimuλ
+  - inscription[n=21]:
+    - note[lg=eng-Latn]: 21
+    - p:
+      - '[m]an[e]ś bakivalis mane[lis(?)] artim[uλ(?)]'
+  - inscription[n=22]:
+    - note[lg=eng-Latn]: 22
+    - p:
+      - est mrud śfardẽnτ facνiris mλimnaś vicν
+      - dum=mś ebad favnẽris amẽd śfardẽtλ aśtrkoλ
+      - mλatalad mλimnś aλidad viśvid kaττirś
+      - fak śfardẽta=k ãn katvνẽl ãnad fẽntasẽnaν
+      - nãqid=a mλimnś ist śfarλ iitλ ak=mś aλidad
+      - viśvid kaττivν kot=it cidaλmdaν ẽnvaλaλ
+      - vaśtνun=k=mś niqeśi=k dẽt datroś=k=mś qeśis
+      - cẽntλ mλimnaν savν śfardẽtaν ak=mś=ad
+      - sivraλMis artimul kaττirś kave=k bakillis
+      - armτa=k qid=a iitλ mλimnś ist śfarλ ak=mś
+      - irduν sivraλmis artimul kaττirś ak=ad
+      - sivraλmis artimul aśfãν cẽqraλ qiraλ
+      - taqtulãt ak=mś=aś aśfãν vcbinvν śfardẽti=k
+      - aśtrkoś mλimlλ nãku=kod fakatvãmid ak qed
+      - aλidad taśod ak=mλ=ad inãnt
+  - inscription[n=23]:
+    - note[lg=eng-Latn]: 23
+    - p:
+      - eśś syrmaś qλdãnl artimuλ=k dacuverś=t
+      - vintaś ak=it esλ sirmaλ qys fẽnsλibid
+      - niviścν fak=mλ=it=in qλdãnś tavśaś
+      - artimu=k ibśimsis katsarlokid brvã=ś
+      - III II dãν ãnτẽt mitridastaś mitratalis
+      - kaveś citoλś buk afariś qλ dẽt amudãν
+      - ak=m=aν brafrsis brafrlλ savtarid fa=kud
+      - amu ovν ak=it qed faśfẽnu ak=at qλ fakantrov
+      - ak=mλ=is qis citollad bitad
+      - fak=mλ=t=in qλdãn=k artimu=k katsarlokid
+      - buλ bilλ=k arlyllλ qyraλ ẽtverś=k=in
+      - saroka=k esνaν civaν nikumẽk
+      - savẽnt ni=k bis ni=k bilis arlyllis
+      - qys=k amu=k=it qyd faśfẽnu ak=at
+      - bavafuλ selλ=k kantoru aλaλ nid
+      - qλ=k bλesa=k dẽt tafaaś aλaś
+      - ak=it ed=ko=k ẽtqratad kot=ad amu
+      - mitridastaś fẽtamνidν ak=ś qis
+      - ẽmν ẽtamν uν favcνaśod buk in
+      - mẽtrid buk bidẽν qi=k int ak=mλ=i[s]
+      - qed ẽnud ẽtamś uν ak=ad artimuś
+      - biferś=t
+  - inscription[n=24]:
+    - note[lg=eng-Latn]: 24
+    - p:
+      - ãnτẽt mitridastaś mitra[talis]
+      - kaveś nak amu katosν faov
+      - ak=it nãqid serlis srmlis
+      - amu fadifil buk=τ=ad amudãν
+      - fak[.]nal buk=mλ=ad amu bitocν
+      - bidν qed=k=mλ aλad fẽtamνidν
+      - ak=mλ=is qis citollad bitaad
+      - buk=mλ=is fakarsed qi=k buk=mλ=a[d]
+      - fabuverftaλ buk=mλ=it basνśak-
+      - νãkid niviślλ qelλ=k buk
+      - mẽtlid buk bidẽν qi=k int
+      - fak=mλ=it artimuś ibśimsis
+      - katsarlokid bλ bilλ=k arlilλ
+      - qiraλ artimuλ=k=in ẽtversn
+      - saroka=k nikumẽk savẽnt ni=k
+      - bis ni=k bil śfẽnis serli=k srmlis
+      - ãnτẽt nak amu mitridastaλ=ś
+      - katosν faov ak=it amu nãqid
+      - faśfẽnu nak aaraν nak bira=k
+      - '[n]ak dẽtν ẽmν ak=at amu mitridas[taλ]'
+      - '[ka]veλ kantoru savvaśτal ak=mλ'
+      - '[aλaś] nid qis=k dẽt ifrlis mitridasta[.]'
+      - '[...(15)..(?)b]itad mitridastaś [...]'
+  - inscription[n=25]:
+    - note[lg=eng-Latn]: 25
+    - p:
+      - '[    ]is ta[    ]'
+      - '[   kat]ovalis man[    ]'
+      - '[    k]arolis tivd[    ]'
+      - '[    k]arolis ma[    ]'
+      - '[   ar]timulis [    ]'
+      - '[    ]is m[    ]'
+  - inscription[n=26]:
+    - note[lg=eng-Latn]: 26
+    - p:
+      - eś sadmẽś es=k mrud alikrelid karol[id(?)] anlali=k atraśt[alid(?)]
+      - kaveś lamẽtrulis qis alikamśo=k bilis [ti]vdalis atalid a[k=it]
+      - '[esλ s]admẽλ buk esλ mruλ buk esνaν maśtãν qis fẽn[sλibid   ]'
+      - '[    ]lamẽtruś [....] sa[dmẽ]λ artimu=k aśbluvaś viś[        ]'
+  - inscription[n=27]:
+    - note[lg=eng-Latn]: 27
+    - p:
+      - '[...]'
+      - '[   ]ẽrblocimλ'
+      - '[    ]il karo=k=it ẽndiblint'
+      - '[    ]ocν iraν cuλdalẽλ taacdaν bimirś śfarda=k'
+  - inscription[n=28]:
+    - note[lg=eng-Latn]: 28
+    - p:
+      - '[    ]ftellis kaveś inl'
+  - inscription[n=29]:
+    - note[lg=eng-Latn]: 29
+    - p:
+      - '[   ]ud'
+      - '[   ]re'
+  - inscription[n=30]:
+    - note[lg=eng-Latn]: 30
+    - p:
+      - 'titiś=in : ẽmν : tiśardν : fabil'
+      - 'ataλ : kitvaλ'
+  - inscription[n=31]:
+    - note[lg=eng-Latn]: 31
+    - p:
+      - śaśa
+  - inscription[n=32]:
+    - note[lg=eng-Latn]: 32
+    - p:
+      - '[    ]ralulis kardal'
+  - inscription[n=33]:
+    - note[lg=eng-Latn]: 33
+    - p:
+      - mivad
+  - inscription[n=34]:
+    - note[lg=eng-Latn]: 34
+    - p:
+      - eg
+  - inscription[n=35]:
+    - note[lg=eng-Latn]: 35
+    - p:
+      - cm
+  - inscription[n=36]:
+    - note[lg=eng-Latn]: 36
+    - p:
+      - .ru
+  - inscription[n=37]:
+    - note[lg=eng-Latn]: 37
+    - p:
+      - art f
+  - inscription[n=38]:
+    - note[lg=eng-Latn]: 38
+    - p:
+      - ly
+  - inscription[n=39]:
+    - note[lg=eng-Latn]: 39
+    - p:
+      - tiv
+  - inscription[n=40]:
+    - note[lg=eng-Latn]: 40
+    - p:
+      - esν taśẽν acνil
+      - bartaraś śa.it
+  - inscription[n=41]:
+    - note[lg=eng-Latn]: 41
+    - p:
+      - borlλ X III III arta[kśass-]aλ
+      - qaλmλuλ dãν
+      - oraλ kanlalaλ karo[..]
+      - trolλ vrauλ artimulλ
+      - esν tacn bantakaśa[ś]
+      - abrnalis kãna=k bil[is]
+      - '[.]ret=k aśaν qaλem[   ]'
+  - inscription[n=42]:
+    - note[lg=eng-Latn]: 42
+    - p:
+      - borlλ XI ora[λ ...]
+      - qaλmλuλ dãν es[...]
+      - '[..]roś artimal[is...]'
+      - '[k]ãna=k ak=mλ [qis ...]'
+      - buλ=k bil=k śfẽnaν [...]
+      - es=k=iś labta qis fẽn[...]
+      - '[......]vad ak ẽnaλ[...]'
+  - inscription[n=43]:
+    - note[lg=eng-Latn]: 43
+    - p:
+      - brvãν II dãν
+      - oraλ kanlelaλ
+      - vartraluλ esν tacν
+      - maneś bẽtovlis
+      - facunil cẽqrad
+      - '[.]aλidẽnl bar[..]'
+  - inscription[n=44]:
+    - note[lg=eng-Latn]: 44
+    - p:
+      - '[...(18)...]ẽtsa[...(8)...]'
+      - trismν adẽnν satiś um cak trfnod
+      - lavl arśmavad[...(11)...] asnãntol sok[   ]
+      - irẽλ k[..]ar[...(11)...]qλ dakrod qiro[   ]
+      - civad armird[...(9)...]tid fatros volk[   ]
+      - es[...(12)...]s[..]seds fedtroś qis[   ]
+      - ẽminas[...(18)...]τol siva[   ]
+      - fara[...(23)...]                      brafr[   ]
+      - le[...(28)...]nod fatrol[   ]
+      - a[...(30)...]
+      - ed[...(24)...]lokτ
+      - etlaλ[.......] fẽtvinteλ aśturkoś
+      - eds=in sub[..]taν istamin nid fatrod
+      - ed=t=in kumlolλ b[.]rsfantuś fasνo[d]
+      - ẽnν batnẽds fatinẽd tẽtr[o.]
+      - qis faśaknakil buk=t aλẽλ[o.]
+      - edλ=t=in niviśva civs f[..]
+      - dumν=um arś[...]
+  - inscription[n=45]:
+    - note[lg=eng-Latn]: 45
+    - p:
+      - '[...]'
+      - '[...]ś fẽntrol'
+      - '[...]aśolλ faτaν'
+      - '[r]aval fak=mλ śanẽν inal'
+      - ak=it esλ taacλ qis fẽnsλibid
+  - inscription[n=46]:
+    - note[lg=eng-Latn]: 46
+    - p:
+      - '[..]k sibad śak[...a]λad dẽt nid'
+      - fasabid qi[s] bidẽν fratinid
+      - buv=aś fisfid [.]st ak=τ=in asraν
+      - artimu=k sava[...]
+      - tanlaλ b[...]
+      - buk=[i]t [...]
+      - '[.]ivard ak=a[d...]'
+      - visi[...]
+  - inscription[n=47]:
+    - note[lg=eng-Latn]: 47
+    - p:
+      - '[.....]qa[...(15)...]a[...(20)...]a'
+      - brafraν laduvad intiśtcν tin[.]ν τaλad fasitamra[...]
+  - inscription[n=48]:
+    - note[lg=eng-Latn]: 48
+    - p:
+      - '[    ]is inl'
+  - inscription[n=49]:
+    - note[lg=eng-Latn]: 49
+    - p:
+      - lẽKqug i
+      - aluś=mretlis=ul
+  - inscription[n=50]:
+    - note[lg=eng-Latn]: 50
+    - p:
+      - forlλ XII oraλ kanlelaλ
+      - '[...]tralaλ aλiksantruλ'
+      - '[q]aλmλuλ dãν esn taacn'
+      - timleś brdunlis fẽncal
+      - lefś=tλ faτaν raval ak=mλ
+      - '[?]aśaãν bill ak=mλ lefś'
+      - sarẽtaś/saretaś
+  - inscription[n=51]:
+    - note[lg=eng-Latn]: 51
+    - p:
+      - bakivalid
+      - samlid
+  - inscription[n=52]:
+    - note[lg=eng-Latn]: 52
+    - p:
+      - valvel
+  - inscription[n=53]:
+    - note[lg=eng-Latn]: 53
+    - p:
+      - nteś ntś (??)
+  - inscription[n=54]:
+    - note[lg=eng-Latn]: 54
+    - p:
+      - '[e]s anlola atraśtal'
+      - śakardal ak=ad qis fisqãnt
+      - buk=aś fẽdanoλt fak=τ=ad
+      - kabrdokid nã=mλ qi=g dẽt
+      - nã=k=mλ [...]clλ ak=ad
+      - artimuλ ibśimlλ fẽncãν
+  - inscription[n=55]:
+    - note[lg=eng-Latn]: 55
+    - p:
+      - manel=im
+  - inscription[n=56]:
+    - note[lg=eng-Latn]: 56
+    - p:
+      - manel=im
+  - inscription[n=57]:
+    - note[lg=eng-Latn]: 57
+    - p:
+      - '[   ]rlam[  ]'
+  - inscription[n=58]:
+    - note[lg=eng-Latn]: 58
+    - p:
+      - ']eśivśis /['
+  - inscription[n=59]:
+    - note[lg=eng-Latn]: 59
+    - p:
+      - borlλ d or[aλ...]
+      - '[...] qaλmλ[uλ...]'
+  - inscription[n=60]:
+    - note[lg=eng-Latn]: 60
+    - p:
+      - esλ[...]
+      - fa[...]
+      - fa[...]
+  - inscription[n=61]:
+    - note[lg=eng-Latn]: 61
+    - p:
+      - '[...]valis ak=aν qi[s...]'
+  - inscription[n=62]:
+    - note[lg=eng-Latn]: 62
+    - p:
+      - '[...]'
+      - '[.]rd.aś dẽt qaλmu=k vard['
+      - qaλdãnlid ak sabλaλ qira[
+      - taλ dãν dẽt litaś qira[
+      - '[?]śarsecν mursucν aτλed=m=aś['
+      - esn qaλdãl ãn civlad [
+      - '[  ]t tim[  ] ak=m.[?] qa['
+  - inscription[n=63]:
+    - note[lg=eng-Latn]: 63
+    - p:
+      - ']lis ['
+      - ']sima.['
+  - inscription[n=64]:
+    - note[lg=eng-Latn]: 64
+    - p:
+      - ']kãλ : labλ : vrit['
+      - τakm[
+  - inscription[n=65]:
+    - note[lg=eng-Latn]: 65
+    - p:
+      - qis=m[
+  - inscription[n=66]:
+    - note[lg=eng-Latn]: 66
+    - p:
+      - ']alis at['
+      - ']k art['
+  - inscription[n=67]:
+    - note[lg=eng-Latn]: 67
+    - p:
+      - ve (??)
+  - inscription[n=68]:
+    - note[lg=eng-Latn]: 68
+    - p:
+      - ']. kun...['
+  - inscription[n=69]:
+    - note[lg=eng-Latn]: 69
+    - p:
+      - rkalim (?)
+  - inscription[n=70]:
+    - note[lg=eng-Latn]: 70
+    - p:
+      - eś sadmẽś os=k anlola[...(6)...]
+      - ar[tim]ul ak=it esλ sa[dmẽλ ...]
+  - inscription[n=71]:
+    - note[lg=eng-Latn]: 71
+    - p:
+      - '...] s ['
+      - '...ser]lis srmli[s]'
+      - '...]. artakśa.'
+      - '...]vãnaλ dã[ν]'
+      - '...]bisfat.[?]'
+      - '...]| brullis[?]'
+      - '...]rolis aλa[?]'
+  - inscription[n=72]:
+    - note[lg=eng-Latn]: 72
+    - p:
+      - ']s kuvav['
+  - inscription[n=73]:
+    - note[lg=eng-Latn]: 73
+    - p:
+      - manel=im
+  - inscription[n=74]:
+    - note[lg=eng-Latn]: 74
+    - p:
+      - 'eś sadmẽś : mitratalis'
+  - inscription[n=75]:
+    - p:
+      - foreign[lg=eng-Latn]: (?)
+      - sivãml=im ate-lis
+  - inscription[n=76]:
+    - p:
+      - foreign[lg=eng-Latn]: (?)
+      - taful=im
+  - inscription[n=78]:
+    - p:
+      - foreign[lg=eng-Latn]: (?)
+      - nanaś
+  - inscription[n=79]:
+    - note[lg=eng-Latn]: 79
+    - p:
+      - '[...]'
+      - ś]ãntaλ [?
+      - ']talid [?'
+  - inscription[n=80]:
+    - note[lg=eng-Latn]: 80
+    - p:
+      - '[a]larmś bis fa=t=is[?].['
+      - '[.]aarcrś il amito['
+      - fak=ad τorśa istro.[
+      - bλ=k=in ãn savls dẽt[
+      - iśqν śfẽnis tavśẽν m[
+      - fak=mλ=it niqaslad if.[
+      - akτaś avladλ faśqν nśa.[
+      - ẽnarn nãnś kãns cẽnit ka[
+      - kãna=k=aν ãn kimλad nãn[
+      - kot=aν isfollad borfcν a[
+      - qrifrit qλ fakanśfẽnal τa[
+      - tẽmvaν tutra=k bślẽν taada[
+      - fak=mλ ebad murvaad esλ ś[
+      - aśfãν avladis anãtlλ t[
+      - qic=mλ=aś saristrośś bu.[
+      - '[..]t=k=aś fasitavad ẽtqra['
+      - '[...t]aśod na=k=iś qic=k is['
+      - '[...(8)...] baritod dum['
+      - '[...]ẽ[...'
+  - inscription[n=81]:
+    - note[lg=eng-Latn]: 81
+    - p:
+      - badi[...(6)...]l
+  - inscription[n=82]:
+    - note[lg=eng-Latn]: 82
+    - p:
+      - ']lma['
+  - inscription[n=83]:
+    - note[lg=eng-Latn]: 83
+    - p:
+      - ']uli[s(?)'
+  - inscription[n=84]:
+    - note[lg=eng-Latn]: 84
+    - p:
+      - ']ulis['
+  - inscription[n=85]:
+    - note[lg=eng-Latn]: 85
+    - p:
+      - '] va ['
+  - inscription[n=86]:
+    - note[lg=eng-Latn]: 86
+    - p:
+      - ']. ka ['
+  - inscription[n=87]:
+    - note[lg=eng-Latn]: 87
+    - p:
+      - ']ma['
+  - inscription[n=88]:
+    - note[lg=eng-Latn]: 88
+    - p:
+      - '] ba ['
+  - inscription[n=89]:
+    - note[lg=eng-Latn]: 89
+    - p:
+      - ']uk['
+  - inscription[n=90]:
+    - note[lg=eng-Latn]: 90
+    - p:
+      - ']ma['
+  - inscription[n=91]:
+    - note[lg=eng-Latn]: 91
+    - p:
+      - '] ba['
+  - inscription[n=92]:
+    - note[lg=eng-Latn]: 92
+    - p:
+      - ']min['
+  - inscription[n=93]:
+    - note[lg=eng-Latn]: 93
+    - p:
+      - art
+  - inscription[n=94]:
+    - note[lg=eng-Latn]: 94
+    - p:
+      - '].a.ś'
+  - inscription[n=95]:
+    - note[lg=eng-Latn]: 95
+    - p:
+      - tetel=im
+  - inscription[n=96]:
+    - note[lg=eng-Latn]: 96
+    - p:
+      - ']vmś'
+  - inscription[n=97]:
+    - note[lg=eng-Latn]: 97
+    - p:
+      - '?]unaν : eś : śdi.['
+  - inscription[n=98]:
+    - note[lg=eng-Latn]: 98
+    - p:
+      - śil[ ]karol
+      - ar[ti]mal=k
+  - inscription[n=99]:
+    - note[lg=eng-Latn]: 99
+    - p:
+      - '[bra]vrsis bil ['
+  - inscription[n=100]:
+    - note[lg=eng-Latn]: 100
+    - p:
+      - ']urdo['
+  - inscription[n=101]:
+    - note[lg=eng-Latn]: 101
+    - p:
+      - '[...(7)...m]anelis'
+      - '[...(7)...]is inal'
+  - inscription[n=102]:
+    - p:
+      - foreign[lg=eng-Latn]: (?)
+      - ośflś
+  - inscription[n=103]:
+    - note[lg=eng-Latn]: 103
+    - p:
+      - '] srkastulis śf[ardẽt...'
+  - inscription[n=104]:
+    - p:
+      - foreign[lg=eng-Latn]: (?)
+      - artymal=im
+  - inscription[n=105]:
+    - p:
+      - foreign[lg=eng-Latn]: (?)
+      - laś.ẽ
+  - inscription[n=106]:
+    - p:
+      - foreign[lg=eng-Latn]: (?)
+      - miλaś
+  - inscription[n=107]:
+    - note[lg=eng-Latn]: 107
+    - p:
+      - ']lefś=tλ ba.['
+  - inscription[n=108]:
+    - note[lg=eng-Latn]: 108
+    - p:
+      - '[e]śś vanaś bakiv[alis]'
+      - '[...]mi.ãlis ba.[....]'
+      - '[.....] vśtãś avsi.[....]'
+      - '[ak e]sλ vãnaλ q[is?]'
+      - '[fẽnsλ]ifid buk es[λ]'
+      - '[...]'
+  - inscription[n=109]:
+    - note[lg=eng-Latn]: 109
+    - p:
+      - śo.[
