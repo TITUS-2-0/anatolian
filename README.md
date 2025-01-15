@@ -1,0 +1,16 @@
+# Anatolian
+[![TEI validation](https://github.com/TITUS-2-0/anatolian/actions/workflows/validate.yaml/badge.svg?branch=main)](https://github.com/TITUS-2-0/anatolian/actions/workflows/validate.yaml)
+## Datasets
+| id    | language   |   lng_id | titus                                                                                                                          | issue                                                      | status         |
+|:------|:-----------|---------:|:-------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------|:---------------|
+| cthin |            |     1001 | [Corpus of Hittite Mythological Texts - Index](http://titus.uni-frankfurt.de/texte/etcs/anatol/hittite/cthin/cthin.htm)        | -                                                          | 🟨 in progress |
+| lydco |            |     1006 | [Lydian Corpus](http://titus.uni-frankfurt.de/texte/etcs/anatol/lydian/lydco.htm)                                              | [discuss](https://github.com/TITUS-2-0/anatolian/issues/1) | 🟨 in progress |
+| lycco |            |     1007 | [Lycian Corpus](http://titus.uni-frankfurt.de/texte/etcs/anatol/lycian/lycco.htm)                                              | -                                                          | 🟨 in progress |
+| pisdc |            |     1005 | [Pisidian Corpus](http://titus.uni-frankfurt.de/texte/etcs/anatol/pisidic/pisdc.htm)                                           | -                                                          | 🟨 in progress |
+| hittc |            |     1001 | [Hittite Corpus](http://titus.uni-frankfurt.de/texte/etcc/anatol/hittite/hittcorp/hittc.htm)                                   | -                                                          | 🟥 pending     |
+| ohitt |            |     1001 | [Old Hittite Corpus](http://titus.uni-frankfurt.de/texte/etcc/anatol/hittite/ohittcrp/ohitt.htm)                               | -                                                          | 🟥 pending     |
+| luvco |            |     1002 | [Luvian Corpus](http://titus.uni-frankfurt.de/texte/etcc/anatol/luvian/luvco.htm)                                              | -                                                          | 🟥 pending     |
+| carco |            |     1009 | [Carian Corpus](http://titus.uni-frankfurt.de/texte/etcc/anatol/carian/carco.htm)                                              | -                                                          | 🟥 pending     |
+| palco |            |     1003 | [Palaic Corpus](http://titus.uni-frankfurt.de/texte/etcc/anatol/palaic/palco.htm)                                              | -                                                          | 🟥 pending     |
+| cthtx |            |     1001 | [Corpus of Hittite Mythological Texts - Text Edition](http://titus.uni-frankfurt.de/texte/etcs/anatol/hittite/cthtx/cthtx.htm) | -                                                          | 🟥 pending     |
+| cthtr |            |     1001 | [Corpus of Hittite Mythological Texts - Translation](http://titus.uni-frankfurt.de/texte/etcs/anatol/hittite/cthtr/cthtr.htm)  | -                                                          | 🟥 pending     |
