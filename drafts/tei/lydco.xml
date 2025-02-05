@@ -28,10 +28,12 @@
 	<text>
 		<body>
 			<div n="1" xml:id="inscription-1" type="inscription" data-level="1">
-				<note xml:id="inscription-1-note-1" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-1-note-1-placeName-1">Sardes</placeName>
-				</note>
-				<p xml:id="inscription-1-p-1" xml:lang="arc-Latn-x-transliterated">
+				<p xml:id="inscription-1-p-1">
+					<note xml:id="inscription-1-p-1-note-1" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-1-p-1-note-1-placeName-1">Sardes</placeName>
+					</note>
+				</p>
+				<p xml:id="inscription-1-p-2" xml:lang="arc-Latn-x-transliterated">
 					<lb n="1" />B 5 L-MRḤŠWN ŠNT 10 ՚RTḤŠSŠ MLK՚<lb n="2" />B-SPRD B-YRT՚ ZNH STWN՚ W-MՙRT՚ DRḤT՚
 <lb n="3" />՚TRT՚ W-PRBR ZY ՙL SPRB ZNH PRBR-H ՚ḤR
 <lb n="4" />ZY MNY BR KMLY SRWKY՚ W-MN ZY ՙL STWN՚ ZNH ՙW
@@ -39,7 +41,7 @@
 <lb n="6" />ZNH ՚ḤR MN ZY YḤBL ՚W YPRK MNDՙM ՚ḤR
 <lb n="7" />՚RTMW ZY KLW W-՚PŠŠY TRBṢ-H BYT-H
 <lb n="8" />QNYN-H ṬYN W-MYN W-MNDՙMT-H YBDRWN-H W-YRT-H</p>
-				<p xml:id="inscription-1-p-2">
+				<p xml:id="inscription-1-p-3">
 					<lb n="9" />...<lb n="10" />[o]raλ islλ bakillλ est mrud eśś=k [vãnaś]
 <lb n="11" />laqrisa=k qela=k kud=k=it ist esλ vãn[aλ]
 <lb n="12" />bλtarvod ak=ad manelid kumlilid silukalid ak=it n[ãqis]
@@ -50,11 +52,12 @@
 <lb n="17" />kλidaλ kofuλ=k qiraλ qelλ=k bilλ vcbaqẽnt</p>
 			</div>
 			<div n="2" xml:id="inscription-2" type="inscription" data-level="1">
-				<note xml:id="inscription-2-note-2" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-2-note-2-placeName-2">Sardes</placeName>
-				</note>
-				<p xml:id="inscription-2-p-3">
-					<lb n="18" />[b]orlλ X III II oraλ cuvellλ artakśassaλ=ś<lb n="19" />[q]aλmλuλ dãν eśś vãnaś mru=k bλasokiτ
+				<p xml:id="inscription-2-p-4">
+					<note xml:id="inscription-2-p-4-note-2" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-2-p-4-note-2-placeName-2">Sardes</placeName>
+					</note>
+					<lb n="18" />[b]orlλ X III II oraλ cuvellλ artakśassaλ=ś
+<lb n="19" />[q]aλmλuλ dãν eśś vãnaś mru=k bλasokiτ
 <lb n="20" />qid kataνil laqrisa=k=in qid ẽtośrś ak=ad
 <lb n="21" />karolid sabλalid iśtubeλmlid ak=t=in
 <lb n="22" />nãqis fẽnsλibid esνaν mλvẽndaν iskon
@@ -68,73 +71,80 @@
 <lb n="30" />[..]lbuqid</p>
 			</div>
 			<div n="3" xml:id="inscription-3" type="inscription" data-level="1">
-				<note xml:id="inscription-3-note-3" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-3-note-3-placeName-3">Sardes</placeName>
-				</note>
-				<p xml:id="inscription-3-p-4">
-					<lb n="31" />brvãν III II aλiksãntruλ dãν eśś vãnaś es=k mrud<lb n="32" />atraśtalid timlelid ardẽc alarmś fadol vśtaś
+				<p xml:id="inscription-3-p-5">
+					<note xml:id="inscription-3-p-5-note-3" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-3-p-5-note-3-placeName-3">Sardes</placeName>
+					</note>
+					<lb n="31" />brvãν III II aλiksãntruλ dãν eśś vãnaś es=k mrud
+<lb n="32" />atraśtalid timlelid ardẽc alarmś fadol vśtaś
 <lb n="33" />ak qis qisred fak=aś silavad fa=t nid ẽnsλibid ak=mλ
 <lb n="34" />levś sarẽtaś qis=it fẽnsλibid esλ vãnaλ
 <lb n="35" />buk esλ mruλ fak=mλ levś vcbaqẽnt</p>
 			</div>
 			<div n="4a" xml:id="inscription-4" type="inscription" data-level="1">
-				<note xml:id="inscription-4-note-4" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-4-note-4-placeName-4">Sardes</placeName>
-				</note>
-				<p xml:id="inscription-4-p-5">
-					<lb n="36" />eś aśinaś manelis alulis ak=mλ=t qis fẽnsλibid<lb n="37" />buk esνaν anlolaν buk
+				<p xml:id="inscription-4-p-6">
+					<note xml:id="inscription-4-p-6-note-4" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-4-p-6-note-4-placeName-4">Sardes</placeName>
+					</note>
+					<lb n="36" />eś aśinaś manelis alulis ak=mλ=t qis fẽnsλibid
+<lb n="37" />buk esνaν anlolaν buk
 <lb n="38" />esλ karolλ fak=mλ śãntaś
 <lb n="39" />kufav=k marivda=k
 <lb n="40" />ẽnsλibb[i]d</p>
 			</div>
 			<div n="4b" xml:id="inscription-5" type="inscription" data-level="1">
-				<note xml:id="inscription-5-note-5" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-5-note-5-placeName-5">Sardes</placeName>
-				</note>
-				<p xml:id="inscription-5-p-6">
-					<lb n="41" />eś vãnaś manelis<lb n="42" />alulis ak=mλ=t
+				<p xml:id="inscription-5-p-7">
+					<note xml:id="inscription-5-p-7-note-5" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-5-p-7-note-5-placeName-5">Sardes</placeName>
+					</note>
+					<lb n="41" />eś vãnaś manelis
+<lb n="42" />alulis ak=mλ=t
 <lb n="43" />qis fẽnsλibid
 <lb n="44" />fak=mλ=t qλdãnś
 <lb n="45" />artymu=k vcbaqẽnt</p>
 			</div>
 			<div n="5" xml:id="inscription-6" type="inscription" data-level="1">
-				<note xml:id="inscription-6-note-6" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-6-note-6-placeName-6">Sardes</placeName>
-				</note>
-				<p xml:id="inscription-6-p-7">
-					<lb n="46" />eśś vãnaś atalis tivdalis tarvτallis<lb n="47" />ak=in kud kaτaλres ak teśaśtid sivãmlid
+				<p xml:id="inscription-6-p-8">
+					<note xml:id="inscription-6-p-8-note-6" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-6-p-8-note-6-placeName-6">Sardes</placeName>
+					</note>
+					<lb n="46" />eśś vãnaś atalis tivdalis tarvτallis
+<lb n="47" />ak=in kud kaτaλres ak teśaśtid sivãmlid
 <lb n="48" />mλola śrfaśtid mẽλalid mλola ak nãqis
 <lb n="49" />ẽmλ kãnaλ kileλ buk ẽminaν eśaν citalad
 <lb n="50" />fadint fak=mλ artimuś qiraλ qelλ=k vcbaqẽnt</p>
 			</div>
 			<div n="6" xml:id="inscription-7" type="inscription" data-level="1">
-				<note xml:id="inscription-7-note-7" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-7-note-7-placeName-7">Sardes</placeName>
-				</note>
-				<p xml:id="inscription-7-p-8">
-					<lb n="51" />eśś vãnaś sivãmlis armã-vlis<lb n="52" />ak=it qis esλ vãnaλ
+				<p xml:id="inscription-7-p-9">
+					<note xml:id="inscription-7-p-9-note-7" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-7-p-9-note-7-placeName-7">Sardes</placeName>
+					</note>
+					<lb n="51" />eśś vãnaś sivãmlis armã-vlis
+<lb n="52" />ak=it qis esλ vãnaλ
 <lb n="53" />buk esνaν antolaν buk esν-aν
 <lb n="54" />laqrisaν fẽnsλibid
 <lb n="55" />fak=aν viśśis niviśścν
 <lb n="56" />varbtokid</p>
 			</div>
 			<div n="7" xml:id="inscription-8" type="inscription" data-level="1">
-				<note xml:id="inscription-8-note-8" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-8-note-8-placeName-8">Sardes</placeName>
-				</note>
-				<p xml:id="inscription-8-p-9">
-					<lb n="57" />eśś vãnaś es=[k] laqrisa<lb n="58" />es=k qelad bavafunidν
+				<p xml:id="inscription-8-p-10">
+					<note xml:id="inscription-8-p-10-note-8" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-8-p-10-note-8-placeName-8">Sardes</placeName>
+					</note>
+					<lb n="57" />eśś vãnaś es=[k] laqrisa
+<lb n="58" />es=k qelad bavafunidν
 <lb n="59" />ak=it nãqis esλ vãnaλ bu[k]
 <lb n="60" />laqrisaν buk qelaλ
 <lb n="61" />fẽnsλbid fak=aν viśis
 <lb n="62" />niviścν varbtokid</p>
 			</div>
 			<div n="8" xml:id="inscription-9" type="inscription" data-level="1">
-				<note xml:id="inscription-9-note-9" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-9-note-9-placeName-9">Sardes</placeName>
-				</note>
-				<p xml:id="inscription-9-p-10">
-					<lb n="63" />eśś vãnaś es=k mrud es<lb n="64" />laqris=k kud=k=it esλ
+				<p xml:id="inscription-9-p-11">
+					<note xml:id="inscription-9-p-11-note-9" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-9-p-11-note-9-placeName-9">Sardes</placeName>
+					</note>
+					<lb n="63" />eśś vãnaś es=k mrud es
+<lb n="64" />laqris=k kud=k=it esλ
 <lb n="65" />[vã]naλ bλtarvod ak=a[d]
 <lb n="66" />[...]
 <lb n="67" />artabãnalid katoval-i
@@ -147,11 +157,12 @@
 <lb n="74" />varbtokid</p>
 			</div>
 			<div n="9" xml:id="inscription-10" type="inscription" data-level="1">
-				<note xml:id="inscription-10-note-10" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-10-note-10-placeName-10">Sardes</placeName>
-				</note>
-				<p xml:id="inscription-10-p-11">
-					<lb n="75" />III<lb n="76" />eśś vãnaś kumlil-is
+				<p xml:id="inscription-10-p-12">
+					<note xml:id="inscription-10-p-12-note-10" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-10-p-12-note-10-placeName-10">Sardes</placeName>
+					</note>
+					<lb n="75" />III
+<lb n="76" />eśś vãnaś kumlil-is
 <lb n="77" />atelis śam-[..]vlis
 <lb n="78" />laqris-a
 <lb n="79" />=k ak=i[t] nãqis
@@ -162,11 +173,12 @@
 <lb n="84" />[varbtokid]</p>
 			</div>
 			<div n="10" xml:id="inscription-11" type="inscription" data-level="1">
-				<note xml:id="inscription-11-note-11" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-11-note-11-placeName-11">Sardes</placeName>
-				</note>
-				<p xml:id="inscription-11-p-12">
-					<lb n="85" />es[t] mrud karoś katovalis bilλ<lb n="86" />vora[λ ka]ntrol katovaλ karolλ
+				<p xml:id="inscription-11-p-13">
+					<note xml:id="inscription-11-p-13-note-11" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-11-p-13-note-11-placeName-11">Sardes</placeName>
+					</note>
+					<lb n="85" />es[t] mrud karoś katovalis bilλ
+<lb n="86" />vora[λ ka]ntrol katovaλ karolλ
 <lb n="87" />voraλ bλ [bili=k] iskubtoλ dum=mλ=is sellis
 <lb n="88" />veśfa=k voraś dacal
 <lb n="89" />est=it qid trodν sẽsvad qistoridν kaśtãν
@@ -192,11 +204,12 @@
 <lb n="109" />niviścν varbtok</p>
 			</div>
 			<div n="11" xml:id="inscription-12" type="inscription" data-level="1">
-				<note xml:id="inscription-12-note-12" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-12-note-12-placeName-12">Sardes</placeName>
-				</note>
-				<p xml:id="inscription-12-p-13">
-					<lb n="110" />est mruvaad saristrośλ śfarvad aśtrkoλ<lb n="111" />vãnτaś vicν areλ kaτared=k=mś iskoś
+				<p xml:id="inscription-12-p-14">
+					<note xml:id="inscription-12-p-14-note-12" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-12-p-14-note-12-placeName-12">Sardes</placeName>
+					</note>
+					<lb n="110" />est mruvaad saristrośλ śfarvad aśtrkoλ
+<lb n="111" />vãnτaś vicν areλ kaτared=k=mś iskoś
 <lb n="112" />aνiś qid=ad savν vratuλ arśτãnsrś kasnod
 <lb n="113" />kśbλtaλ=k=ś atrgolλ tafaaλ fabaλkol
 <lb n="114" />avkaν ẽtamν uved=m=aś varedtaλ śfatoś
@@ -209,11 +222,12 @@
 <lb n="121" />buk mruvaaλ fak=mλ=at=aν viśśis vaarś nid kantrod</p>
 			</div>
 			<div n="12" xml:id="inscription-13" type="inscription" data-level="1">
-				<note xml:id="inscription-13-note-13" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-13-note-13-placeName-13">Sardes</placeName>
-				</note>
-				<p xml:id="inscription-13-p-14">
-					<lb n="122" />est mru sivãmlλ saroλ ẽntarfλod<lb n="123" />dum=(m)λ=is nid qaaslλ veśfaś alarmλ cavλoś
+				<p xml:id="inscription-13-p-15">
+					<note xml:id="inscription-13-p-15-note-13" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-13-p-15-note-13-placeName-13">Sardes</placeName>
+					</note>
+					<lb n="122" />est mru sivãmlλ saroλ ẽntarfλod
+<lb n="123" />dum=(m)λ=is nid qaaslλ veśfaś alarmλ cavλoś
 <lb n="124" />ak=aν mλvẽsis vνisλ lẽν savkarbloś
 <lb n="125" />cinaλ qis qiraλ fẽtvintat tutrloλ
 <lb n="126" />nin=in nid qaaslis vãnaλ akτaλ favkufot
@@ -224,11 +238,12 @@
 <lb n="131" />nin linẽd vνisλ lẽν fẽntasẽnaν lafod</p>
 			</div>
 			<div n="13" xml:id="inscription-14" type="inscription" data-level="1">
-				<note xml:id="inscription-14-note-14" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-14-note-14-placeName-14">Sardes</placeName>
-				</note>
-				<p xml:id="inscription-14-p-15">
-					<lb n="132" />il=im ãnas iśaś kud=m=ãk cẽnsidν alarmaś<lb n="133" />amu=k nãsi=k ẽmis istaminlis vśtaaś
+				<p xml:id="inscription-14-p-16">
+					<note xml:id="inscription-14-p-16-note-14" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-14-p-16-note-14-placeName-14">Sardes</placeName>
+					</note>
+					<lb n="132" />il=im ãnas iśaś kud=m=ãk cẽnsidν alarmaś
+<lb n="133" />amu=k nãsi=k ẽmis istaminlis vśtaaś
 <lb n="134" />datrośis=k saryś nãν isqasãnvν qiraad
 <lb n="135" />kot=τ=in aśfã=k cesvν aśtrkot midaτad
 <lb n="136" />kud=τ=in atνãν nak fasivν afaλaλ=k
@@ -242,11 +257,12 @@
 <lb n="144" />[..............]aśẽmis eλoś iślaaś</p>
 			</div>
 			<div n="14" xml:id="inscription-15" type="inscription" data-level="1">
-				<note xml:id="inscription-15-note-15" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-15-note-15-placeName-15">Sardes</placeName>
-				</note>
-				<p xml:id="inscription-15-p-16">
-					<lb n="145" />mru=m=it baal dum=is qλ[......]ś factot<lb n="146" />aśtrkota=k savtaarś eλf=k....]λa=k taśo=k
+				<p xml:id="inscription-15-p-17">
+					<note xml:id="inscription-15-p-17-note-15" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-15-p-17-note-15-placeName-15">Sardes</placeName>
+					</note>
+					<lb n="145" />mru=m=it baal dum=is qλ[......]ś factot
+<lb n="146" />aśtrkota=k savtaarś eλf=k....]λa=k taśo=k
 <lb n="147" />nã=m baλτaś ist savkorfλ[...sav]taarλ=k arktoλ
 <lb n="148" />fak=m=at τeλmdaν śνãλaν ẽ[......]śakoś
 <lb n="149" />caqrlãν ak=um adẽnν a[......a]larmlν ẽtolt
@@ -266,11 +282,12 @@
 <lb n="163" />[       ]s sivraλaλ karftoś</p>
 			</div>
 			<div n="15" xml:id="inscription-16" type="inscription" data-level="1">
-				<note xml:id="inscription-16-note-16" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-16-note-16-placeName-16">Sardes</placeName>
-				</note>
-				<p xml:id="inscription-16-p-17">
-					<lb n="164" />[    ]mλiλś nid kafolcν fadil<lb n="165" />[     ] kolcis tarblaś fẽnanil
+				<p xml:id="inscription-16-p-18">
+					<note xml:id="inscription-16-p-18-note-16" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-16-p-18-note-16-placeName-16">Sardes</placeName>
+					</note>
+					<lb n="164" />[    ]mλiλś nid kafolcν fadil
+<lb n="165" />[     ] kolcis tarblaś fẽnanil
 <lb n="166" />[     ]śtil ãnś kocvid qis tfil
 <lb n="167" />[     ]kud=ãk fasivλidν
 <lb n="168" />[    ]τad tarblatil mari[..]
@@ -281,60 +298,65 @@
 <lb n="173" />[    ]caqr[    ]</p>
 			</div>
 			<div n="16" xml:id="inscription-17" type="inscription" data-level="1">
-				<note xml:id="inscription-17-note-17" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-17-note-17-placeName-17">Sardes</placeName>
-				</note>
-				<p xml:id="inscription-17-p-18">
-					<lb n="174" />[...eśś v]ãnaś tivdalis [...]<lb n="175" />[...]λmlis borlλ ś[...]
+				<p xml:id="inscription-17-p-19">
+					<note xml:id="inscription-17-p-19-note-17" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-17-p-19-note-17-placeName-17">Sardes</placeName>
+					</note>
+					<lb n="174" />[...eśś v]ãnaś tivdalis [...]
+<lb n="175" />[...]λmlis borlλ ś[...]
 <lb n="176" />[...qa]λmλuλ dãν[...]
 <lb n="177" />[...]alarmś sidλ[...]
 <lb n="178" />[...]ẽl[...]</p>
 			</div>
 			<div n="17" xml:id="inscription-18" type="inscription" data-level="1">
-				<note xml:id="inscription-18-note-18" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-18-note-18-placeName-18">Sardes</placeName>
-				</note>
-				<p xml:id="inscription-18-p-19">
-					<lb n="179" />[...siv]ãmlis ak=it qis<lb n="180" />[...esνa]ν anlolaν fẽnsλib[id]
+				<p xml:id="inscription-18-p-20">
+					<note xml:id="inscription-18-p-20-note-18" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-18-p-20-note-18-placeName-18">Sardes</placeName>
+					</note>
+					<lb n="179" />[...siv]ãmlis ak=it qis
+<lb n="180" />[...esνa]ν anlolaν fẽnsλib[id]
 <lb n="181" />[...katsa]rlokid ẽna=k=mλ[...]</p>
 			</div>
 			<div n="18" xml:id="inscription-19" type="inscription" data-level="1">
-				<note xml:id="inscription-19-note-19" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-19-note-19-placeName-19">Sardes</placeName>
-				</note>
-				<p xml:id="inscription-19-p-20">
-					<lb n="182" />[...]<lb n="183" />e. vãnaν qisredν ni=m=it fẽnsλi[bid]
+				<p xml:id="inscription-19-p-21">
+					<note xml:id="inscription-19-p-21-note-19" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-19-p-21-note-19-placeName-19">Sardes</placeName>
+					</note>
+					<lb n="182" />[...]
+<lb n="183" />e. vãnaν qisredν ni=m=it fẽnsλi[bid]
 <lb n="184" />ak=mś=in śof</p>
 			</div>
 			<div n="19" xml:id="inscription-20" type="inscription" data-level="1">
-				<note xml:id="inscription-20-note-20" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-20-note-20-placeName-20">Sardes</placeName>
-				</note>
-				<p xml:id="inscription-20-p-21">
-					<lb n="185" />[...]<lb n="186" />fẽnsλibid bi[...]
+				<p xml:id="inscription-20-p-22">
+					<note xml:id="inscription-20-p-22-note-20" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-20-p-22-note-20-placeName-20">Sardes</placeName>
+					</note>
+					<lb n="185" />[...]
+<lb n="186" />fẽnsλibid bi[...]
 <lb n="187" />fẽncãν bi[...]
 <lb n="188" />fak[...]</p>
 			</div>
 			<div n="20" xml:id="inscription-21" type="inscription" data-level="1">
-				<note xml:id="inscription-21-note-21" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-21-note-21-placeName-21">Sardes</placeName>
-				</note>
-				<p xml:id="inscription-21-p-22">
+				<p xml:id="inscription-21-p-23">
+					<note xml:id="inscription-21-p-23-note-21" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-21-p-23-note-21-placeName-21">Sardes</placeName>
+					</note>
 					<lb n="189" />nannaś bakivalis artimuλ</p>
 			</div>
 			<div n="21" xml:id="inscription-22" type="inscription" data-level="1">
-				<note xml:id="inscription-22-note-22" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-22-note-22-placeName-22">Sardes</placeName>
-				</note>
-				<p xml:id="inscription-22-p-23">
+				<p xml:id="inscription-22-p-24">
+					<note xml:id="inscription-22-p-24-note-22" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-22-p-24-note-22-placeName-22">Sardes</placeName>
+					</note>
 					<lb n="190" />[m]an[e]ś bakivalis mane[lis(?)] artim[uλ(?)]</p>
 			</div>
 			<div n="22" xml:id="inscription-23" type="inscription" data-level="1">
-				<note xml:id="inscription-23-note-23" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-23-note-23-placeName-23">Sardes</placeName>
-				</note>
-				<p xml:id="inscription-23-p-24">
-					<lb n="191" />est mrud śfardẽnτ facνiris mλimnaś vicν<lb n="192" />dum=mś ebad favnẽris amẽd śfardẽtλ aśtrkoλ
+				<p xml:id="inscription-23-p-25">
+					<note xml:id="inscription-23-p-25-note-23" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-23-p-25-note-23-placeName-23">Sardes</placeName>
+					</note>
+					<lb n="191" />est mrud śfardẽnτ facνiris mλimnaś vicν
+<lb n="192" />dum=mś ebad favnẽris amẽd śfardẽtλ aśtrkoλ
 <lb n="193" />mλatalad mλimnś aλidad viśvid kaττirś
 <lb n="194" />fak śfardẽta=k ãn katvνẽl ãnad fẽntasẽnaν
 <lb n="195" />nãqid=a mλimnś ist śfarλ iitλ ak=mś aλidad
@@ -350,11 +372,12 @@
 <lb n="205" />aλidad taśod ak=mλ=ad inãnt</p>
 			</div>
 			<div n="23" xml:id="inscription-24" type="inscription" data-level="1">
-				<note xml:id="inscription-24-note-24" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-24-note-24-placeName-24">Sardes</placeName>
-				</note>
-				<p xml:id="inscription-24-p-25">
-					<lb n="206" />eśś syrmaś qλdãnl artimuλ=k dacuverś=t<lb n="207" />vintaś ak=it esλ sirmaλ qys fẽnsλibid
+				<p xml:id="inscription-24-p-26">
+					<note xml:id="inscription-24-p-26-note-24" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-24-p-26-note-24-placeName-24">Sardes</placeName>
+					</note>
+					<lb n="206" />eśś syrmaś qλdãnl artimuλ=k dacuverś=t
+<lb n="207" />vintaś ak=it esλ sirmaλ qys fẽnsλibid
 <lb n="208" />niviścν fak=mλ=it=in qλdãnś tavśaś
 <lb n="209" />artimu=k ibśimsis katsarlokid brvã=ś
 <lb n="210" />III II dãν ãnτẽt mitridastaś mitratalis
@@ -377,11 +400,12 @@
 <lb n="227" />biferś=t</p>
 			</div>
 			<div n="24" xml:id="inscription-25" type="inscription" data-level="1">
-				<note xml:id="inscription-25-note-25" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-25-note-25-placeName-25">Sardes</placeName>
-				</note>
-				<p xml:id="inscription-25-p-26">
-					<lb n="228" />ãnτẽt mitridastaś mitra[talis]<lb n="229" />kaveś nak amu katosν faov
+				<p xml:id="inscription-25-p-27">
+					<note xml:id="inscription-25-p-27-note-25" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-25-p-27-note-25-placeName-25">Sardes</placeName>
+					</note>
+					<lb n="228" />ãnτẽt mitridastaś mitra[talis]
+<lb n="229" />kaveś nak amu katosν faov
 <lb n="230" />ak=it nãqid serlis srmlis
 <lb n="231" />amu fadifil buk=τ=ad amudãν
 <lb n="232" />fak[.]nal buk=mλ=ad amu bitocν
@@ -405,131 +429,138 @@
 <lb n="250" />[...(15)..(?)b]itad mitridastaś [...]</p>
 			</div>
 			<div n="25" xml:id="inscription-26" type="inscription" data-level="1">
-				<note xml:id="inscription-26-note-26" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-26-note-26-placeName-26">Sardes</placeName>
-				</note>
-				<p xml:id="inscription-26-p-27">
-					<lb n="251" />[    ]is ta[    ]<lb n="252" />[   kat]ovalis man[    ]
+				<p xml:id="inscription-26-p-28">
+					<note xml:id="inscription-26-p-28-note-26" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-26-p-28-note-26-placeName-26">Sardes</placeName>
+					</note>
+					<lb n="251" />[    ]is ta[    ]
+<lb n="252" />[   kat]ovalis man[    ]
 <lb n="253" />[    k]arolis tivd[    ]
 <lb n="254" />[    k]arolis ma[    ]
 <lb n="255" />[   ar]timulis [    ]
 <lb n="256" />[    ]is m[    ]</p>
 			</div>
 			<div n="26" xml:id="inscription-27" type="inscription" data-level="1">
-				<note xml:id="inscription-27-note-27" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-27-note-27-placeName-27">Mersindere</placeName>
-				</note>
-				<p xml:id="inscription-27-p-28">
-					<lb n="257" />eś sadmẽś es=k mrud alikrelid karol[id(?)] anlali=k atraśt[alid(?)]<lb n="258" />kaveś lamẽtrulis qis alikamśo=k bilis [ti]vdalis atalid a[k=it]
+				<p xml:id="inscription-27-p-29">
+					<note xml:id="inscription-27-p-29-note-27" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-27-p-29-note-27-placeName-27">Mersindere</placeName>
+					</note>
+					<lb n="257" />eś sadmẽś es=k mrud alikrelid karol[id(?)] anlali=k atraśt[alid(?)]
+<lb n="258" />kaveś lamẽtrulis qis alikamśo=k bilis [ti]vdalis atalid a[k=it]
 <lb n="259" />[esλ s]admẽλ buk esλ mruλ buk esνaν maśtãν qis fẽn[sλibid   ]
 <lb n="260" />[    ]lamẽtruś [....] sa[dmẽ]λ artimu=k aśbluvaś viś[        ]</p>
 			</div>
 			<div n="27" xml:id="inscription-28" type="inscription" data-level="1">
-				<note xml:id="inscription-28-note-28" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-28-note-28-placeName-28">Sardes</placeName>
-				</note>
-				<p xml:id="inscription-28-p-29">
-					<lb n="261" />[...]<lb n="262" />[   ]ẽrblocimλ
+				<p xml:id="inscription-28-p-30">
+					<note xml:id="inscription-28-p-30-note-28" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-28-p-30-note-28-placeName-28">Sardes</placeName>
+					</note>
+					<lb n="261" />[...]
+<lb n="262" />[   ]ẽrblocimλ
 <lb n="263" />[    ]il karo=k=it ẽndiblint
 <lb n="264" />[    ]ocν iraν cuλdalẽλ taacdaν bimirś śfarda=k</p>
 			</div>
 			<div n="28" xml:id="inscription-29" type="inscription" data-level="1">
-				<note xml:id="inscription-29-note-29" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-29-note-29-placeName-29">Sardes</placeName>
-				</note>
-				<p xml:id="inscription-29-p-30">
+				<p xml:id="inscription-29-p-31">
+					<note xml:id="inscription-29-p-31-note-29" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-29-p-31-note-29-placeName-29">Sardes</placeName>
+					</note>
 					<lb n="265" />[    ]ftellis kaveś inl</p>
 			</div>
 			<div n="29" xml:id="inscription-30" type="inscription" data-level="1">
-				<note xml:id="inscription-30-note-30" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-30-note-30-placeName-30">Sardes</placeName>
-				</note>
-				<p xml:id="inscription-30-p-31">
-					<lb n="266" />[   ]ud<lb n="267" />[   ]re</p>
+				<p xml:id="inscription-30-p-32">
+					<note xml:id="inscription-30-p-32-note-30" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-30-p-32-note-30-placeName-30">Sardes</placeName>
+					</note>
+					<lb n="266" />[   ]ud
+<lb n="267" />[   ]re</p>
 			</div>
 			<div n="30" xml:id="inscription-31" type="inscription" data-level="1">
-				<note xml:id="inscription-31-note-31" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-31-note-31-placeName-31">Sardes</placeName>
-				</note>
-				<p xml:id="inscription-31-p-32">
-					<lb n="268" />titiś=in : ẽmν : tiśardν : fabil<lb n="269" />ataλ : kitvaλ</p>
+				<p xml:id="inscription-31-p-33">
+					<note xml:id="inscription-31-p-33-note-31" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-31-p-33-note-31-placeName-31">Sardes</placeName>
+					</note>
+					<lb n="268" />titiś=in : ẽmν : tiśardν : fabil
+<lb n="269" />ataλ : kitvaλ</p>
 			</div>
 			<div n="31" xml:id="inscription-32" type="inscription" data-level="1">
-				<note xml:id="inscription-32-note-32" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-32-note-32-placeName-32">Sardes</placeName>
-				</note>
-				<p xml:id="inscription-32-p-33">
+				<p xml:id="inscription-32-p-34">
+					<note xml:id="inscription-32-p-34-note-32" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-32-p-34-note-32-placeName-32">Sardes</placeName>
+					</note>
 					<lb n="270" />śaśa</p>
 			</div>
 			<div n="32" xml:id="inscription-33" type="inscription" data-level="1">
-				<note xml:id="inscription-33-note-33" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-33-note-33-placeName-33">Sardes</placeName>
-				</note>
-				<p xml:id="inscription-33-p-34">
+				<p xml:id="inscription-33-p-35">
+					<note xml:id="inscription-33-p-35-note-33" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-33-p-35-note-33-placeName-33">Sardes</placeName>
+					</note>
 					<lb n="271" />[    ]ralulis kardal</p>
 			</div>
 			<div n="33" xml:id="inscription-34" type="inscription" data-level="1">
-				<note xml:id="inscription-34-note-34" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-34-note-34-placeName-34">Sardes</placeName>
-				</note>
-				<p xml:id="inscription-34-p-35">
+				<p xml:id="inscription-34-p-36">
+					<note xml:id="inscription-34-p-36-note-34" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-34-p-36-note-34-placeName-34">Sardes</placeName>
+					</note>
 					<lb n="272" />mivad</p>
 			</div>
 			<div n="34" xml:id="inscription-35" type="inscription" data-level="1">
-				<note xml:id="inscription-35-note-35" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-35-note-35-placeName-35">Sardes</placeName>
-				</note>
-				<p xml:id="inscription-35-p-36">
+				<p xml:id="inscription-35-p-37">
+					<note xml:id="inscription-35-p-37-note-35" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-35-p-37-note-35-placeName-35">Sardes</placeName>
+					</note>
 					<lb n="273" />eg</p>
 			</div>
 			<div n="35" xml:id="inscription-36" type="inscription" data-level="1">
-				<note xml:id="inscription-36-note-36" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-36-note-36-placeName-36">Sardes</placeName>
-				</note>
-				<p xml:id="inscription-36-p-37">
+				<p xml:id="inscription-36-p-38">
+					<note xml:id="inscription-36-p-38-note-36" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-36-p-38-note-36-placeName-36">Sardes</placeName>
+					</note>
 					<lb n="274" />cm</p>
 			</div>
 			<div n="36" xml:id="inscription-37" type="inscription" data-level="1">
-				<note xml:id="inscription-37-note-37" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-37-note-37-placeName-37">Sardes</placeName>
-				</note>
-				<p xml:id="inscription-37-p-38">
+				<p xml:id="inscription-37-p-39">
+					<note xml:id="inscription-37-p-39-note-37" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-37-p-39-note-37-placeName-37">Sardes</placeName>
+					</note>
 					<lb n="275" />.ru</p>
 			</div>
 			<div n="37" xml:id="inscription-38" type="inscription" data-level="1">
-				<note xml:id="inscription-38-note-38" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-38-note-38-placeName-38">Sardes</placeName>
-				</note>
-				<p xml:id="inscription-38-p-39">
+				<p xml:id="inscription-38-p-40">
+					<note xml:id="inscription-38-p-40-note-38" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-38-p-40-note-38-placeName-38">Sardes</placeName>
+					</note>
 					<lb n="276" />art f</p>
 			</div>
 			<div n="38" xml:id="inscription-39" type="inscription" data-level="1">
-				<note xml:id="inscription-39-note-39" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-39-note-39-placeName-39">Sardes</placeName>
-				</note>
-				<p xml:id="inscription-39-p-40">
+				<p xml:id="inscription-39-p-41">
+					<note xml:id="inscription-39-p-41-note-39" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-39-p-41-note-39-placeName-39">Sardes</placeName>
+					</note>
 					<lb n="277" />ly</p>
 			</div>
 			<div n="39" xml:id="inscription-40" type="inscription" data-level="1">
-				<note xml:id="inscription-40-note-40" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-40-note-40-placeName-40">Sardes</placeName>
-				</note>
-				<p xml:id="inscription-40-p-41">
+				<p xml:id="inscription-40-p-42">
+					<note xml:id="inscription-40-p-42-note-40" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-40-p-42-note-40-placeName-40">Sardes</placeName>
+					</note>
 					<lb n="278" />tiv</p>
 			</div>
 			<div n="40" xml:id="inscription-41" type="inscription" data-level="1">
-				<note xml:id="inscription-41-note-41" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-41-note-41-placeName-41">Pergamon</placeName>
-				</note>
-				<p xml:id="inscription-41-p-42">
-					<lb n="279" />esν taśẽν acνil<lb n="280" />bartaraś śa.it</p>
+				<p xml:id="inscription-41-p-43">
+					<note xml:id="inscription-41-p-43-note-41" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-41-p-43-note-41-placeName-41">Pergamon</placeName>
+					</note>
+					<lb n="279" />esν taśẽν acνil
+<lb n="280" />bartaraś śa.it</p>
 			</div>
 			<div n="41" xml:id="inscription-42" type="inscription" data-level="1">
-				<note xml:id="inscription-42-note-42" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-42-note-42-placeName-42">Falaka</placeName>
-				</note>
-				<p xml:id="inscription-42-p-43">
-					<lb n="281" />borlλ X III III arta[kśass-]aλ<lb n="282" />qaλmλuλ dãν
+				<p xml:id="inscription-42-p-44">
+					<note xml:id="inscription-42-p-44-note-42" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-42-p-44-note-42-placeName-42">Falaka</placeName>
+					</note>
+					<lb n="281" />borlλ X III III arta[kśass-]aλ
+<lb n="282" />qaλmλuλ dãν
 <lb n="283" />oraλ kanlalaλ karo[..]
 <lb n="284" />trolλ vrauλ artimulλ
 <lb n="285" />esν tacn bantakaśa[ś]
@@ -537,11 +568,12 @@
 <lb n="287" />[.]ret=k aśaν qaλem[   ]</p>
 			</div>
 			<div n="42" xml:id="inscription-43" type="inscription" data-level="1">
-				<note xml:id="inscription-43-note-43" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-43-note-43-placeName-43">Emre</placeName>
-				</note>
-				<p xml:id="inscription-43-p-44">
-					<lb n="288" />borlλ XI ora[λ ...]<lb n="289" />qaλmλuλ dãν es[...]
+				<p xml:id="inscription-43-p-45">
+					<note xml:id="inscription-43-p-45-note-43" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-43-p-45-note-43-placeName-43">Emre</placeName>
+					</note>
+					<lb n="288" />borlλ XI ora[λ ...]
+<lb n="289" />qaλmλuλ dãν es[...]
 <lb n="290" />[..]roś artimal[is...]
 <lb n="291" />[k]ãna=k ak=mλ [qis ...]
 <lb n="292" />buλ=k bil=k śfẽnaν [...]
@@ -549,22 +581,24 @@
 <lb n="294" />[......]vad ak ẽnaλ[...]</p>
 			</div>
 			<div n="43" xml:id="inscription-44" type="inscription" data-level="1">
-				<note xml:id="inscription-44-note-44" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-44-note-44-placeName-44">Eǵriköy</placeName>
-				</note>
-				<p xml:id="inscription-44-p-45">
-					<lb n="295" />brvãν II dãν<lb n="296" />oraλ kanlelaλ
+				<p xml:id="inscription-44-p-46">
+					<note xml:id="inscription-44-p-46-note-44" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-44-p-46-note-44-placeName-44">Eǵriköy</placeName>
+					</note>
+					<lb n="295" />brvãν II dãν
+<lb n="296" />oraλ kanlelaλ
 <lb n="297" />vartraluλ esν tacν
 <lb n="298" />maneś bẽtovlis
 <lb n="299" />facunil cẽqrad
 <lb n="300" />[.]aλidẽnl bar[..]</p>
 			</div>
 			<div n="44" xml:id="inscription-45" type="inscription" data-level="1">
-				<note xml:id="inscription-45-note-45" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-45-note-45-placeName-45">č̣oban-isa</placeName>
-				</note>
-				<p xml:id="inscription-45-p-46">
-					<lb n="301" />[...(18)...]ẽtsa[...(8)...]<lb n="302" />trismν adẽnν satiś um cak trfnod
+				<p xml:id="inscription-45-p-47">
+					<note xml:id="inscription-45-p-47-note-45" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-45-p-47-note-45-placeName-45">č̣oban-isa</placeName>
+					</note>
+					<lb n="301" />[...(18)...]ẽtsa[...(8)...]
+<lb n="302" />trismν adẽnν satiś um cak trfnod
 <lb n="303" />lavl arśmavad[...(11)...] asnãntol sok[   ]
 <lb n="304" />irẽλ k[..]ar[...(11)...]qλ dakrod qiro[   ]
 <lb n="305" />civad armird[...(9)...]tid fatros volk[   ]
@@ -583,21 +617,23 @@
 <lb n="318" />dumν=um arś[...]</p>
 			</div>
 			<div n="45" xml:id="inscription-46" type="inscription" data-level="1">
-				<note xml:id="inscription-46-note-46" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-46-note-46-placeName-46">Arablhк Hachкlhк Mahallesi</placeName>
-				</note>
-				<p xml:id="inscription-46-p-47">
-					<lb n="319" />[...]<lb n="320" />[...]ś fẽntrol
+				<p xml:id="inscription-46-p-48">
+					<note xml:id="inscription-46-p-48-note-46" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-46-p-48-note-46-placeName-46">Arablhк Hachкlhк Mahallesi</placeName>
+					</note>
+					<lb n="319" />[...]
+<lb n="320" />[...]ś fẽntrol
 <lb n="321" />[...]aśolλ faτaν
 <lb n="322" />[r]aval fak=mλ śanẽν inal
 <lb n="323" />ak=it esλ taacλ qis fẽnsλibid</p>
 			</div>
 			<div n="46" xml:id="inscription-47" type="inscription" data-level="1">
-				<note xml:id="inscription-47-note-47" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-47-note-47-placeName-47">Hamidiye</placeName>
-				</note>
-				<p xml:id="inscription-47-p-48">
-					<lb n="324" />[..]k sibad śak[...a]λad dẽt nid<lb n="325" />fasabid qi[s] bidẽν fratinid
+				<p xml:id="inscription-47-p-49">
+					<note xml:id="inscription-47-p-49-note-47" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-47-p-49-note-47-placeName-47">Hamidiye</placeName>
+					</note>
+					<lb n="324" />[..]k sibad śak[...a]λad dẽt nid
+<lb n="325" />fasabid qi[s] bidẽν fratinid
 <lb n="326" />buv=aś fisfid [.]st ak=τ=in asraν
 <lb n="327" />artimu=k sava[...]
 <lb n="328" />tanlaλ b[...]
@@ -606,32 +642,35 @@
 <lb n="331" />visi[...]</p>
 			</div>
 			<div n="47" xml:id="inscription-48" type="inscription" data-level="1">
-				<note xml:id="inscription-48-note-48" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-48-note-48-placeName-48">Tire</placeName>
-				</note>
-				<p xml:id="inscription-48-p-49">
-					<lb n="332" />[.....]qa[...(15)...]a[...(20)...]a<lb n="333" />brafraν laduvad intiśtcν tin[.]ν τaλad fasitamra[...]</p>
+				<p xml:id="inscription-48-p-50">
+					<note xml:id="inscription-48-p-50-note-48" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-48-p-50-note-48-placeName-48">Tire</placeName>
+					</note>
+					<lb n="332" />[.....]qa[...(15)...]a[...(20)...]a
+<lb n="333" />brafraν laduvad intiśtcν tin[.]ν τaλad fasitamra[...]</p>
 			</div>
 			<div n="48" xml:id="inscription-49" type="inscription" data-level="1">
-				<note xml:id="inscription-49-note-49" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-49-note-49-placeName-49">Ephesos</placeName>
-				</note>
-				<p xml:id="inscription-49-p-50">
+				<p xml:id="inscription-49-p-51">
+					<note xml:id="inscription-49-p-51-note-49" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-49-p-51-note-49-placeName-49">Ephesos</placeName>
+					</note>
 					<lb n="334" />[    ]is inl</p>
 			</div>
 			<div n="49" xml:id="inscription-50" type="inscription" data-level="1">
-				<note xml:id="inscription-50-note-50" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-50-note-50-placeName-50">Silsilis</placeName>
-				</note>
-				<p xml:id="inscription-50-p-51">
-					<lb n="335" />lẽKqug i<lb n="336" />aluś=mretlis=ul</p>
+				<p xml:id="inscription-50-p-52">
+					<note xml:id="inscription-50-p-52-note-50" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-50-p-52-note-50-placeName-50">Silsilis</placeName>
+					</note>
+					<lb n="335" />lẽKqug i
+<lb n="336" />aluś=mretlis=ul</p>
 			</div>
 			<div n="50" xml:id="inscription-51" type="inscription" data-level="1">
-				<note xml:id="inscription-51-note-51" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-51-note-51-placeName-51">Megalais Katefches</placeName>
-				</note>
-				<p xml:id="inscription-51-p-52">
-					<lb n="337" />forlλ XII oraλ kanlelaλ<lb n="338" />[...]tralaλ aλiksantruλ
+				<p xml:id="inscription-51-p-53">
+					<note xml:id="inscription-51-p-53-note-51" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-51-p-53-note-51-placeName-51">Megalais Katefches</placeName>
+					</note>
+					<lb n="337" />forlλ XII oraλ kanlelaλ
+<lb n="338" />[...]tralaλ aλiksantruλ
 <lb n="339" />[q]aλmλuλ dãν esn taacn
 <lb n="340" />timleś brdunlis fẽncal
 <lb n="341" />lefś=tλ faτaν raval ak=mλ
@@ -639,93 +678,98 @@
 <lb n="343" />sarẽtaś/saretaś</p>
 			</div>
 			<div n="51" xml:id="inscription-52" type="inscription" data-level="1">
-				<note xml:id="inscription-52-note-52" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-52-note-52-placeName-52">Sardes</placeName>
-				</note>
-				<p xml:id="inscription-52-p-53">
-					<lb n="344" />bakivalid<lb n="345" />samlid</p>
+				<p xml:id="inscription-52-p-54">
+					<note xml:id="inscription-52-p-54-note-52" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-52-p-54-note-52-placeName-52">Sardes</placeName>
+					</note>
+					<lb n="344" />bakivalid
+<lb n="345" />samlid</p>
 			</div>
 			<div n="52" xml:id="inscription-53" type="inscription" data-level="1">
-				<note xml:id="inscription-53-note-53" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-53-note-53-placeName-53">Ephesos</placeName>
-				</note>
-				<p xml:id="inscription-53-p-54">
+				<p xml:id="inscription-53-p-55">
+					<note xml:id="inscription-53-p-55-note-53" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-53-p-55-note-53-placeName-53">Ephesos</placeName>
+					</note>
 					<lb n="346" />valvel</p>
 			</div>
 			<div n="53" xml:id="inscription-54" type="inscription" data-level="1">
-				<note xml:id="inscription-54-note-54" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-54-note-54-placeName-54">Jabachк</placeName>
-				</note>
-				<p xml:id="inscription-54-p-55">
+				<p xml:id="inscription-54-p-56">
+					<note xml:id="inscription-54-p-56-note-54" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-54-p-56-note-54-placeName-54">Jabachк</placeName>
+					</note>
 					<lb n="347" />nteś ntś (??)</p>
 			</div>
 			<div n="54" xml:id="inscription-55" type="inscription" data-level="1">
-				<note xml:id="inscription-55-note-55" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-55-note-55-placeName-55">Manisa</placeName>
-				</note>
-				<p xml:id="inscription-55-p-56">
-					<lb n="348" />[e]s anlola atraśtal<lb n="349" />śakardal ak=ad qis fisqãnt
+				<p xml:id="inscription-55-p-57">
+					<note xml:id="inscription-55-p-57-note-55" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-55-p-57-note-55-placeName-55">Manisa</placeName>
+					</note>
+					<lb n="348" />[e]s anlola atraśtal
+<lb n="349" />śakardal ak=ad qis fisqãnt
 <lb n="350" />buk=aś fẽdanoλt fak=τ=ad
 <lb n="351" />kabrdokid nã=mλ qi=g dẽt
 <lb n="352" />nã=k=mλ [...]clλ ak=ad
 <lb n="353" />artimuλ ibśimlλ fẽncãν</p>
 			</div>
 			<div n="55" xml:id="inscription-56" type="inscription" data-level="1">
-				<note xml:id="inscription-56-note-56" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-56-note-56-placeName-56">(?)</placeName>
-				</note>
-				<p xml:id="inscription-56-p-57">
+				<p xml:id="inscription-56-p-58">
+					<note xml:id="inscription-56-p-58-note-56" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-56-p-58-note-56-placeName-56">(?)</placeName>
+					</note>
 					<lb n="354" />manel=im</p>
 			</div>
 			<div n="56" xml:id="inscription-57" type="inscription" data-level="1">
-				<note xml:id="inscription-57-note-57" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-57-note-57-placeName-57">(?)</placeName>
-				</note>
-				<p xml:id="inscription-57-p-58">
+				<p xml:id="inscription-57-p-59">
+					<note xml:id="inscription-57-p-59-note-57" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-57-p-59-note-57-placeName-57">(?)</placeName>
+					</note>
 					<lb n="355" />manel=im</p>
 			</div>
 			<div n="57" xml:id="inscription-58" type="inscription" data-level="1">
-				<note xml:id="inscription-58-note-58" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-58-note-58-placeName-58">Sardes</placeName>
-				</note>
-				<p xml:id="inscription-58-p-59">
+				<p xml:id="inscription-58-p-60">
+					<note xml:id="inscription-58-p-60-note-58" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-58-p-60-note-58-placeName-58">Sardes</placeName>
+					</note>
 					<lb n="356" />[   ]rlam[  ]</p>
 			</div>
 			<div n="58" xml:id="inscription-59" type="inscription" data-level="1">
-				<note xml:id="inscription-59-note-59" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-59-note-59-placeName-59">Sardes</placeName>
-				</note>
-				<p xml:id="inscription-59-p-60">
+				<p xml:id="inscription-59-p-61">
+					<note xml:id="inscription-59-p-61-note-59" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-59-p-61-note-59-placeName-59">Sardes</placeName>
+					</note>
 					<lb n="357" />]eśivśis /[</p>
 			</div>
 			<div n="59" xml:id="inscription-60" type="inscription" data-level="1">
-				<note xml:id="inscription-60-note-60" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-60-note-60-placeName-60">Sardes</placeName>
-				</note>
-				<p xml:id="inscription-60-p-61">
-					<lb n="358" />borlλ d or[aλ...]<lb n="359" />[...] qaλmλ[uλ...]</p>
+				<p xml:id="inscription-60-p-62">
+					<note xml:id="inscription-60-p-62-note-60" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-60-p-62-note-60-placeName-60">Sardes</placeName>
+					</note>
+					<lb n="358" />borlλ d or[aλ...]
+<lb n="359" />[...] qaλmλ[uλ...]</p>
 			</div>
 			<div n="60" xml:id="inscription-61" type="inscription" data-level="1">
-				<note xml:id="inscription-61-note-61" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-61-note-61-placeName-61">Sardes</placeName>
-				</note>
-				<p xml:id="inscription-61-p-62">
-					<lb n="360" />esλ[...]<lb n="361" />fa[...]
+				<p xml:id="inscription-61-p-63">
+					<note xml:id="inscription-61-p-63-note-61" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-61-p-63-note-61-placeName-61">Sardes</placeName>
+					</note>
+					<lb n="360" />esλ[...]
+<lb n="361" />fa[...]
 <lb n="362" />fa[...]</p>
 			</div>
 			<div n="61" xml:id="inscription-62" type="inscription" data-level="1">
-				<note xml:id="inscription-62-note-62" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-62-note-62-placeName-62">Sardes</placeName>
-				</note>
-				<p xml:id="inscription-62-p-63">
+				<p xml:id="inscription-62-p-64">
+					<note xml:id="inscription-62-p-64-note-62" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-62-p-64-note-62-placeName-62">Sardes</placeName>
+					</note>
 					<lb n="363" />[...]valis ak=aν qi[s...]</p>
 			</div>
 			<div n="62" xml:id="inscription-63" type="inscription" data-level="1">
-				<note xml:id="inscription-63-note-63" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-63-note-63-placeName-63">Tire</placeName>
-				</note>
-				<p xml:id="inscription-63-p-64">
-					<lb n="364" />[...]<lb n="365" />[.]rd.aś dẽt qaλmu=k vard[
+				<p xml:id="inscription-63-p-65">
+					<note xml:id="inscription-63-p-65-note-63" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-63-p-65-note-63-placeName-63">Tire</placeName>
+					</note>
+					<lb n="364" />[...]
+<lb n="365" />[.]rd.aś dẽt qaλmu=k vard[
 <lb n="366" />qaλdãnlid ak sabλaλ qira[
 <lb n="367" />taλ dãν dẽt litaś qira[
 <lb n="368" />[?]śarsecν mursucν aτλed=m=aś[
@@ -733,67 +777,72 @@
 <lb n="370" />[  ]t tim[  ] ak=m.[?] qa[</p>
 			</div>
 			<div n="63" xml:id="inscription-64" type="inscription" data-level="1">
-				<note xml:id="inscription-64-note-64" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-64-note-64-placeName-64">Sardes</placeName>
-				</note>
-				<p xml:id="inscription-64-p-65">
-					<lb n="371" />]lis [<lb n="372" />]sima.[</p>
+				<p xml:id="inscription-64-p-66">
+					<note xml:id="inscription-64-p-66-note-64" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-64-p-66-note-64-placeName-64">Sardes</placeName>
+					</note>
+					<lb n="371" />]lis [
+<lb n="372" />]sima.[</p>
 			</div>
 			<div n="64" xml:id="inscription-65" type="inscription" data-level="1">
-				<note xml:id="inscription-65-note-65" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-65-note-65-placeName-65">Sardes</placeName>
-				</note>
-				<p xml:id="inscription-65-p-66">
-					<lb n="373" />]kãλ : labλ : vrit[<lb n="374" />τakm[</p>
+				<p xml:id="inscription-65-p-67">
+					<note xml:id="inscription-65-p-67-note-65" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-65-p-67-note-65-placeName-65">Sardes</placeName>
+					</note>
+					<lb n="373" />]kãλ : labλ : vrit[
+<lb n="374" />τakm[</p>
 			</div>
 			<div n="65" xml:id="inscription-66" type="inscription" data-level="1">
-				<note xml:id="inscription-66-note-66" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-66-note-66-placeName-66">Sardes</placeName>
-				</note>
-				<p xml:id="inscription-66-p-67">
+				<p xml:id="inscription-66-p-68">
+					<note xml:id="inscription-66-p-68-note-66" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-66-p-68-note-66-placeName-66">Sardes</placeName>
+					</note>
 					<lb n="375" />qis=m[</p>
 			</div>
 			<div n="66" xml:id="inscription-67" type="inscription" data-level="1">
-				<note xml:id="inscription-67-note-67" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-67-note-67-placeName-67">Sardes</placeName>
-				</note>
-				<p xml:id="inscription-67-p-68">
-					<lb n="376" />]alis at[<lb n="377" />]k art[</p>
+				<p xml:id="inscription-67-p-69">
+					<note xml:id="inscription-67-p-69-note-67" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-67-p-69-note-67-placeName-67">Sardes</placeName>
+					</note>
+					<lb n="376" />]alis at[
+<lb n="377" />]k art[</p>
 			</div>
 			<div n="67" xml:id="inscription-68" type="inscription" data-level="1">
-				<note xml:id="inscription-68-note-68" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-68-note-68-placeName-68">Bin Tepe</placeName>
-				</note>
-				<p xml:id="inscription-68-p-69">
+				<p xml:id="inscription-68-p-70">
+					<note xml:id="inscription-68-p-70-note-68" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-68-p-70-note-68-placeName-68">Bin Tepe</placeName>
+					</note>
 					<lb n="378" />ve (??)</p>
 			</div>
 			<div n="68" xml:id="inscription-69" type="inscription" data-level="1">
-				<note xml:id="inscription-69-note-69" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-69-note-69-placeName-69">Sardes</placeName>
-				</note>
-				<p xml:id="inscription-69-p-70">
+				<p xml:id="inscription-69-p-71">
+					<note xml:id="inscription-69-p-71-note-69" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-69-p-71-note-69-placeName-69">Sardes</placeName>
+					</note>
 					<lb n="379" />]. kun...[</p>
 			</div>
 			<div n="69" xml:id="inscription-70" type="inscription" data-level="1">
-				<note xml:id="inscription-70-note-70" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-70-note-70-placeName-70">(Coins)</placeName>
-				</note>
-				<p xml:id="inscription-70-p-71">
+				<p xml:id="inscription-70-p-72">
+					<note xml:id="inscription-70-p-72-note-70" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-70-p-72-note-70-placeName-70">(Coins)</placeName>
+					</note>
 					<lb n="380" />rkalim (?)</p>
 			</div>
 			<div n="70" xml:id="inscription-71" type="inscription" data-level="1">
-				<note xml:id="inscription-71-note-71" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-71-note-71-placeName-71">Sardes</placeName>
-				</note>
-				<p xml:id="inscription-71-p-72">
-					<lb n="381" />eś sadmẽś os=k anlola[...(6)...]<lb n="382" />ar[tim]ul ak=it esλ sa[dmẽλ ...]</p>
+				<p xml:id="inscription-71-p-73">
+					<note xml:id="inscription-71-p-73-note-71" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-71-p-73-note-71-placeName-71">Sardes</placeName>
+					</note>
+					<lb n="381" />eś sadmẽś os=k anlola[...(6)...]
+<lb n="382" />ar[tim]ul ak=it esλ sa[dmẽλ ...]</p>
 			</div>
 			<div n="71" xml:id="inscription-72" type="inscription" data-level="1">
-				<note xml:id="inscription-72-note-72" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-72-note-72-placeName-72">Sardes</placeName>
-				</note>
-				<p xml:id="inscription-72-p-73">
-					<lb n="383" />...] s [<lb n="384" />...ser]lis srmli[s]
+				<p xml:id="inscription-72-p-74">
+					<note xml:id="inscription-72-p-74-note-72" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-72-p-74-note-72-placeName-72">Sardes</placeName>
+					</note>
+					<lb n="383" />...] s [
+<lb n="384" />...ser]lis srmli[s]
 <lb n="385" />...]. artakśa.
 <lb n="386" />...]vãnaλ dã[ν]
 <lb n="387" />...]bisfat.[?]
@@ -801,52 +850,54 @@
 <lb n="389" />...]rolis aλa[?]</p>
 			</div>
 			<div n="72" xml:id="inscription-73" type="inscription" data-level="1">
-				<note xml:id="inscription-73-note-73" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-73-note-73-placeName-73">Sardes</placeName>
-				</note>
-				<p xml:id="inscription-73-p-74">
+				<p xml:id="inscription-73-p-75">
+					<note xml:id="inscription-73-p-75-note-73" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-73-p-75-note-73-placeName-73">Sardes</placeName>
+					</note>
 					<lb n="390" />]s kuvav[</p>
 			</div>
 			<div n="73" xml:id="inscription-74" type="inscription" data-level="1">
-				<note xml:id="inscription-74-note-74" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-74-note-74-placeName-74">Kerč</placeName>
-				</note>
-				<p xml:id="inscription-74-p-75">
+				<p xml:id="inscription-74-p-76">
+					<note xml:id="inscription-74-p-76-note-74" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-74-p-76-note-74-placeName-74">Kerč</placeName>
+					</note>
 					<lb n="391" />manel=im</p>
 			</div>
 			<div n="74" xml:id="inscription-75" type="inscription" data-level="1">
-				<note xml:id="inscription-75-note-75" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-75-note-75-placeName-75">Sardes (?)</placeName>
-				</note>
-				<p xml:id="inscription-75-p-76">
+				<p xml:id="inscription-75-p-77">
+					<note xml:id="inscription-75-p-77-note-75" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-75-p-77-note-75-placeName-75">Sardes (?)</placeName>
+					</note>
 					<lb n="392" />eś sadmẽś : mitratalis</p>
 			</div>
 			<div n="75" xml:id="inscription-76" type="inscription" data-level="1">
-				<p xml:id="inscription-76-p-77">
+				<p xml:id="inscription-76-p-78">
 					<lb n="393" />sivãml=im ate-lis</p>
 			</div>
 			<div n="76" xml:id="inscription-77" type="inscription" data-level="1">
-				<p xml:id="inscription-77-p-78">
+				<p xml:id="inscription-77-p-79">
 					<lb n="394" />taful=im</p>
 			</div>
 			<div n="78" xml:id="inscription-78" type="inscription" data-level="1">
-				<p xml:id="inscription-78-p-79">
+				<p xml:id="inscription-78-p-80">
 					<lb n="395" />nanaś</p>
 			</div>
 			<div n="79" xml:id="inscription-79" type="inscription" data-level="1">
-				<note xml:id="inscription-79-note-76" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-79-note-76-placeName-76">Aphrodisias</placeName>
-				</note>
-				<p xml:id="inscription-79-p-80">
-					<lb n="396" />[...]<lb n="397" />ś]ãntaλ [?
+				<p xml:id="inscription-79-p-81">
+					<note xml:id="inscription-79-p-81-note-76" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-79-p-81-note-76-placeName-76">Aphrodisias</placeName>
+					</note>
+					<lb n="396" />[...]
+<lb n="397" />ś]ãntaλ [?
 <lb n="398" />]talid [?</p>
 			</div>
 			<div n="80" xml:id="inscription-80" type="inscription" data-level="1">
-				<note xml:id="inscription-80-note-77" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-80-note-77-placeName-77">Sardes</placeName>
-				</note>
-				<p xml:id="inscription-80-p-81">
-					<lb n="399" />[a]larmś bis fa=t=is[?].[<lb n="400" />[.]aarcrś il amito[
+				<p xml:id="inscription-80-p-82">
+					<note xml:id="inscription-80-p-82-note-77" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-80-p-82-note-77-placeName-77">Sardes</placeName>
+					</note>
+					<lb n="399" />[a]larmś bis fa=t=is[?].[
+<lb n="400" />[.]aarcrś il amito[
 <lb n="401" />fak=ad τorśa istro.[
 <lb n="402" />bλ=k=in ãn savls dẽt[
 <lb n="403" />iśqν śfẽnis tavśẽν m[
@@ -866,198 +917,201 @@
 <lb n="417" />[...]ẽ[...</p>
 			</div>
 			<div n="81" xml:id="inscription-81" type="inscription" data-level="1">
-				<note xml:id="inscription-81-note-78" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-81-note-78-placeName-78">Sardes</placeName>
-				</note>
-				<p xml:id="inscription-81-p-82">
+				<p xml:id="inscription-81-p-83">
+					<note xml:id="inscription-81-p-83-note-78" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-81-p-83-note-78-placeName-78">Sardes</placeName>
+					</note>
 					<lb n="418" />badi[...(6)...]l</p>
 			</div>
 			<div n="82" xml:id="inscription-82" type="inscription" data-level="1">
-				<note xml:id="inscription-82-note-79" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-82-note-79-placeName-79">Sardes</placeName>
-				</note>
-				<p xml:id="inscription-82-p-83">
+				<p xml:id="inscription-82-p-84">
+					<note xml:id="inscription-82-p-84-note-79" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-82-p-84-note-79-placeName-79">Sardes</placeName>
+					</note>
 					<lb n="419" />]lma[</p>
 			</div>
 			<div n="83" xml:id="inscription-83" type="inscription" data-level="1">
-				<note xml:id="inscription-83-note-80" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-83-note-80-placeName-80">Sardes</placeName>
-				</note>
-				<p xml:id="inscription-83-p-84">
+				<p xml:id="inscription-83-p-85">
+					<note xml:id="inscription-83-p-85-note-80" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-83-p-85-note-80-placeName-80">Sardes</placeName>
+					</note>
 					<lb n="420" />]uli[s(?)</p>
 			</div>
 			<div n="84" xml:id="inscription-84" type="inscription" data-level="1">
-				<note xml:id="inscription-84-note-81" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-84-note-81-placeName-81">Sardes</placeName>
-				</note>
-				<p xml:id="inscription-84-p-85">
+				<p xml:id="inscription-84-p-86">
+					<note xml:id="inscription-84-p-86-note-81" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-84-p-86-note-81-placeName-81">Sardes</placeName>
+					</note>
 					<lb n="421" />]ulis[</p>
 			</div>
 			<div n="85" xml:id="inscription-85" type="inscription" data-level="1">
-				<note xml:id="inscription-85-note-82" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-85-note-82-placeName-82">Sardes</placeName>
-				</note>
-				<p xml:id="inscription-85-p-86">
+				<p xml:id="inscription-85-p-87">
+					<note xml:id="inscription-85-p-87-note-82" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-85-p-87-note-82-placeName-82">Sardes</placeName>
+					</note>
 					<lb n="422" />] va [</p>
 			</div>
 			<div n="86" xml:id="inscription-86" type="inscription" data-level="1">
-				<note xml:id="inscription-86-note-83" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-86-note-83-placeName-83">Sardes</placeName>
-				</note>
-				<p xml:id="inscription-86-p-87">
+				<p xml:id="inscription-86-p-88">
+					<note xml:id="inscription-86-p-88-note-83" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-86-p-88-note-83-placeName-83">Sardes</placeName>
+					</note>
 					<lb n="423" />]. ka [</p>
 			</div>
 			<div n="87" xml:id="inscription-87" type="inscription" data-level="1">
-				<note xml:id="inscription-87-note-84" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-87-note-84-placeName-84">Sardes</placeName>
-				</note>
-				<p xml:id="inscription-87-p-88">
+				<p xml:id="inscription-87-p-89">
+					<note xml:id="inscription-87-p-89-note-84" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-87-p-89-note-84-placeName-84">Sardes</placeName>
+					</note>
 					<lb n="424" />]ma[</p>
 			</div>
 			<div n="88" xml:id="inscription-88" type="inscription" data-level="1">
-				<note xml:id="inscription-88-note-85" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-88-note-85-placeName-85">Sardes</placeName>
-				</note>
-				<p xml:id="inscription-88-p-89">
+				<p xml:id="inscription-88-p-90">
+					<note xml:id="inscription-88-p-90-note-85" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-88-p-90-note-85-placeName-85">Sardes</placeName>
+					</note>
 					<lb n="425" />] ba [</p>
 			</div>
 			<div n="89" xml:id="inscription-89" type="inscription" data-level="1">
-				<note xml:id="inscription-89-note-86" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-89-note-86-placeName-86">Sardes</placeName>
-				</note>
-				<p xml:id="inscription-89-p-90">
+				<p xml:id="inscription-89-p-91">
+					<note xml:id="inscription-89-p-91-note-86" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-89-p-91-note-86-placeName-86">Sardes</placeName>
+					</note>
 					<lb n="426" />]uk[</p>
 			</div>
 			<div n="90" xml:id="inscription-90" type="inscription" data-level="1">
-				<note xml:id="inscription-90-note-87" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-90-note-87-placeName-87">Sardes</placeName>
-				</note>
-				<p xml:id="inscription-90-p-91">
+				<p xml:id="inscription-90-p-92">
+					<note xml:id="inscription-90-p-92-note-87" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-90-p-92-note-87-placeName-87">Sardes</placeName>
+					</note>
 					<lb n="427" />]ma[</p>
 			</div>
 			<div n="91" xml:id="inscription-91" type="inscription" data-level="1">
-				<note xml:id="inscription-91-note-88" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-91-note-88-placeName-88">Sardes</placeName>
-				</note>
-				<p xml:id="inscription-91-p-92">
+				<p xml:id="inscription-91-p-93">
+					<note xml:id="inscription-91-p-93-note-88" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-91-p-93-note-88-placeName-88">Sardes</placeName>
+					</note>
 					<lb n="428" />] ba[</p>
 			</div>
 			<div n="92" xml:id="inscription-92" type="inscription" data-level="1">
-				<note xml:id="inscription-92-note-89" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-92-note-89-placeName-89">Sardes</placeName>
-				</note>
-				<p xml:id="inscription-92-p-93">
+				<p xml:id="inscription-92-p-94">
+					<note xml:id="inscription-92-p-94-note-89" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-92-p-94-note-89-placeName-89">Sardes</placeName>
+					</note>
 					<lb n="429" />]min[</p>
 			</div>
 			<div n="93" xml:id="inscription-93" type="inscription" data-level="1">
-				<note xml:id="inscription-93-note-90" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-93-note-90-placeName-90">Sardes</placeName>
-				</note>
-				<p xml:id="inscription-93-p-94">
+				<p xml:id="inscription-93-p-95">
+					<note xml:id="inscription-93-p-95-note-90" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-93-p-95-note-90-placeName-90">Sardes</placeName>
+					</note>
 					<lb n="430" />art</p>
 			</div>
 			<div n="94" xml:id="inscription-94" type="inscription" data-level="1">
-				<note xml:id="inscription-94-note-91" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-94-note-91-placeName-91">Sardes</placeName>
-				</note>
-				<p xml:id="inscription-94-p-95">
+				<p xml:id="inscription-94-p-96">
+					<note xml:id="inscription-94-p-96-note-91" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-94-p-96-note-91-placeName-91">Sardes</placeName>
+					</note>
 					<lb n="431" />].a.ś</p>
 			</div>
 			<div n="95" xml:id="inscription-95" type="inscription" data-level="1">
-				<note xml:id="inscription-95-note-92" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-95-note-92-placeName-92">Sardes (?)</placeName>
-				</note>
-				<p xml:id="inscription-95-p-96">
+				<p xml:id="inscription-95-p-97">
+					<note xml:id="inscription-95-p-97-note-92" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-95-p-97-note-92-placeName-92">Sardes (?)</placeName>
+					</note>
 					<lb n="432" />tetel=im</p>
 			</div>
 			<div n="96" xml:id="inscription-96" type="inscription" data-level="1">
-				<note xml:id="inscription-96-note-93" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-96-note-93-placeName-93">Old-Smyrna</placeName>
-				</note>
-				<p xml:id="inscription-96-p-97">
+				<p xml:id="inscription-96-p-98">
+					<note xml:id="inscription-96-p-98-note-93" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-96-p-98-note-93-placeName-93">Old-Smyrna</placeName>
+					</note>
 					<lb n="433" />]vmś</p>
 			</div>
 			<div n="97" xml:id="inscription-97" type="inscription" data-level="1">
-				<note xml:id="inscription-97-note-94" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-97-note-94-placeName-94">Old-Smyrna</placeName>
-				</note>
-				<p xml:id="inscription-97-p-98">
+				<p xml:id="inscription-97-p-99">
+					<note xml:id="inscription-97-p-99-note-94" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-97-p-99-note-94-placeName-94">Old-Smyrna</placeName>
+					</note>
 					<lb n="434" />?]unaν : eś : śdi.[</p>
 			</div>
 			<div n="98" xml:id="inscription-98" type="inscription" data-level="1">
-				<note xml:id="inscription-98-note-95" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-98-note-95-placeName-95">Old-Smyrna</placeName>
-				</note>
-				<p xml:id="inscription-98-p-99">
-					<lb n="435" />śil[ ]karol<lb n="436" />ar[ti]mal=k</p>
+				<p xml:id="inscription-98-p-100">
+					<note xml:id="inscription-98-p-100-note-95" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-98-p-100-note-95-placeName-95">Old-Smyrna</placeName>
+					</note>
+					<lb n="435" />śil[ ]karol
+<lb n="436" />ar[ti]mal=k</p>
 			</div>
 			<div n="99" xml:id="inscription-99" type="inscription" data-level="1">
-				<note xml:id="inscription-99-note-96" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-99-note-96-placeName-96">Sardes</placeName>
-				</note>
-				<p xml:id="inscription-99-p-100">
+				<p xml:id="inscription-99-p-101">
+					<note xml:id="inscription-99-p-101-note-96" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-99-p-101-note-96-placeName-96">Sardes</placeName>
+					</note>
 					<lb n="437" />[bra]vrsis bil [</p>
 			</div>
 			<div n="100" xml:id="inscription-100" type="inscription" data-level="1">
-				<note xml:id="inscription-100-note-97" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-100-note-97-placeName-97">Sardes</placeName>
-				</note>
-				<p xml:id="inscription-100-p-101">
+				<p xml:id="inscription-100-p-102">
+					<note xml:id="inscription-100-p-102-note-97" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-100-p-102-note-97-placeName-97">Sardes</placeName>
+					</note>
 					<lb n="438" />]urdo[</p>
 			</div>
 			<div n="101" xml:id="inscription-101" type="inscription" data-level="1">
-				<note xml:id="inscription-101-note-98" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-101-note-98-placeName-98">Sardes</placeName>
-				</note>
-				<p xml:id="inscription-101-p-102">
-					<lb n="439" />[...(7)...m]anelis<lb n="440" />[...(7)...]is inal</p>
+				<p xml:id="inscription-101-p-103">
+					<note xml:id="inscription-101-p-103-note-98" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-101-p-103-note-98-placeName-98">Sardes</placeName>
+					</note>
+					<lb n="439" />[...(7)...m]anelis
+<lb n="440" />[...(7)...]is inal</p>
 			</div>
 			<div n="102" xml:id="inscription-102" type="inscription" data-level="1">
-				<p xml:id="inscription-102-p-103">
+				<p xml:id="inscription-102-p-104">
 					<lb n="441" />ośflś</p>
 			</div>
 			<div n="103" xml:id="inscription-103" type="inscription" data-level="1">
-				<note xml:id="inscription-103-note-99" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-103-note-99-placeName-99">Sardes</placeName>
-				</note>
-				<p xml:id="inscription-103-p-104">
+				<p xml:id="inscription-103-p-105">
+					<note xml:id="inscription-103-p-105-note-99" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-103-p-105-note-99-placeName-99">Sardes</placeName>
+					</note>
 					<lb n="442" />] srkastulis śf[ardẽt...</p>
 			</div>
 			<div n="104" xml:id="inscription-104" type="inscription" data-level="1">
-				<p xml:id="inscription-104-p-105">
+				<p xml:id="inscription-104-p-106">
 					<lb n="443" />artymal=im</p>
 			</div>
 			<div n="105" xml:id="inscription-105" type="inscription" data-level="1">
-				<p xml:id="inscription-105-p-106">
+				<p xml:id="inscription-105-p-107">
 					<lb n="444" />laś.ẽ</p>
 			</div>
 			<div n="106" xml:id="inscription-106" type="inscription" data-level="1">
-				<p xml:id="inscription-106-p-107">
+				<p xml:id="inscription-106-p-108">
 					<lb n="445" />miλaś</p>
 			</div>
 			<div n="107" xml:id="inscription-107" type="inscription" data-level="1">
-				<note xml:id="inscription-107-note-100" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-107-note-100-placeName-100">Sardes</placeName>
-				</note>
-				<p xml:id="inscription-107-p-108">
+				<p xml:id="inscription-107-p-109">
+					<note xml:id="inscription-107-p-109-note-100" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-107-p-109-note-100-placeName-100">Sardes</placeName>
+					</note>
 					<lb n="446" />]lefś=tλ ba.[</p>
 			</div>
 			<div n="108" xml:id="inscription-108" type="inscription" data-level="1">
-				<note xml:id="inscription-108-note-101" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-108-note-101-placeName-101">Sardes</placeName>
-				</note>
-				<p xml:id="inscription-108-p-109">
-					<lb n="447" />[e]śś vanaś bakiv[alis]<lb n="448" />[...]mi.ãlis ba.[....]
+				<p xml:id="inscription-108-p-110">
+					<note xml:id="inscription-108-p-110-note-101" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-108-p-110-note-101-placeName-101">Sardes</placeName>
+					</note>
+					<lb n="447" />[e]śś vanaś bakiv[alis]
+<lb n="448" />[...]mi.ãlis ba.[....]
 <lb n="449" />[.....] vśtãś avsi.[....]
 <lb n="450" />[ak e]sλ vãnaλ q[is?]
 <lb n="451" />[fẽnsλ]ifid buk es[λ]
 <lb n="452" />[...]</p>
 			</div>
 			<div n="109" xml:id="inscription-109" type="inscription" data-level="1">
-				<note xml:id="inscription-109-note-102" xml:lang="eng-Latn">
-					<placeName xml:id="inscription-109-note-102-placeName-102">Sardes</placeName>
-				</note>
-				<p xml:id="inscription-109-p-110">
+				<p xml:id="inscription-109-p-111">
+					<note xml:id="inscription-109-p-111-note-102" xml:lang="eng-Latn">
+						<placeName xml:id="inscription-109-p-111-note-102-placeName-102">Sardes</placeName>
+					</note>
 					<lb n="453" />śo.[</p>
 			</div>
 		</body>
