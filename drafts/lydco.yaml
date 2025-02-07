@@ -3,876 +3,886 @@
     - p:
       - note[lg=eng-Latn]:
         - placeName: Sardes
-    - p[lg=arc-Latn-x-transliterated]:
-      - B 5 L-MRḤŠWN ŠNT 10 ՚RTḤŠSŠ MLK՚
-      - B-SPRD B-YRT՚ ZNH STWN՚ W-MՙRT՚ DRḤT՚
-      - ՚TRT՚ W-PRBR ZY ՙL SPRB ZNH PRBR-H ՚ḤR
-      - ZY MNY BR KMLY SRWKY՚ W-MN ZY ՙL STWN՚ ZNH ՙW
-      - MՙRT՚ ՚W L-DRḤT՚ (՚)W? L-QBL ZY PRBR L-MՙRT՚
-      - ZNH ՚ḤR MN ZY YḤBL ՚W YPRK MNDՙM ՚ḤR
-      - ՚RTMW ZY KLW W-՚PŠŠY TRBṢ-H BYT-H
-      - QNYN-H ṬYN W-MYN W-MNDՙMT-H YBDRWN-H W-YRT-H
-    - p:
-      - '...'
-      - '[o]raλ islλ bakillλ est mrud eśś=k [vãnaś]'
-      - laqrisa=k qela=k kud=k=it ist esλ vãn[aλ]
-      - bλtarvod ak=ad manelid kumlilid silukalid ak=it n[ãqis]
-      - esλ mruλ buk esλ vãnaλ buk esνaν
-      - laqirisaν buk=it kud ist esλ vãnaλ bλtarvo[d]
-      - ak=t=in nãqis qelλ=k fẽnsλifid fak=mλ artimuś
-      - ibśimsis artimu=k kulumsis aaraλ biraλ=k
-      - kλidaλ kofuλ=k qiraλ qelλ=k bilλ vcbaqẽnt
+    - text[n=1a]:
+      - head[lg=eng-Latn]: Aramaic inscription
+      - p[lg=arc-Latn-x-transliterated]:
+        - lb[n=A1]: B 5 L-MRḤŠWN ŠNT 10 ՚RTḤŠSŠ MLK՚
+        - lb[n=A2]: B-SPRD B-YRT՚ ZNH STWN՚ W-MՙRT՚ DRḤT՚
+        - lb[n=A3]: ՚TRT՚ W-PRBR ZY ՙL SPRB ZNH PRBR-H ՚ḤR
+        - lb[n=A4]: ZY MNY BR KMLY SRWKY՚ W-MN ZY ՙL STWN՚ ZNH ՙW
+        - lb[n=A5]: MՙRT՚ ՚W L-DRḤT՚ (՚)W? L-QBL ZY PRBR L-MՙRT՚
+        - lb[n=A6]: ZNH ՚ḤR MN ZY YḤBL ՚W YPRK MNDՙM ՚ḤR
+        - lb[n=A7]: ՚RTMW ZY KLW W-՚PŠŠY TRBṢ-H BYT-H
+        - lb[n=A8]: QNYN-H ṬYN W-MYN W-MNDՙMT-H YBDRWN-H W-YRT-H
+    - text[n=1b]:
+      - head[lg=eng-Latn]: Lydian inscription
+      - p:
+        - lb[n=1]: '...'
+        - lb[n=2]: '[o]raλ islλ bakillλ est mrud eśś=k [vãnaś]'
+        - lb[n=3]: laqrisa=k qela=k kud=k=it ist esλ vãn[aλ]
+        - lb[n=4]: bλtarvod ak=ad manelid kumlilid silukalid ak=it n[ãqis]
+        - lb[n=5]: esλ mruλ buk esλ vãnaλ buk esνaν
+        - lb[n=6]: laqirisaν buk=it kud ist esλ vãnaλ bλtarvo[d]
+        - lb[n=7]: ak=t=in nãqis qelλ=k fẽnsλifid fak=mλ artimuś
+        - lb[n=8]: ibśimsis artimu=k kulumsis aaraλ biraλ=k
+        - lb[n=9]: kλidaλ kofuλ=k qiraλ qelλ=k bilλ vcbaqẽnt
   - inscription[n=2]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Sardes
-      - '[b]orlλ X III II oraλ cuvellλ artakśassaλ=ś'
-      - '[q]aλmλuλ dãν eśś vãnaś mru=k bλasokiτ'
-      - qid kataνil laqrisa=k=in qid ẽtośrś ak=ad
-      - karolid sabλalid iśtubeλmlid ak=t=in
-      - nãqis fẽnsλibid esνaν mλvẽndaν iskon
-      - qid=a tamν buk vãnaλ esλ buk mruλ buk
-      - bλasoλ esλ buk laqrisaν buk=in aλẽν
-      - avλãν qis=k dctdid ist esλ vãnaλ karolλ
-      - sabλalλ karola=ś śfẽndaν arvol ak=mλ
-      - artimuν ibśimνaν kulumνa=k sivraλmn
-      - '[in]ãnu ak=t=in nãqis fẽnsλibid fak=at=aν ebad'
-      - '[..]ra bistaν taqaλaν siśirorś śfẽnda=k=mλ=in'
-      - '[..]lbuqid'
+      - lb[n=1]: '[b]orlλ X III II oraλ cuvellλ artakśassaλ=ś'
+      - lb[n=2]: '[q]aλmλuλ dãν eśś vãnaś mru=k bλasokiτ'
+      - lb[n=3]: qid kataνil laqrisa=k=in qid ẽtośrś ak=ad
+      - lb[n=4]: karolid sabλalid iśtubeλmlid ak=t=in
+      - lb[n=5]: nãqis fẽnsλibid esνaν mλvẽndaν iskon
+      - lb[n=6]: qid=a tamν buk vãnaλ esλ buk mruλ buk
+      - lb[n=7]: bλasoλ esλ buk laqrisaν buk=in aλẽν
+      - lb[n=8]: avλãν qis=k dctdid ist esλ vãnaλ karolλ
+      - lb[n=9]: sabλalλ karola=ś śfẽndaν arvol ak=mλ
+      - lb[n=10]: artimuν ibśimνaν kulumνa=k sivraλmn
+      - lb[n=11]: '[in]ãnu ak=t=in nãqis fẽnsλibid fak=at=aν ebad'
+      - lb[n=12]: '[..]ra bistaν taqaλaν siśirorś śfẽnda=k=mλ=in'
+      - lb[n=13]: '[..]lbuqid'
   - inscription[n=3]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Sardes
-      - brvãν III II aλiksãntruλ dãν eśś vãnaś es=k mrud
-      - atraśtalid timlelid ardẽc alarmś fadol vśtaś
-      - ak qis qisred fak=aś silavad fa=t nid ẽnsλibid ak=mλ
-      - levś sarẽtaś qis=it fẽnsλibid esλ vãnaλ
-      - buk esλ mruλ fak=mλ levś vcbaqẽnt
+      - lb[n=1]: brvãν III II aλiksãntruλ dãν eśś vãnaś es=k mrud
+      - lb[n=2]: atraśtalid timlelid ardẽc alarmś fadol vśtaś
+      - lb[n=3]: ak qis qisred fak=aś silavad fa=t nid ẽnsλibid ak=mλ
+      - lb[n=4]: levś sarẽtaś qis=it fẽnsλibid esλ vãnaλ
+      - lb[n=5]: buk esλ mruλ fak=mλ levś vcbaqẽnt
   - inscription[n=4a]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Sardes
-      - eś aśinaś manelis alulis ak=mλ=t qis fẽnsλibid
-      - buk esνaν anlolaν buk
-      - esλ karolλ fak=mλ śãntaś
-      - kufav=k marivda=k
-      - ẽnsλibb[i]d
+      - lb[n=1]: eś aśinaś manelis alulis ak=mλ=t qis fẽnsλibid
+      - lb[n=2]: buk esνaν anlolaν buk
+      - lb[n=3]: esλ karolλ fak=mλ śãntaś
+      - lb[n=4]: kufav=k marivda=k
+      - lb[n=5]: ẽnsλibb[i]d
   - inscription[n=4b]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Sardes
-      - eś vãnaś manelis
-      - alulis ak=mλ=t
-      - qis fẽnsλibid
-      - fak=mλ=t qλdãnś
-      - artymu=k vcbaqẽnt
+      - lb[n=1]: eś vãnaś manelis
+      - lb[n=2]: alulis ak=mλ=t
+      - lb[n=3]: qis fẽnsλibid
+      - lb[n=4]: fak=mλ=t qλdãnś
+      - lb[n=5]: artymu=k vcbaqẽnt
   - inscription[n=5]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Sardes
-      - eśś vãnaś atalis tivdalis tarvτallis
-      - ak=in kud kaτaλres ak teśaśtid sivãmlid
-      - mλola śrfaśtid mẽλalid mλola ak nãqis
-      - ẽmλ kãnaλ kileλ buk ẽminaν eśaν citalad
-      - fadint fak=mλ artimuś qiraλ qelλ=k vcbaqẽnt
+      - lb[n=1]: eśś vãnaś atalis tivdalis tarvτallis
+      - lb[n=2]: ak=in kud kaτaλres ak teśaśtid sivãmlid
+      - lb[n=3]: mλola śrfaśtid mẽλalid mλola ak nãqis
+      - lb[n=4]: ẽmλ kãnaλ kileλ buk ẽminaν eśaν citalad
+      - lb[n=5]: fadint fak=mλ artimuś qiraλ qelλ=k vcbaqẽnt
   - inscription[n=6]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Sardes
-      - eśś vãnaś sivãmlis armã-vlis
-      - ak=it qis esλ vãnaλ
-      - buk esνaν antolaν buk esν-aν
-      - laqrisaν fẽnsλibid
-      - fak=aν viśśis niviśścν
-      - varbtokid
+      - lb[n=1]: eśś vãnaś sivãmlis armã-vlis
+      - lb[n=2]: ak=it qis esλ vãnaλ
+      - lb[n=3]: buk esνaν antolaν buk esν-aν
+      - lb[n=4]: laqrisaν fẽnsλibid
+      - lb[n=5]: fak=aν viśśis niviśścν
+      - lb[n=6]: varbtokid
   - inscription[n=7]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Sardes
-      - eśś vãnaś es=[k] laqrisa
-      - es=k qelad bavafunidν
-      - ak=it nãqis esλ vãnaλ bu[k]
-      - laqrisaν buk qelaλ
-      - fẽnsλbid fak=aν viśis
-      - niviścν varbtokid
+      - lb[n=1]: eśś vãnaś es=[k] laqrisa
+      - lb[n=2]: es=k qelad bavafunidν
+      - lb[n=3]: ak=it nãqis esλ vãnaλ bu[k]
+      - lb[n=4]: laqrisaν buk qelaλ
+      - lb[n=5]: fẽnsλbid fak=aν viśis
+      - lb[n=6]: niviścν varbtokid
   - inscription[n=8]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Sardes
-      - eśś vãnaś es=k mrud es
-      - laqris=k kud=k=it esλ
-      - '[vã]naλ bλtarvod ak=a[d]'
-      - '[...]'
-      - artabãnalid katoval-i
-      - =k atraśalid ak=it nãqis
-      - fẽnsλibid esλ vãnaλ
-      - buk esλ mruλ buk esν-aν
-      - laqrisaν kud=k=it
-      - esλ vãnaλ bλtarvod
-      - fak=aν viśśis niviścν
-      - varbtokid
+      - lb[n=1]: eśś vãnaś es=k mrud es
+      - lb[n=2]: laqris=k kud=k=it esλ
+      - lb[n=3]: '[vã]naλ bλtarvod ak=a[d]'
+      - lb[n=4]: '[...]'
+      - lb[n=5]: artabãnalid katoval-i
+      - lb[n=6]: =k atraśalid ak=it nãqis
+      - lb[n=7]: fẽnsλibid esλ vãnaλ
+      - lb[n=8]: buk esλ mruλ buk esν-aν
+      - lb[n=9]: laqrisaν kud=k=it
+      - lb[n=10]: esλ vãnaλ bλtarvod
+      - lb[n=11]: fak=aν viśśis niviścν
+      - lb[n=12]: varbtokid
   - inscription[n=9]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Sardes
-      - III
-      - eśś vãnaś kumlil-is
-      - atelis śam-[..]vlis
-      - laqris-a
-      - =k ak=i[t] nãqis
-      - fẽnsλ[ibid esλ]
-      - vãnaλ bu[k esνaν]
-      - laqrisa[ν fak=aν]
-      - '[viśś]is n[iviścν]'
-      - '[varbtokid]'
+      - lb[n=1]: III
+      - lb[n=2]: eśś vãnaś kumlil-is
+      - lb[n=3]: atelis śam-[..]vlis
+      - lb[n=4]: laqris-a
+      - lb[n=5]: =k ak=i[t] nãqis
+      - lb[n=6]: fẽnsλ[ibid esλ]
+      - lb[n=7]: vãnaλ bu[k esνaν]
+      - lb[n=8]: laqrisa[ν fak=aν]
+      - lb[n=9]: '[viśś]is n[iviścν]'
+      - lb[n=10]: '[varbtokid]'
   - inscription[n=10]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Sardes
-      - es[t] mrud karoś katovalis bilλ
-      - vora[λ ka]ntrol katovaλ karolλ
-      - voraλ bλ [bili=k] iskubtoλ dum=mλ=is sellis
-      - veśfa=k voraś dacal
-      - est=it qid trodν sẽsvad qistoridν kaśtãν
-      - mruλ=it trodν fẽlla=k=in tamν trfãν
-      - f=aś katul fak=it mruλ=k ẽnsarbtat
-      - ak cẽnal nãrś qλ serś civνalis kaττadmẽś
-      - fak=m=it ẽnud ist katovalλ sadmẽλ
-      - fak=mś=ad amu kov civard kot
-      - sλẽcad laλẽnś [> civν fadofidν
-      - tavśẽν ak=um nãqid kol fak=m=it
-      - el eds vaśtνunlis qasaaś
-      - nãm qid kot aλtokad ak=mλ=ad
-      - sλẽcad qirad [> iśq=k=um qardoλcν
-      - facasidν fak=um ãn islodaλ
-      - alarmn kaśtaλcν kud nak
-      - ẽnaś amãś qed=m bis ẽtamν unadν
-      - ak ebad inãnidν śfarvad
-      - ak cẽnu ẽna=k taada=k sivetτis santoλ
-      - τ
-      - faśisa malãν nak kim ãs
-      - ẽnaλ=t bakivalλ mrud bśl
-      - esλ=it mr qis fẽnsλibid ak=aν viśśis
-      - niviścν varbtok
+      - lb[n=1]: es[t] mrud karoś katovalis bilλ
+      - lb[n=2]: vora[λ ka]ntrol katovaλ karolλ
+      - lb[n=3]: voraλ bλ [bili=k] iskubtoλ dum=mλ=is sellis
+      - lb[n=4]: veśfa=k voraś dacal
+      - lb[n=5]: est=it qid trodν sẽsvad qistoridν kaśtãν
+      - lb[n=6]: mruλ=it trodν fẽlla=k=in tamν trfãν
+      - lb[n=7]: f=aś katul fak=it mruλ=k ẽnsarbtat
+      - lb[n=8]: ak cẽnal nãrś qλ serś civνalis kaττadmẽś
+      - lb[n=9]: fak=m=it ẽnud ist katovalλ sadmẽλ
+      - lb[n=10]: fak=mś=ad amu kov civard kot
+      - lb[n=11]: sλẽcad laλẽnś [> civν fadofidν
+      - lb[n=12]: tavśẽν ak=um nãqid kol fak=m=it
+      - lb[n=13]: el eds vaśtνunlis qasaaś
+      - lb[n=14]: nãm qid kot aλtokad ak=mλ=ad
+      - lb[n=15]: sλẽcad qirad [> iśq=k=um qardoλcν
+      - lb[n=16]: facasidν fak=um ãn islodaλ
+      - lb[n=17]: alarmn kaśtaλcν kud nak
+      - lb[n=18]: ẽnaś amãś qed=m bis ẽtamν unadν
+      - lb[n=19]: ak ebad inãnidν śfarvad
+      - lb[n=20]: ak cẽnu ẽna=k taada=k sivetτis santoλ
+      - lb[n=21]: τ
+      - lb[n=22]: faśisa malãν nak kim ãs
+      - lb[n=23]: ẽnaλ=t bakivalλ mrud bśl
+      - lb[n=24]: esλ=it mr qis fẽnsλibid ak=aν viśśis
+      - lb[n=25]: niviścν varbtok
   - inscription[n=11]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Sardes
-      - est mruvaad saristrośλ śfarvad aśtrkoλ
-      - vãnτaś vicν areλ kaτared=k=mś iskoś
-      - aνiś qid=ad savν vratuλ arśτãnsrś kasnod
-      - kśbλtaλ=k=ś atrgolλ tafaaλ fabaλkol
-      - avkaν ẽtamν uved=m=aś varedtaλ śfatoś
-      - kot=aś cat qed=k=τ=ad cfiśad isaaλal umνod
-      - saristrośλ srkastuś katovalis śuλoś
-      - datrośis qaλmλad qis labtãnal atrokl
-      - śfarda=k artimuλ dãν caqrlaλ aśtrkoλ
-      - fak=iτ est inal adalλ aksaakmλ iskod
-      - vãnτa=k=t esνaν ifrol qis fakorfid katofn
-      - buk mruvaaλ fak=mλ=at=aν viśśis vaarś nid kantrod
+      - lb[n=1]: est mruvaad saristrośλ śfarvad aśtrkoλ
+      - lb[n=2]: vãnτaś vicν areλ kaτared=k=mś iskoś
+      - lb[n=3]: aνiś qid=ad savν vratuλ arśτãnsrś kasnod
+      - lb[n=4]: kśbλtaλ=k=ś atrgolλ tafaaλ fabaλkol
+      - lb[n=5]: avkaν ẽtamν uved=m=aś varedtaλ śfatoś
+      - lb[n=6]: kot=aś cat qed=k=τ=ad cfiśad isaaλal umνod
+      - lb[n=7]: saristrośλ srkastuś katovalis śuλoś
+      - lb[n=8]: datrośis qaλmλad qis labtãnal atrokl
+      - lb[n=9]: śfarda=k artimuλ dãν caqrlaλ aśtrkoλ
+      - lb[n=10]: fak=iτ est inal adalλ aksaakmλ iskod
+      - lb[n=11]: vãnτa=k=t esνaν ifrol qis fakorfid katofn
+      - lb[n=12]: buk mruvaaλ fak=mλ=at=aν viśśis vaarś nid kantrod
   - inscription[n=12]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Sardes
-      - est mru sivãmlλ saroλ ẽntarfλod
-      - dum=(m)λ=is nid qaaslλ veśfaś alarmλ cavλoś
-      - ak=aν mλvẽsis vνisλ lẽν savkarbloś
-      - cinaλ qis qiraλ fẽtvintat tutrloλ
-      - nin=in nid qaaslis vãnaλ akτaλ favkufot
-      - iśaś il alarmś τeśaś kud=ãk islukol
-      - nir=at nãν sirmaλ ẽn ãn ismẽnlis śfatoś
-      - bili=k eśś śfatrτaś vroλt laafcν tulod
-      - kot lumbaaś dum=mλ=it kocvid niqasllλ tatrot
-      - nin linẽd vνisλ lẽν fẽntasẽnaν lafod
+      - lb[n=1]: est mru sivãmlλ saroλ ẽntarfλod
+      - lb[n=2]: dum=(m)λ=is nid qaaslλ veśfaś alarmλ cavλoś
+      - lb[n=3]: ak=aν mλvẽsis vνisλ lẽν savkarbloś
+      - lb[n=4]: cinaλ qis qiraλ fẽtvintat tutrloλ
+      - lb[n=5]: nin=in nid qaaslis vãnaλ akτaλ favkufot
+      - lb[n=6]: iśaś il alarmś τeśaś kud=ãk islukol
+      - lb[n=7]: nir=at nãν sirmaλ ẽn ãn ismẽnlis śfatoś
+      - lb[n=8]: bili=k eśś śfatrτaś vroλt laafcν tulod
+      - lb[n=9]: kot lumbaaś dum=mλ=it kocvid niqasllλ tatrot
+      - lb[n=10]: nin linẽd vνisλ lẽν fẽntasẽnaν lafod
   - inscription[n=13]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Sardes
-      - il=im ãnas iśaś kud=m=ãk cẽnsidν alarmaś
-      - amu=k nãsi=k ẽmis istaminlis vśtaaś
-      - datrośis=k saryś nãν isqasãnvν qiraad
-      - kot=τ=in aśfã=k cesvν aśtrkot midaτad
-      - kud=τ=in atνãν nak fasivν afaλaλ=k
-      - nik=τ=aś bitat ul=τ=in koττiś tarblaś
-      - fak=τ=in davicil istaminlaν qiraaλ
-      - ẽna=t faśfẽnvν lẽm=k τaλalaν aνatν
-      - ak=ad vratoś aśẽmλ votlλ tarbτad
-      - '[...]ẽν siτẽnit kot=τ=in kocvid kancat'
-      - '[......]ãn τẽnvν ni=τ=in vratoś sikimλaν'
-      - '[.......]śtolν qedna=k volν kibτad'
-      - '[..............]aśẽmis eλoś iślaaś'
+      - lb[n=1]: il=im ãnas iśaś kud=m=ãk cẽnsidν alarmaś
+      - lb[n=2]: amu=k nãsi=k ẽmis istaminlis vśtaaś
+      - lb[n=3]: datrośis=k saryś nãν isqasãnvν qiraad
+      - lb[n=4]: kot=τ=in aśfã=k cesvν aśtrkot midaτad
+      - lb[n=5]: kud=τ=in atνãν nak fasivν afaλaλ=k
+      - lb[n=6]: nik=τ=aś bitat ul=τ=in koττiś tarblaś
+      - lb[n=7]: fak=τ=in davicil istaminlaν qiraaλ
+      - lb[n=8]: ẽna=t faśfẽnvν lẽm=k τaλalaν aνatν
+      - lb[n=9]: ak=ad vratoś aśẽmλ votlλ tarbτad
+      - lb[n=10]: '[...]ẽν siτẽnit kot=τ=in kocvid kancat'
+      - lb[n=11]: '[......]ãn τẽnvν ni=τ=in vratoś sikimλaν'
+      - lb[n=12]: '[.......]śtolν qedna=k volν kibτad'
+      - lb[n=13]: '[..............]aśẽmis eλoś iślaaś'
   - inscription[n=14]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Sardes
-      - mru=m=it baal dum=is qλ[......]ś factot
-      - aśtrkota=k savtaarś eλf=k....]λa=k taśo=k
-      - nã=m baλτaś ist savkorfλ[...sav]taarλ=k arktoλ
-      - fak=m=at τeλmdaν śνãλaν ẽ[......]śakoś
-      - caqrlãν ak=um adẽnν a[......a]larmlν ẽtolt
-      - faśqν niqaaslad ak=m ciraλad iskod
-      - istaν qλaśtãnu ni=k mrslaś sitarfλoś
-      - dã=k=um est siqr[ ]saralλ taktod
-      - kot=iś famrasidν[     ] qiraλ ẽnvνatoλ=k
-      - lẽmś=um taada[     ] eśt kaτfλads qλ śatrot
-      - ãnś qλ nśa[ ]ararmś facato[.]
-      - kibτama[ ]ankãν[...]śtrol
-      - qaλm=k c[     ] fa=m qiraλ [.....]trol
-      - umν=it [    ] otraν adalλ fartol
-      - '[...]ś[     ] tartaś fak=m=is col'
-      - '[      ]fa=mλ=ad taadaś ẽntrol'
-      - '[     ] facatil kukok'
-      - '[    ]sid fabad ẽnτavλoλ'
-      - '[       ]s sivraλaλ karftoś'
+      - lb[n=1]: mru=m=it baal dum=is qλ[......]ś factot
+      - lb[n=2]: aśtrkota=k savtaarś eλf=k....]λa=k taśo=k
+      - lb[n=3]: nã=m baλτaś ist savkorfλ[...sav]taarλ=k arktoλ
+      - lb[n=4]: fak=m=at τeλmdaν śνãλaν ẽ[......]śakoś
+      - lb[n=5]: caqrlãν ak=um adẽnν a[......a]larmlν ẽtolt
+      - lb[n=6]: faśqν niqaaslad ak=m ciraλad iskod
+      - lb[n=7]: istaν qλaśtãnu ni=k mrslaś sitarfλoś
+      - lb[n=8]: dã=k=um est siqr[ ]saralλ taktod
+      - lb[n=9]: kot=iś famrasidν[     ] qiraλ ẽnvνatoλ=k
+      - lb[n=10]: lẽmś=um taada[     ] eśt kaτfλads qλ śatrot
+      - lb[n=11]: ãnś qλ nśa[ ]ararmś facato[.]
+      - lb[n=12]: kibτama[ ]ankãν[...]śtrol
+      - lb[n=13]: qaλm=k c[     ] fa=m qiraλ [.....]trol
+      - lb[n=14]: umν=it [    ] otraν adalλ fartol
+      - lb[n=15]: '[...]ś[     ] tartaś fak=m=is col'
+      - lb[n=16]: '[      ]fa=mλ=ad taadaś ẽntrol'
+      - lb[n=17]: '[     ] facatil kukok'
+      - lb[n=18]: '[    ]sid fabad ẽnτavλoλ'
+      - lb[n=19]: '[       ]s sivraλaλ karftoś'
   - inscription[n=15]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Sardes
-      - '[    ]mλiλś nid kafolcν fadil'
-      - '[     ] kolcis tarblaś fẽnanil'
-      - '[     ]śtil ãnś kocvid qis tfil'
-      - '[     ]kud=ãk fasivλidν'
-      - '[    ]τad tarblatil mari[..]'
-      - '[     ]is irẽnν sanil'
-      - '[     ]mtν fistrovν a[..]'
-      - '[     ]qelqil siviś'
-      - '[     ]vãnaλ ba[    ]'
-      - '[    ]caqr[    ]'
+      - lb[n=1]: '[    ]mλiλś nid kafolcν fadil'
+      - lb[n=2]: '[     ] kolcis tarblaś fẽnanil'
+      - lb[n=3]: '[     ]śtil ãnś kocvid qis tfil'
+      - lb[n=4]: '[     ]kud=ãk fasivλidν'
+      - lb[n=5]: '[    ]τad tarblatil mari[..]'
+      - lb[n=6]: '[     ]is irẽnν sanil'
+      - lb[n=7]: '[     ]mtν fistrovν a[..]'
+      - lb[n=8]: '[     ]qelqil siviś'
+      - lb[n=9]: '[     ]vãnaλ ba[    ]'
+      - lb[n=10]: '[    ]caqr[    ]'
   - inscription[n=16]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Sardes
-      - '[...eśś v]ãnaś tivdalis [...]'
-      - '[...]λmlis borlλ ś[...]'
-      - '[...qa]λmλuλ dãν[...]'
-      - '[...]alarmś sidλ[...]'
-      - '[...]ẽl[...]'
+      - lb[n=1]: '[...eśś v]ãnaś tivdalis [...]'
+      - lb[n=2]: '[...]λmlis borlλ ś[...]'
+      - lb[n=3]: '[...qa]λmλuλ dãν[...]'
+      - lb[n=4]: '[...]alarmś sidλ[...]'
+      - lb[n=5]: '[...]ẽl[...]'
   - inscription[n=17]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Sardes
-      - '[...siv]ãmlis ak=it qis'
-      - '[...esνa]ν anlolaν fẽnsλib[id]'
-      - '[...katsa]rlokid ẽna=k=mλ[...]'
+      - lb[n=1]: '[...siv]ãmlis ak=it qis'
+      - lb[n=2]: '[...esνa]ν anlolaν fẽnsλib[id]'
+      - lb[n=3]: '[...katsa]rlokid ẽna=k=mλ[...]'
   - inscription[n=18]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Sardes
-      - '[...]'
-      - e. vãnaν qisredν ni=m=it fẽnsλi[bid]
-      - ak=mś=in śof
+      - lb[n=1]: '[...]'
+      - lb[n=2]: e. vãnaν qisredν ni=m=it fẽnsλi[bid]
+      - lb[n=3]: ak=mś=in śof
   - inscription[n=19]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Sardes
-      - '[...]'
-      - fẽnsλibid bi[...]
-      - fẽncãν bi[...]
-      - fak[...]
+      - lb[n=1]: '[...]'
+      - lb[n=2]: fẽnsλibid bi[...]
+      - lb[n=3]: fẽncãν bi[...]
+      - lb[n=4]: fak[...]
   - inscription[n=20]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Sardes
-      - nannaś bakivalis artimuλ
+      - lb[n=1]: nannaś bakivalis artimuλ
   - inscription[n=21]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Sardes
-      - '[m]an[e]ś bakivalis mane[lis(?)] artim[uλ(?)]'
+      - lb[n=1]: '[m]an[e]ś bakivalis mane[lis(?)] artim[uλ(?)]'
   - inscription[n=22]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Sardes
-      - est mrud śfardẽnτ facνiris mλimnaś vicν
-      - dum=mś ebad favnẽris amẽd śfardẽtλ aśtrkoλ
-      - mλatalad mλimnś aλidad viśvid kaττirś
-      - fak śfardẽta=k ãn katvνẽl ãnad fẽntasẽnaν
-      - nãqid=a mλimnś ist śfarλ iitλ ak=mś aλidad
-      - viśvid kaττivν kot=it cidaλmdaν ẽnvaλaλ
-      - vaśtνun=k=mś niqeśi=k dẽt datroś=k=mś qeśis
-      - cẽntλ mλimnaν savν śfardẽtaν ak=mś=ad
-      - sivraλMis artimul kaττirś kave=k bakillis
-      - armτa=k qid=a iitλ mλimnś ist śfarλ ak=mś
-      - irduν sivraλmis artimul kaττirś ak=ad
-      - sivraλmis artimul aśfãν cẽqraλ qiraλ
-      - taqtulãt ak=mś=aś aśfãν vcbinvν śfardẽti=k
-      - aśtrkoś mλimlλ nãku=kod fakatvãmid ak qed
-      - aλidad taśod ak=mλ=ad inãnt
+      - lb[n=1]: est mrud śfardẽnτ facνiris mλimnaś vicν
+      - lb[n=2]: dum=mś ebad favnẽris amẽd śfardẽtλ aśtrkoλ
+      - lb[n=3]: mλatalad mλimnś aλidad viśvid kaττirś
+      - lb[n=4]: fak śfardẽta=k ãn katvνẽl ãnad fẽntasẽnaν
+      - lb[n=5]: nãqid=a mλimnś ist śfarλ iitλ ak=mś aλidad
+      - lb[n=6]: viśvid kaττivν kot=it cidaλmdaν ẽnvaλaλ
+      - lb[n=7]: vaśtνun=k=mś niqeśi=k dẽt datroś=k=mś qeśis
+      - lb[n=8]: cẽntλ mλimnaν savν śfardẽtaν ak=mś=ad
+      - lb[n=9]: sivraλMis artimul kaττirś kave=k bakillis
+      - lb[n=10]: armτa=k qid=a iitλ mλimnś ist śfarλ ak=mś
+      - lb[n=11]: irduν sivraλmis artimul kaττirś ak=ad
+      - lb[n=12]: sivraλmis artimul aśfãν cẽqraλ qiraλ
+      - lb[n=13]: taqtulãt ak=mś=aś aśfãν vcbinvν śfardẽti=k
+      - lb[n=14]: aśtrkoś mλimlλ nãku=kod fakatvãmid ak qed
+      - lb[n=15]: aλidad taśod ak=mλ=ad inãnt
   - inscription[n=23]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Sardes
-      - eśś syrmaś qλdãnl artimuλ=k dacuverś=t
-      - vintaś ak=it esλ sirmaλ qys fẽnsλibid
-      - niviścν fak=mλ=it=in qλdãnś tavśaś
-      - artimu=k ibśimsis katsarlokid brvã=ś
-      - III II dãν ãnτẽt mitridastaś mitratalis
-      - kaveś citoλś buk afariś qλ dẽt amudãν
-      - ak=m=aν brafrsis brafrlλ savtarid fa=kud
-      - amu ovν ak=it qed faśfẽnu ak=at qλ fakantrov
-      - ak=mλ=is qis citollad bitad
-      - fak=mλ=t=in qλdãn=k artimu=k katsarlokid
-      - buλ bilλ=k arlyllλ qyraλ ẽtverś=k=in
-      - saroka=k esνaν civaν nikumẽk
-      - savẽnt ni=k bis ni=k bilis arlyllis
-      - qys=k amu=k=it qyd faśfẽnu ak=at
-      - bavafuλ selλ=k kantoru aλaλ nid
-      - qλ=k bλesa=k dẽt tafaaś aλaś
-      - ak=it ed=ko=k ẽtqratad kot=ad amu
-      - mitridastaś fẽtamνidν ak=ś qis
-      - ẽmν ẽtamν uν favcνaśod buk in
-      - mẽtrid buk bidẽν qi=k int ak=mλ=i[s]
-      - qed ẽnud ẽtamś uν ak=ad artimuś
-      - biferś=t
+      - lb[n=1]: eśś syrmaś qλdãnl artimuλ=k dacuverś=t
+      - lb[n=2]: vintaś ak=it esλ sirmaλ qys fẽnsλibid
+      - lb[n=3]: niviścν fak=mλ=it=in qλdãnś tavśaś
+      - lb[n=4]: artimu=k ibśimsis katsarlokid brvã=ś
+      - lb[n=5]: III II dãν ãnτẽt mitridastaś mitratalis
+      - lb[n=6]: kaveś citoλś buk afariś qλ dẽt amudãν
+      - lb[n=7]: ak=m=aν brafrsis brafrlλ savtarid fa=kud
+      - lb[n=8]: amu ovν ak=it qed faśfẽnu ak=at qλ fakantrov
+      - lb[n=9]: ak=mλ=is qis citollad bitad
+      - lb[n=10]: fak=mλ=t=in qλdãn=k artimu=k katsarlokid
+      - lb[n=11]: buλ bilλ=k arlyllλ qyraλ ẽtverś=k=in
+      - lb[n=12]: saroka=k esνaν civaν nikumẽk
+      - lb[n=13]: savẽnt ni=k bis ni=k bilis arlyllis
+      - lb[n=14]: qys=k amu=k=it qyd faśfẽnu ak=at
+      - lb[n=15]: bavafuλ selλ=k kantoru aλaλ nid
+      - lb[n=16]: qλ=k bλesa=k dẽt tafaaś aλaś
+      - lb[n=17]: ak=it ed=ko=k ẽtqratad kot=ad amu
+      - lb[n=18]: mitridastaś fẽtamνidν ak=ś qis
+      - lb[n=19]: ẽmν ẽtamν uν favcνaśod buk in
+      - lb[n=20]: mẽtrid buk bidẽν qi=k int ak=mλ=i[s]
+      - lb[n=21]: qed ẽnud ẽtamś uν ak=ad artimuś
+      - lb[n=22]: biferś=t
   - inscription[n=24]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Sardes
-      - ãnτẽt mitridastaś mitra[talis]
-      - kaveś nak amu katosν faov
-      - ak=it nãqid serlis srmlis
-      - amu fadifil buk=τ=ad amudãν
-      - fak[.]nal buk=mλ=ad amu bitocν
-      - bidν qed=k=mλ aλad fẽtamνidν
-      - ak=mλ=is qis citollad bitaad
-      - buk=mλ=is fakarsed qi=k buk=mλ=a[d]
-      - fabuverftaλ buk=mλ=it basνśak-
-      - νãkid niviślλ qelλ=k buk
-      - mẽtlid buk bidẽν qi=k int
-      - fak=mλ=it artimuś ibśimsis
-      - katsarlokid bλ bilλ=k arlilλ
-      - qiraλ artimuλ=k=in ẽtversn
-      - saroka=k nikumẽk savẽnt ni=k
-      - bis ni=k bil śfẽnis serli=k srmlis
-      - ãnτẽt nak amu mitridastaλ=ś
-      - katosν faov ak=it amu nãqid
-      - faśfẽnu nak aaraν nak bira=k
-      - '[n]ak dẽtν ẽmν ak=at amu mitridas[taλ]'
-      - '[ka]veλ kantoru savvaśτal ak=mλ'
-      - '[aλaś] nid qis=k dẽt ifrlis mitridasta[.]'
-      - '[...(15)..(?)b]itad mitridastaś [...]'
+      - lb[n=1]: ãnτẽt mitridastaś mitra[talis]
+      - lb[n=2]: kaveś nak amu katosν faov
+      - lb[n=3]: ak=it nãqid serlis srmlis
+      - lb[n=4]: amu fadifil buk=τ=ad amudãν
+      - lb[n=5]: fak[.]nal buk=mλ=ad amu bitocν
+      - lb[n=6]: bidν qed=k=mλ aλad fẽtamνidν
+      - lb[n=7]: ak=mλ=is qis citollad bitaad
+      - lb[n=8]: buk=mλ=is fakarsed qi=k buk=mλ=a[d]
+      - lb[n=9]: fabuverftaλ buk=mλ=it basνśak-
+      - lb[n=10]: νãkid niviślλ qelλ=k buk
+      - lb[n=11]: mẽtlid buk bidẽν qi=k int
+      - lb[n=12]: fak=mλ=it artimuś ibśimsis
+      - lb[n=13]: katsarlokid bλ bilλ=k arlilλ
+      - lb[n=14]: qiraλ artimuλ=k=in ẽtversn
+      - lb[n=15]: saroka=k nikumẽk savẽnt ni=k
+      - lb[n=16]: bis ni=k bil śfẽnis serli=k srmlis
+      - lb[n=17]: ãnτẽt nak amu mitridastaλ=ś
+      - lb[n=18]: katosν faov ak=it amu nãqid
+      - lb[n=19]: faśfẽnu nak aaraν nak bira=k
+      - lb[n=20]: '[n]ak dẽtν ẽmν ak=at amu mitridas[taλ]'
+      - lb[n=21]: '[ka]veλ kantoru savvaśτal ak=mλ'
+      - lb[n=22]: '[aλaś] nid qis=k dẽt ifrlis mitridasta[.]'
+      - lb[n=23]: '[...(15)..(?)b]itad mitridastaś [...]'
   - inscription[n=25]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Sardes
-      - '[    ]is ta[    ]'
-      - '[   kat]ovalis man[    ]'
-      - '[    k]arolis tivd[    ]'
-      - '[    k]arolis ma[    ]'
-      - '[   ar]timulis [    ]'
-      - '[    ]is m[    ]'
+      - lb[n=1]: '[    ]is ta[    ]'
+      - lb[n=2]: '[   kat]ovalis man[    ]'
+      - lb[n=3]: '[    k]arolis tivd[    ]'
+      - lb[n=4]: '[    k]arolis ma[    ]'
+      - lb[n=5]: '[   ar]timulis [    ]'
+      - lb[n=6]: '[    ]is m[    ]'
   - inscription[n=26]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Mersindere
-      - eś sadmẽś es=k mrud alikrelid karol[id(?)] anlali=k atraśt[alid(?)]
-      - kaveś lamẽtrulis qis alikamśo=k bilis [ti]vdalis atalid a[k=it]
-      - '[esλ s]admẽλ buk esλ mruλ buk esνaν maśtãν qis fẽn[sλibid   ]'
-      - '[    ]lamẽtruś [....] sa[dmẽ]λ artimu=k aśbluvaś viś[        ]'
+      - lb[n=1]: eś sadmẽś es=k mrud alikrelid karol[id(?)] anlali=k atraśt[alid(?)]
+      - lb[n=2]: kaveś lamẽtrulis qis alikamśo=k bilis [ti]vdalis atalid a[k=it]
+      - lb[n=3]: '[esλ s]admẽλ buk esλ mruλ buk esνaν maśtãν qis fẽn[sλibid   ]'
+      - lb[n=4]: '[    ]lamẽtruś [....] sa[dmẽ]λ artimu=k aśbluvaś viś[        ]'
   - inscription[n=27]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Sardes
-      - '[...]'
-      - '[   ]ẽrblocimλ'
-      - '[    ]il karo=k=it ẽndiblint'
-      - '[    ]ocν iraν cuλdalẽλ taacdaν bimirś śfarda=k'
+      - lb[n=1]: '[...]'
+      - lb[n=2]: '[   ]ẽrblocimλ'
+      - lb[n=3]: '[    ]il karo=k=it ẽndiblint'
+      - lb[n=4]: '[    ]ocν iraν cuλdalẽλ taacdaν bimirś śfarda=k'
   - inscription[n=28]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Sardes
-      - '[    ]ftellis kaveś inl'
+      - lb[n=1]: '[    ]ftellis kaveś inl'
   - inscription[n=29]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Sardes
-      - '[   ]ud'
-      - '[   ]re'
+      - lb[n=1]: '[   ]ud'
+      - lb[n=2]: '[   ]re'
   - inscription[n=30]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Sardes
-      - 'titiś=in : ẽmν : tiśardν : fabil'
-      - 'ataλ : kitvaλ'
+      - lb[n=1]: 'titiś=in : ẽmν : tiśardν : fabil'
+      - lb[n=2]: 'ataλ : kitvaλ'
   - inscription[n=31]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Sardes
-      - śaśa
+      - lb[n=1]: śaśa
   - inscription[n=32]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Sardes
-      - '[    ]ralulis kardal'
+      - lb[n=1]: '[    ]ralulis kardal'
   - inscription[n=33]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Sardes
-      - mivad
+      - lb[n=1]: mivad
   - inscription[n=34]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Sardes
-      - eg
+      - lb[n=1]: eg
   - inscription[n=35]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Sardes
-      - cm
+      - lb[n=1]: cm
   - inscription[n=36]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Sardes
-      - .ru
+      - lb[n=1]: .ru
   - inscription[n=37]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Sardes
-      - art f
+      - lb[n=1]: art f
   - inscription[n=38]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Sardes
-      - ly
+      - lb[n=1]: ly
   - inscription[n=39]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Sardes
-      - tiv
+      - lb[n=1]: tiv
   - inscription[n=40]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Pergamon
-      - esν taśẽν acνil
-      - bartaraś śa.it
+      - lb[n=1]: esν taśẽν acνil
+      - lb[n=2]: bartaraś śa.it
   - inscription[n=41]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Falaka
-      - borlλ X III III arta[kśass-]aλ
-      - qaλmλuλ dãν
-      - oraλ kanlalaλ karo[..]
-      - trolλ vrauλ artimulλ
-      - esν tacn bantakaśa[ś]
-      - abrnalis kãna=k bil[is]
-      - '[.]ret=k aśaν qaλem[   ]'
+      - lb[n=1]: borlλ X III III arta[kśass-]aλ
+      - lb[n=2]: qaλmλuλ dãν
+      - lb[n=3]: oraλ kanlalaλ karo[..]
+      - lb[n=4]: trolλ vrauλ artimulλ
+      - lb[n=5]: esν tacn bantakaśa[ś]
+      - lb[n=6]: abrnalis kãna=k bil[is]
+      - lb[n=7]: '[.]ret=k aśaν qaλem[   ]'
   - inscription[n=42]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Emre
-      - borlλ XI ora[λ ...]
-      - qaλmλuλ dãν es[...]
-      - '[..]roś artimal[is...]'
-      - '[k]ãna=k ak=mλ [qis ...]'
-      - buλ=k bil=k śfẽnaν [...]
-      - es=k=iś labta qis fẽn[...]
-      - '[......]vad ak ẽnaλ[...]'
+      - lb[n=1]: borlλ XI ora[λ ...]
+      - lb[n=2]: qaλmλuλ dãν es[...]
+      - lb[n=3]: '[..]roś artimal[is...]'
+      - lb[n=4]: '[k]ãna=k ak=mλ [qis ...]'
+      - lb[n=5]: buλ=k bil=k śfẽnaν [...]
+      - lb[n=6]: es=k=iś labta qis fẽn[...]
+      - lb[n=7]: '[......]vad ak ẽnaλ[...]'
   - inscription[n=43]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Eǵriköy
-      - brvãν II dãν
-      - oraλ kanlelaλ
-      - vartraluλ esν tacν
-      - maneś bẽtovlis
-      - facunil cẽqrad
-      - '[.]aλidẽnl bar[..]'
+      - lb[n=1]: brvãν II dãν
+      - lb[n=2]: oraλ kanlelaλ
+      - lb[n=3]: vartraluλ esν tacν
+      - lb[n=4]: maneś bẽtovlis
+      - lb[n=5]: facunil cẽqrad
+      - lb[n=6]: '[.]aλidẽnl bar[..]'
   - inscription[n=44]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: č̣oban-isa
-      - '[...(18)...]ẽtsa[...(8)...]'
-      - trismν adẽnν satiś um cak trfnod
-      - lavl arśmavad[...(11)...] asnãntol sok[   ]
-      - irẽλ k[..]ar[...(11)...]qλ dakrod qiro[   ]
-      - civad armird[...(9)...]tid fatros volk[   ]
-      - es[...(12)...]s[..]seds fedtroś qis[   ]
-      - ẽminas[...(18)...]τol siva[   ]
-      - fara[...(23)...]                      brafr[   ]
-      - le[...(28)...]nod fatrol[   ]
-      - a[...(30)...]
-      - ed[...(24)...]lokτ
-      - etlaλ[.......] fẽtvinteλ aśturkoś
-      - eds=in sub[..]taν istamin nid fatrod
-      - ed=t=in kumlolλ b[.]rsfantuś fasνo[d]
-      - ẽnν batnẽds fatinẽd tẽtr[o.]
-      - qis faśaknakil buk=t aλẽλ[o.]
-      - edλ=t=in niviśva civs f[..]
-      - dumν=um arś[...]
+      - lb[n=1]: '[...(18)...]ẽtsa[...(8)...]'
+      - lb[n=2]: trismν adẽnν satiś um cak trfnod
+      - lb[n=3]: lavl arśmavad[...(11)...] asnãntol sok[   ]
+      - lb[n=4]: irẽλ k[..]ar[...(11)...]qλ dakrod qiro[   ]
+      - lb[n=5]: civad armird[...(9)...]tid fatros volk[   ]
+      - lb[n=6]: es[...(12)...]s[..]seds fedtroś qis[   ]
+      - lb[n=7]: ẽminas[...(18)...]τol siva[   ]
+      - lb[n=8]: fara[...(23)...]                      brafr[   ]
+      - lb[n=9]: le[...(28)...]nod fatrol[   ]
+      - lb[n=10]: a[...(30)...]
+      - lb[n=11]: ed[...(24)...]lokτ
+      - lb[n=12]: etlaλ[.......] fẽtvinteλ aśturkoś
+      - lb[n=13]: eds=in sub[..]taν istamin nid fatrod
+      - lb[n=14]: ed=t=in kumlolλ b[.]rsfantuś fasνo[d]
+      - lb[n=15]: ẽnν batnẽds fatinẽd tẽtr[o.]
+      - lb[n=16]: qis faśaknakil buk=t aλẽλ[o.]
+      - lb[n=17]: edλ=t=in niviśva civs f[..]
+      - lb[n=18]: dumν=um arś[...]
   - inscription[n=45]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Arablhк Hachкlhк Mahallesi
-      - '[...]'
-      - '[...]ś fẽntrol'
-      - '[...]aśolλ faτaν'
-      - '[r]aval fak=mλ śanẽν inal'
-      - ak=it esλ taacλ qis fẽnsλibid
+      - lb[n=1]: '[...]'
+      - lb[n=2]: '[...]ś fẽntrol'
+      - lb[n=3]: '[...]aśolλ faτaν'
+      - lb[n=4]: '[r]aval fak=mλ śanẽν inal'
+      - lb[n=5]: ak=it esλ taacλ qis fẽnsλibid
   - inscription[n=46]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Hamidiye
-      - '[..]k sibad śak[...a]λad dẽt nid'
-      - fasabid qi[s] bidẽν fratinid
-      - buv=aś fisfid [.]st ak=τ=in asraν
-      - artimu=k sava[...]
-      - tanlaλ b[...]
-      - buk=[i]t [...]
-      - '[.]ivard ak=a[d...]'
-      - visi[...]
+      - lb[n=1]: '[..]k sibad śak[...a]λad dẽt nid'
+      - lb[n=2]: fasabid qi[s] bidẽν fratinid
+      - lb[n=3]: buv=aś fisfid [.]st ak=τ=in asraν
+      - lb[n=4]: artimu=k sava[...]
+      - lb[n=5]: tanlaλ b[...]
+      - lb[n=6]: buk=[i]t [...]
+      - lb[n=7]: '[.]ivard ak=a[d...]'
+      - lb[n=8]: visi[...]
   - inscription[n=47]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Tire
-      - '[.....]qa[...(15)...]a[...(20)...]a'
-      - brafraν laduvad intiśtcν tin[.]ν τaλad fasitamra[...]
+      - lb[n=1]: '[.....]qa[...(15)...]a[...(20)...]a'
+      - lb[n=2]: brafraν laduvad intiśtcν tin[.]ν τaλad fasitamra[...]
   - inscription[n=48]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Ephesos
-      - '[    ]is inl'
+      - lb[n=1]: '[    ]is inl'
   - inscription[n=49]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Silsilis
-      - lẽKqug i
-      - aluś=mretlis=ul
+      - lb[n=1]: lẽKqug i
+      - lb[n=2]: aluś=mretlis=ul
   - inscription[n=50]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Megalais Katefches
-      - forlλ XII oraλ kanlelaλ
-      - '[...]tralaλ aλiksantruλ'
-      - '[q]aλmλuλ dãν esn taacn'
-      - timleś brdunlis fẽncal
-      - lefś=tλ faτaν raval ak=mλ
-      - '[?]aśaãν bill ak=mλ lefś'
-      - sarẽtaś/saretaś
+      - lb[n=1]: forlλ XII oraλ kanlelaλ
+      - lb[n=2]: '[...]tralaλ aλiksantruλ'
+      - lb[n=3]: '[q]aλmλuλ dãν esn taacn'
+      - lb[n=4]: timleś brdunlis fẽncal
+      - lb[n=5]: lefś=tλ faτaν raval ak=mλ
+      - lb[n=6]: '[?]aśaãν bill ak=mλ lefś'
+      - lb[n=7]: sarẽtaś/saretaś
   - inscription[n=51]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Sardes
-      - bakivalid
-      - samlid
+      - lb[n=1]: bakivalid
+      - lb[n=2]: samlid
   - inscription[n=52]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Ephesos
-      - valvel
+      - lb[n=1]: valvel
   - inscription[n=53]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Jabachк
-      - nteś ntś (??)
+      - lb[n=1]: nteś ntś (??)
   - inscription[n=54]:
     - p:
       - note[lg=eng-Latn]:
-        - placeName: Manisa
+        - placeName:
+          - Manisa
+          - lb: 1
       - '[e]s anlola atraśtal'
-      - śakardal ak=ad qis fisqãnt
-      - buk=aś fẽdanoλt fak=τ=ad
-      - kabrdokid nã=mλ qi=g dẽt
-      - nã=k=mλ [...]clλ ak=ad
-      - artimuλ ibśimlλ fẽncãν
+      - lb[n=2]: śakardal ak=ad qis fisqãnt
+      - lb[n=3]: buk=aś fẽdanoλt fak=τ=ad
+      - lb[n=4]: kabrdokid nã=mλ qi=g dẽt
+      - lb[n=5]: nã=k=mλ [...]clλ ak=ad
+      - lb[n=6]: artimuλ ibśimlλ fẽncãν
   - inscription[n=55]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: (?)
-      - manel=im
+      - lb[n=1]: manel=im
   - inscription[n=56]:
     - p:
       - note[lg=eng-Latn]:
-        - placeName: (?)
+        - placeName:
+          - (?)
+          - lb: 1
       - manel=im
   - inscription[n=57]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Sardes
-      - '[   ]rlam[  ]'
+      - lb[n=1]: '[   ]rlam[  ]'
   - inscription[n=58]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Sardes
-      - ']eśivśis /['
+      - lb[n=1]: ']eśivśis /['
   - inscription[n=59]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Sardes
-      - borlλ d or[aλ...]
-      - '[...] qaλmλ[uλ...]'
+      - lb[n=1]: borlλ d or[aλ...]
+      - lb[n=2]: '[...] qaλmλ[uλ...]'
   - inscription[n=60]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Sardes
-      - esλ[...]
-      - fa[...]
-      - fa[...]
+      - lb[n=1]: esλ[...]
+      - lb[n=2]: fa[...]
+      - lb[n=3]: fa[...]
   - inscription[n=61]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Sardes
-      - '[...]valis ak=aν qi[s...]'
+      - lb[n=1]: '[...]valis ak=aν qi[s...]'
   - inscription[n=62]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Tire
-      - '[...]'
-      - '[.]rd.aś dẽt qaλmu=k vard['
-      - qaλdãnlid ak sabλaλ qira[
-      - taλ dãν dẽt litaś qira[
-      - '[?]śarsecν mursucν aτλed=m=aś['
-      - esn qaλdãl ãn civlad [
-      - '[  ]t tim[  ] ak=m.[?] qa['
+      - lb[n=1]: '[...]'
+      - lb[n=2]: '[.]rd.aś dẽt qaλmu=k vard['
+      - lb[n=3]: qaλdãnlid ak sabλaλ qira[
+      - lb[n=4]: taλ dãν dẽt litaś qira[
+      - lb[n=5]: '[?]śarsecν mursucν aτλed=m=aś['
+      - lb[n=6]: esn qaλdãl ãn civlad [
+      - lb[n=7]: '[  ]t tim[  ] ak=m.[?] qa['
   - inscription[n=63]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Sardes
-      - ']lis ['
-      - ']sima.['
+      - lb[n=1]: ']lis ['
+      - lb[n=2]: ']sima.['
   - inscription[n=64]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Sardes
-      - ']kãλ : labλ : vrit['
-      - τakm[
+      - lb[n=1]: ']kãλ : labλ : vrit['
+      - lb[n=2]: τakm[
   - inscription[n=65]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Sardes
-      - qis=m[
+      - lb[n=1]: qis=m[
   - inscription[n=66]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Sardes
-      - ']alis at['
-      - ']k art['
+      - lb[n=1]: ']alis at['
+      - lb[n=2]: ']k art['
   - inscription[n=67]:
     - p:
       - note[lg=eng-Latn]:
-        - placeName: Bin Tepe
+        - placeName:
+          - Bin Tepe
+          - lb: 1
       - ve (??)
   - inscription[n=68]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Sardes
-      - ']. kun...['
+      - lb[n=1]: ']. kun...['
   - inscription[n=69]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: (Coins)
-      - rkalim (?)
+      - lb[n=1]: rkalim (?)
   - inscription[n=70]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Sardes
-      - eś sadmẽś os=k anlola[...(6)...]
-      - ar[tim]ul ak=it esλ sa[dmẽλ ...]
+      - lb[n=1]: eś sadmẽś os=k anlola[...(6)...]
+      - lb[n=2]: ar[tim]ul ak=it esλ sa[dmẽλ ...]
   - inscription[n=71]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Sardes
-      - '...] s ['
-      - '...ser]lis srmli[s]'
-      - '...]. artakśa.'
-      - '...]vãnaλ dã[ν]'
-      - '...]bisfat.[?]'
-      - '...]| brullis[?]'
-      - '...]rolis aλa[?]'
+      - lb[n=1]: '...] s ['
+      - lb[n=2]: '...ser]lis srmli[s]'
+      - lb[n=3]: '...]. artakśa.'
+      - lb[n=4]: '...]vãnaλ dã[ν]'
+      - lb[n=5]: '...]bisfat.[?]'
+      - lb[n=6]: '...]| brullis[?]'
+      - lb[n=7]: '...]rolis aλa[?]'
   - inscription[n=72]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Sardes
-      - ']s kuvav['
+      - lb[n=1]: ']s kuvav['
   - inscription[n=73]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Kerč
-      - manel=im
+      - lb[n=1]: manel=im
   - inscription[n=74]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Sardes (?)
-      - 'eś sadmẽś : mitratalis'
+      - lb[n=1]: 'eś sadmẽś : mitratalis'
   - inscription[n=75]:
     - p:
-      - sivãml=im ate-lis
+      - lb[n=1]: sivãml=im ate-lis
   - inscription[n=76]:
     - p:
-      - taful=im
+      - lb[n=1]: taful=im
   - inscription[n=78]:
     - p:
-      - nanaś
+      - lb[n=1]: nanaś
   - inscription[n=79]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Aphrodisias
-      - '[...]'
-      - ś]ãntaλ [?
-      - ']talid [?'
+      - lb[n=1]: '[...]'
+      - lb[n=2]: ś]ãntaλ [?
+      - lb[n=3]: ']talid [?'
   - inscription[n=80]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Sardes
-      - '[a]larmś bis fa=t=is[?].['
-      - '[.]aarcrś il amito['
-      - fak=ad τorśa istro.[
-      - bλ=k=in ãn savls dẽt[
-      - iśqν śfẽnis tavśẽν m[
-      - fak=mλ=it niqaslad if.[
-      - akτaś avladλ faśqν nśa.[
-      - ẽnarn nãnś kãns cẽnit ka[
-      - kãna=k=aν ãn kimλad nãn[
-      - kot=aν isfollad borfcν a[
-      - qrifrit qλ fakanśfẽnal τa[
-      - tẽmvaν tutra=k bślẽν taada[
-      - fak=mλ ebad murvaad esλ ś[
-      - aśfãν avladis anãtlλ t[
-      - qic=mλ=aś saristrośś bu.[
-      - '[..]t=k=aś fasitavad ẽtqra['
-      - '[...t]aśod na=k=iś qic=k is['
-      - '[...(8)...] baritod dum['
-      - '[...]ẽ[...'
+      - lb[n=1]: '[a]larmś bis fa=t=is[?].['
+      - lb[n=2]: '[.]aarcrś il amito['
+      - lb[n=3]: fak=ad τorśa istro.[
+      - lb[n=4]: bλ=k=in ãn savls dẽt[
+      - lb[n=5]: iśqν śfẽnis tavśẽν m[
+      - lb[n=6]: fak=mλ=it niqaslad if.[
+      - lb[n=7]: akτaś avladλ faśqν nśa.[
+      - lb[n=8]: ẽnarn nãnś kãns cẽnit ka[
+      - lb[n=9]: kãna=k=aν ãn kimλad nãn[
+      - lb[n=10]: kot=aν isfollad borfcν a[
+      - lb[n=11]: qrifrit qλ fakanśfẽnal τa[
+      - lb[n=12]: tẽmvaν tutra=k bślẽν taada[
+      - lb[n=13]: fak=mλ ebad murvaad esλ ś[
+      - lb[n=14]: aśfãν avladis anãtlλ t[
+      - lb[n=15]: qic=mλ=aś saristrośś bu.[
+      - lb[n=16]: '[..]t=k=aś fasitavad ẽtqra['
+      - lb[n=17]: '[...t]aśod na=k=iś qic=k is['
+      - lb[n=18]: '[...(8)...] baritod dum['
+      - lb[n=19]: '[...]ẽ[...'
   - inscription[n=81]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Sardes
-      - badi[...(6)...]l
+      - lb[n=1]: badi[...(6)...]l
   - inscription[n=82]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Sardes
-      - ']lma['
+      - lb[n=1]: ']lma['
   - inscription[n=83]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Sardes
-      - ']uli[s(?)'
+      - lb[n=1]: ']uli[s(?)'
   - inscription[n=84]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Sardes
-      - ']ulis['
+      - lb[n=1]: ']ulis['
   - inscription[n=85]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Sardes
-      - '] va ['
+      - lb[n=1]: '] va ['
   - inscription[n=86]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Sardes
-      - ']. ka ['
+      - lb[n=1]: ']. ka ['
   - inscription[n=87]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Sardes
-      - ']ma['
+      - lb[n=1]: ']ma['
   - inscription[n=88]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Sardes
-      - '] ba ['
+      - lb[n=1]: '] ba ['
   - inscription[n=89]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Sardes
-      - ']uk['
+      - lb[n=1]: ']uk['
   - inscription[n=90]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Sardes
-      - ']ma['
+      - lb[n=1]: ']ma['
   - inscription[n=91]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Sardes
-      - '] ba['
+      - lb[n=1]: '] ba['
   - inscription[n=92]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Sardes
-      - ']min['
+      - lb[n=1]: ']min['
   - inscription[n=93]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Sardes
-      - art
+      - lb[n=1]: art
   - inscription[n=94]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Sardes
-      - '].a.ś'
+      - lb[n=1]: '].a.ś'
   - inscription[n=95]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Sardes (?)
-      - tetel=im
+      - lb[n=1]: tetel=im
   - inscription[n=96]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Old-Smyrna
-      - ']vmś'
+      - lb[n=1]: ']vmś'
   - inscription[n=97]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Old-Smyrna
-      - '?]unaν : eś : śdi.['
+      - lb[n=1]: '?]unaν : eś : śdi.['
   - inscription[n=98]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Old-Smyrna
-      - śil[ ]karol
-      - ar[ti]mal=k
+      - lb[n=1]: śil[ ]karol
+      - lb[n=2]: ar[ti]mal=k
   - inscription[n=99]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Sardes
-      - '[bra]vrsis bil ['
+      - lb[n=1]: '[bra]vrsis bil ['
   - inscription[n=100]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Sardes
-      - ']urdo['
+      - lb[n=1]: ']urdo['
   - inscription[n=101]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Sardes
-      - '[...(7)...m]anelis'
-      - '[...(7)...]is inal'
+      - lb[n=1]: '[...(7)...m]anelis'
+      - lb[n=2]: '[...(7)...]is inal'
   - inscription[n=102]:
     - p:
-      - ośflś
+      - lb[n=1]: ośflś
   - inscription[n=103]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Sardes
-      - '] srkastulis śf[ardẽt...'
+      - lb[n=1]: '] srkastulis śf[ardẽt...'
   - inscription[n=104]:
     - p:
-      - artymal=im
+      - lb[n=1]: artymal=im
   - inscription[n=105]:
     - p:
-      - laś.ẽ
+      - lb[n=1]: laś.ẽ
   - inscription[n=106]:
     - p:
-      - miλaś
+      - lb[n=1]: miλaś
   - inscription[n=107]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Sardes
-      - ']lefś=tλ ba.['
+      - lb[n=1]: ']lefś=tλ ba.['
   - inscription[n=108]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Sardes
-      - '[e]śś vanaś bakiv[alis]'
-      - '[...]mi.ãlis ba.[....]'
-      - '[.....] vśtãś avsi.[....]'
-      - '[ak e]sλ vãnaλ q[is?]'
-      - '[fẽnsλ]ifid buk es[λ]'
-      - '[...]'
+      - lb[n=1]: '[e]śś vanaś bakiv[alis]'
+      - lb[n=2]: '[...]mi.ãlis ba.[....]'
+      - lb[n=3]: '[.....] vśtãś avsi.[....]'
+      - lb[n=4]: '[ak e]sλ vãnaλ q[is?]'
+      - lb[n=5]: '[fẽnsλ]ifid buk es[λ]'
+      - lb[n=6]: '[...]'
   - inscription[n=109]:
     - p:
       - note[lg=eng-Latn]:
         - placeName: Sardes
-      - śo.[
+      - lb[n=1]: śo.[
