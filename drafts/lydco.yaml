@@ -3,9 +3,9 @@
     - p:
       - note[lg=eng-Latn]:
         - placeName: Sardes
-    - text[n=1a]:
+    - text[n=1a,lg=arc-Latn-x-transliterated]:
       - head[lg=eng-Latn]: Aramaic inscription
-      - p[lg=arc-Latn-x-transliterated]:
+      - p:
         - lb[n=A1]: B 5 L-MRḤŠWN ŠNT 10 ՚RTḤŠSŠ MLK՚
         - lb[n=A2]: B-SPRD B-YRT՚ ZNH STWN՚ W-MՙRT՚ DRḤT՚
         - lb[n=A3]: ՚TRT՚ W-PRBR ZY ՙL SPRB ZNH PRBR-H ՚ḤR

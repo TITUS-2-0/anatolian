@@ -54,9 +54,9 @@
 						<placeName xml:id="inscription-1-p-1-note-1-placeName-1">Sardes</placeName>
 					</note>
 				</p>
-				<div n="1a" xml:id="inscription-1-text-1" type="text" data-level="2">
+				<div n="1a" xml:id="inscription-1-text-1" type="text" data-level="2" xml:lang="arc-Latn-x-transliterated">
 					<head xml:lang="eng-Latn">Aramaic inscription</head>
-					<p xml:id="inscription-1-text-1-p-2" xml:lang="arc-Latn-x-transliterated">
+					<p xml:id="inscription-1-text-1-p-2">
 						<lb n="A1" />B 5 L-MRḤŠWN ŠNT 10 ՚RTḤŠSŠ MLK՚<lb n="A2" />B-SPRD B-YRT՚ ZNH STWN՚ W-MՙRT՚ DRḤT՚<lb n="A3" />՚TRT՚ W-PRBR ZY ՙL SPRB ZNH PRBR-H ՚ḤR<lb n="A4" />ZY MNY BR KMLY SRWKY՚ W-MN ZY ՙL STWN՚ ZNH ՙW<lb n="A5" />MՙRT՚ ՚W L-DRḤT՚ (՚)W? L-QBL ZY PRBR L-MՙRT՚<lb n="A6" />ZNH ՚ḤR MN ZY YḤBL ՚W YPRK MNDՙM ՚ḤR<lb n="A7" />՚RTMW ZY KLW W-՚PŠŠY TRBṢ-H BYT-H<lb n="A8" />QNYN-H ṬYN W-MYN W-MNDՙMT-H YBDRWN-H W-YRT-H</p>
 				</div>
 				<div n="1b" xml:id="inscription-1-text-2" type="text" data-level="2">
