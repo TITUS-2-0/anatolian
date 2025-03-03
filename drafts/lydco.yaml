@@ -6,14 +6,42 @@
     - text[n=1a,lg=arc-Latn-x-transliterated]:
       - head[lg=eng-Latn]: Aramaic inscription
       - p:
-        - lb[n=A1]: B 5 L-MRḤŠWN ŠNT 10 ՚RTḤŠSŠ MLK՚
-        - lb[n=A2]: B-SPRD B-YRT՚ ZNH STWN՚ W-MՙRT՚ DRḤT՚
-        - lb[n=A3]: ՚TRT՚ W-PRBR ZY ՙL SPRB ZNH PRBR-H ՚ḤR
-        - lb[n=A4]: ZY MNY BR KMLY SRWKY՚ W-MN ZY ՙL STWN՚ ZNH ՙW
-        - lb[n=A5]: MՙRT՚ ՚W L-DRḤT՚ (՚)W? L-QBL ZY PRBR L-MՙRT՚
-        - lb[n=A6]: ZNH ՚ḤR MN ZY YḤBL ՚W YPRK MNDՙM ՚ḤR
-        - lb[n=A7]: ՚RTMW ZY KLW W-՚PŠŠY TRBṢ-H BYT-H
-        - lb[n=A8]: QNYN-H ṬYN W-MYN W-MNDՙMT-H YBDRWN-H W-YRT-H
+        - lb[n=A1]:
+        - choice:
+          - orig: B 5 L-MRḤŠWN ŠNT 10 ՚RTḤŠSŠ MLK՚
+          - reg[type=transliteration]: '𐡁  5  𐡋 - 𐡌𐡓𐡇𐡔𐡅𐡍  𐡔𐡍𐡕  10  𐡀𐡓𐡕𐡇𐡔𐡎𐡔  𐡌𐡋𐡊𐡀 '
+        - lb[n=A2]:
+        - choice:
+          - orig: B-SPRD B-YRT՚ ZNH STWN՚ W-MՙRT՚ DRḤT՚
+          - reg[type=transliteration]: '𐡁 - 𐡎𐡐𐡓𐡃  𐡁 - 𐡉𐡓𐡕𐡀  𐡆𐡍𐡄  𐡎𐡕𐡅𐡍𐡀  𐡅 - 𐡌𐡏𐡓𐡕𐡀  𐡃𐡓𐡇𐡕𐡀 '
+        - lb[n=A3]:
+        - choice:
+          - orig: ՚TRT՚ W-PRBR ZY ՙL SPRB ZNH PRBR-H ՚ḤR
+          - reg[type=transliteration]: '𐡀𐡕𐡓𐡕𐡀  𐡅 - 𐡐𐡓𐡁𐡓  𐡆𐡉  𐡏𐡋  𐡎𐡐𐡓𐡁  𐡆𐡍𐡄  𐡐𐡓𐡁𐡓 -
+              𐡄  𐡀𐡇𐡓 '
+        - lb[n=A4]:
+        - choice:
+          - orig: ZY MNY BR KMLY SRWKY՚ W-MN ZY ՙL STWN՚ ZNH ՙW
+          - reg[type=transliteration]: '𐡆𐡉  𐡌𐡍𐡉  𐡁𐡓  𐡊𐡌𐡋𐡉  𐡎𐡓𐡅𐡊𐡉𐡀  𐡅 - 𐡌𐡍  𐡆𐡉  𐡏𐡋  𐡎𐡕𐡅𐡍𐡀  𐡆𐡍𐡄  𐡏𐡅 '
+        - lb[n=A5]:
+        - choice:
+          - orig: MՙRT՚ ՚W L-DRḤT՚ (՚)W? L-QBL ZY PRBR L-MՙRT՚
+          - reg[type=transliteration]: '𐡌𐡏𐡓𐡕𐡀  𐡀𐡅  𐡋 - 𐡃𐡓𐡇𐡕𐡀  ( 𐡀 ) 𐡅 ?  𐡋 - 𐡒𐡁𐡋  𐡆𐡉  𐡐𐡓𐡁𐡓  𐡋
+              - 𐡌𐡏𐡓𐡕𐡀 '
+        - lb[n=A6]:
+        - choice:
+          - orig: ZNH ՚ḤR MN ZY YḤBL ՚W YPRK MNDՙM ՚ḤR
+          - reg[type=transliteration]: '𐡆𐡍𐡄  𐡀𐡇𐡓  𐡌𐡍  𐡆𐡉  𐡉𐡇𐡁𐡋  𐡀𐡅  𐡉𐡐𐡓𐡊  𐡌𐡍𐡃𐡏𐡌  𐡀𐡇𐡓 '
+        - lb[n=A7]:
+        - choice:
+          - orig: ՚RTMW ZY KLW W-՚PŠŠY TRBṢ-H BYT-H
+          - reg[type=transliteration]: '𐡀𐡓𐡕𐡌𐡅  𐡆𐡉  𐡊𐡋𐡅  𐡅 - 𐡀𐡐𐡔𐡔𐡉  𐡕𐡓𐡁𐡑 - 𐡄  𐡁𐡉𐡕 -
+              𐡄 '
+        - lb[n=A8]:
+        - choice:
+          - orig: QNYN-H ṬYN W-MYN W-MNDՙMT-H YBDRWN-H W-YRT-H
+          - reg[type=transliteration]: '𐡒𐡍𐡉𐡍 - 𐡄  𐡈𐡉𐡍  𐡅 - 𐡌𐡉𐡍  𐡅 - 𐡌𐡍𐡃𐡏𐡌𐡕 - 𐡄  𐡉𐡁𐡃𐡓𐡅𐡍
+              - 𐡄  𐡅 - 𐡉𐡓𐡕 - 𐡄 '
     - text[n=1b]:
       - head[lg=eng-Latn]: Lydian inscription
       - p:
