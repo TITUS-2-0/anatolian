@@ -601,7 +601,7 @@
       - note[lg=eng-Latn]:
         - placeName:
           - Manisa
-          - lb: 1
+          - lb[n=1]
       - '[e]s anlola atraśtal'
       - lb[n=2]: śakardal ak=ad qis fisqãnt
       - lb[n=3]: buk=aś fẽdanoλt fak=τ=ad
@@ -618,7 +618,7 @@
       - note[lg=eng-Latn]:
         - placeName:
           - (?)
-          - lb: 1
+          - lb[n=1]
       - manel=im
   - inscription[n=57]:
     - p:
@@ -687,7 +687,7 @@
       - note[lg=eng-Latn]:
         - placeName:
           - Bin Tepe
-          - lb: 1
+          - lb[n=1]
       - ve (??)
   - inscription[n=68]:
     - p:
