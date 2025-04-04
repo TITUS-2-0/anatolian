@@ -42,7 +42,7 @@
 			<langUsage>
 				<language ident="xld-Latn">Lydian</language>
 				<language ident="eng-Latn">English</language>
-				<language ident="arc-Latn-x-transliterated">Imperial Aramaic (700-300 BCE)</language>
+				<language ident="arc-Latn-x-tld">Imperial Aramaic (700-300 BCE)</language>
 			</langUsage>
 		</profileDesc>
 	</teiHeader>
@@ -54,7 +54,7 @@
 						<placeName xml:id="inscription-1-p-1-note-1-placeName-1">Sardes</placeName>
 					</note>
 				</p>
-				<div n="1a" xml:id="inscription-1-text-1" type="text" data-level="2" xml:lang="arc-Latn-x-transliterated">
+				<div n="1a" xml:id="inscription-1-text-1" type="text" data-level="2" xml:lang="arc-Latn-x-tld">
 					<head xml:lang="eng-Latn">Aramaic inscription</head>
 					<p xml:id="inscription-1-text-1-p-2">
 						<lb n="A1" />

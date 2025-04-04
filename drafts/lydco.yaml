@@ -3,7 +3,7 @@
     - p:
       - note[lg=eng-Latn]:
         - placeName: Sardes
-    - text[n=1a,lg=arc-Latn-x-transliterated]:
+    - text[n=1a,lg=arc-Latn-x-tld]:
       - head[lg=eng-Latn]: Aramaic inscription
       - p:
         - lb[n=A1]:
