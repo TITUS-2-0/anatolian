@@ -10,14 +10,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 - initial creation (2025-01-14)
-- lydco (2025-01-14)
-- updated lydco (2025-01-14)
+- add placenames (2025-01-14)
 - remove unknown placenames (2025-01-14)
 - notes in ps (2025-02-05)
 - line numbers, splitting inscription 1 (2025-02-07)
 - shift languages (2025-02-22)
-- transliterated aramaic (2025-03-03)
+- add transliterated aramaic (2025-03-03)
 - smoother lb handling (2025-03-13)
 - smoother breaks (2025-03-14)
-- add transliterated lydian, switch orig & reg (2025-03-24)
+- add transliterated lydian, switch `orig` & `reg` (2025-03-24)
 - language update (2025-04-04)
