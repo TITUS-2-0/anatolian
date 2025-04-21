@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Changed
+- remove wrong & superfluous language tags (2025-04-21)
 - RTL (2025-04-21)
 - initial creation (2025-01-14)
 - add placenames (2025-01-14)
