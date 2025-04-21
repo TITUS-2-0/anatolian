@@ -1,0 +1,2738 @@
+- body:
+  - inscription[n=1]:
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
+    - text[n=1a,lg=arc-Latn-x-tld]:
+      - head[lg=eng-Latn]: Aramaic inscription
+      - ab:
+        - ab@line-wrapper:
+          - lb[n=A1]:
+            - choice:
+              - reg[type=transliteration]: B 5 L-MRḤŠWN ŠNT 10 ՚RTḤŠSŠ MLK՚
+              - orig[rend=rtl]: 𐡁 5 𐡋-𐡌𐡓𐡇𐡔𐡅𐡍 𐡔𐡍𐡕 10 𐡀𐡓𐡕𐡇𐡔𐡎𐡔 𐡌𐡋𐡊𐡀
+        - ab@line-wrapper:
+          - lb[n=A2]:
+            - choice:
+              - reg[type=transliteration]: B-SPRD B-YRT՚ ZNH STWN՚ W-MՙRT՚ DRḤT՚
+              - orig[rend=rtl]: 𐡁-𐡎𐡐𐡓𐡃 𐡁-𐡉𐡓𐡕𐡀 𐡆𐡍𐡄 𐡎𐡕𐡅𐡍𐡀 𐡅-𐡌𐡏𐡓𐡕𐡀 𐡃𐡓𐡇𐡕𐡀
+        - ab@line-wrapper:
+          - lb[n=A3]:
+            - choice:
+              - reg[type=transliteration]: ՚TRT՚ W-PRBR ZY ՙL SPRB ZNH PRBR-H ՚ḤR
+              - orig[rend=rtl]: 𐡀𐡕𐡓𐡕𐡀 𐡅-𐡐𐡓𐡁𐡓 𐡆𐡉 𐡏𐡋 𐡎𐡐𐡓𐡁 𐡆𐡍𐡄 𐡐𐡓𐡁𐡓-𐡄 𐡀𐡇𐡓
+        - ab@line-wrapper:
+          - lb[n=A4]:
+            - choice:
+              - reg[type=transliteration]: ZY MNY BR KMLY SRWKY՚ W-MN ZY ՙL STWN՚
+                  ZNH ՙW
+              - orig[rend=rtl]: 𐡆𐡉 𐡌𐡍𐡉 𐡁𐡓 𐡊𐡌𐡋𐡉 𐡎𐡓𐡅𐡊𐡉𐡀 𐡅-𐡌𐡍 𐡆𐡉 𐡏𐡋 𐡎𐡕𐡅𐡍𐡀 𐡆𐡍𐡄 𐡏𐡅
+        - ab@line-wrapper:
+          - lb[n=A5]:
+            - choice:
+              - reg[type=transliteration]: MՙRT՚ ՚W L-DRḤT՚ (՚)W? L-QBL ZY PRBR L-MՙRT՚
+              - orig[rend=rtl]: 𐡌𐡏𐡓𐡕𐡀 𐡀𐡅 𐡋-𐡃𐡓𐡇𐡕𐡀 (𐡀)𐡅? 𐡋-𐡒𐡁𐡋 𐡆𐡉 𐡐𐡓𐡁𐡓 𐡋-𐡌𐡏𐡓𐡕𐡀
+        - ab@line-wrapper:
+          - lb[n=A6]:
+            - choice:
+              - reg[type=transliteration]: ZNH ՚ḤR MN ZY YḤBL ՚W YPRK MNDՙM ՚ḤR
+              - orig[rend=rtl]: 𐡆𐡍𐡄 𐡀𐡇𐡓 𐡌𐡍 𐡆𐡉 𐡉𐡇𐡁𐡋 𐡀𐡅 𐡉𐡐𐡓𐡊 𐡌𐡍𐡃𐡏𐡌 𐡀𐡇𐡓
+        - ab@line-wrapper:
+          - lb[n=A7]:
+            - choice:
+              - reg[type=transliteration]: ՚RTMW ZY KLW W-՚PŠŠY TRBṢ-H BYT-H
+              - orig[rend=rtl]: 𐡀𐡓𐡕𐡌𐡅 𐡆𐡉 𐡊𐡋𐡅 𐡅-𐡀𐡐𐡔𐡔𐡉 𐡕𐡓𐡁𐡑-𐡄 𐡁𐡉𐡕-𐡄
+        - ab@line-wrapper:
+          - lb[n=A8]:
+            - choice:
+              - reg[type=transliteration]: QNYN-H ṬYN W-MYN W-MNDՙMT-H YBDRWN-H W-YRT-H
+              - orig[rend=rtl]: 𐡒𐡍𐡉𐡍-𐡄 𐡈𐡉𐡍 𐡅-𐡌𐡉𐡍 𐡅-𐡌𐡍𐡃𐡏𐡌𐡕-𐡄 𐡉𐡁𐡃𐡓𐡅𐡍-𐡄 𐡅-𐡉𐡓𐡕-𐡄
+    - text[n=1b]:
+      - head[lg=eng-Latn]: Lydian inscription
+      - ab@line-wrapper:
+        - lb[n=1]:
+          - choice:
+            - reg[lg=xld-Latn-x-tld,type=transliteration]: '...'
+            - orig[rend=rtl]: '...'
+      - ab@line-wrapper:
+        - lb[n=2]:
+          - choice:
+            - reg[lg=xld-Latn-x-tld,type=transliteration]: '[o]raλ islλ bakillλ est
+                mrud eśś=k [vãnaś]'
+            - orig[rend=rtl]: '[𐤬]𐤭𐤠𐤷 𐤦𐤮𐤩𐤷 𐤡𐤠𐤨𐤦𐤩𐤩𐤷 𐤤𐤮𐤯 𐤪𐤭𐤰𐤣 𐤤𐤳𐤳=𐤨 [𐤥𐤵𐤫𐤠𐤳]'
+      - ab@line-wrapper:
+        - lb[n=3]:
+          - choice:
+            - reg[lg=xld-Latn-x-tld,type=transliteration]: laqrisa=k qela=k kud=k=it
+                ist esλ vãn[aλ]
+            - orig[rend=rtl]: 𐤩𐤠𐤲𐤭𐤦𐤮𐤠=𐤨 𐤲𐤤𐤩𐤠=𐤨 𐤨𐤰𐤣=𐤨=𐤦𐤯 𐤦𐤮𐤯 𐤤𐤮𐤷 𐤥𐤵𐤫[𐤠𐤷]
+      - ab@line-wrapper:
+        - lb[n=4]:
+          - choice:
+            - reg[lg=xld-Latn-x-tld,type=transliteration]: bλtarvod ak=ad manelid
+                kumlilid silukalid ak=it n[ãqis]
+            - orig[rend=rtl]: 𐤡𐤷𐤯𐤠𐤭𐤥𐤬𐤣 𐤠𐤨=𐤠𐤣 𐤪𐤠𐤫𐤤𐤩𐤦𐤣 𐤨𐤰𐤪𐤩𐤦𐤩𐤦𐤣 𐤮𐤦𐤩𐤰𐤨𐤠𐤩𐤦𐤣 𐤠𐤨=𐤦𐤯 𐤫[𐤵𐤲𐤦𐤮]
+      - ab@line-wrapper:
+        - lb[n=5]:
+          - choice:
+            - reg[lg=xld-Latn-x-tld,type=transliteration]: esλ mruλ buk esλ vãnaλ
+                buk esνaν
+            - orig[rend=rtl]: 𐤤𐤮𐤷 𐤪𐤭𐤰𐤷 𐤡𐤰𐤨 𐤤𐤮𐤷 𐤥𐤵𐤫𐤠𐤷 𐤡𐤰𐤨 𐤤𐤮𐤸𐤠𐤸
+      - ab@line-wrapper:
+        - lb[n=6]:
+          - choice:
+            - reg[lg=xld-Latn-x-tld,type=transliteration]: laqirisaν buk=it kud ist
+                esλ vãnaλ bλtarvo[d]
+            - orig[rend=rtl]: 𐤩𐤠𐤲𐤦𐤭𐤦𐤮𐤠𐤸 𐤡𐤰𐤨=𐤦𐤯 𐤨𐤰𐤣 𐤦𐤮𐤯 𐤤𐤮𐤷 𐤥𐤵𐤫𐤠𐤷 𐤡𐤷𐤯𐤠𐤭𐤥𐤬[𐤣]
+      - ab@line-wrapper:
+        - lb[n=7]:
+          - choice:
+            - reg[lg=xld-Latn-x-tld,type=transliteration]: ak=t=in nãqis qelλ=k fẽnsλifid
+                fak=mλ artimuś
+            - orig[rend=rtl]: 𐤠𐤨=𐤯=𐤦𐤫 𐤫𐤵𐤲𐤦𐤮 𐤲𐤤𐤩𐤷=𐤨 𐤱𐤶𐤫𐤮𐤷𐤦𐤱𐤦𐤣 𐤱𐤠𐤨=𐤪𐤷 𐤠𐤭𐤯𐤦𐤪𐤰𐤳
+      - ab@line-wrapper:
+        - lb[n=8]:
+          - choice:
+            - reg[lg=xld-Latn-x-tld,type=transliteration]: ibśimsis artimu=k kulumsis
+                aaraλ biraλ=k
+            - orig[rend=rtl]: 𐤦𐤡𐤳𐤦𐤪𐤮𐤦𐤮 𐤠𐤭𐤯𐤦𐤪𐤰=𐤨 𐤨𐤰𐤩𐤰𐤪𐤮𐤦𐤮 𐤠𐤠𐤭𐤠𐤷 𐤡𐤦𐤭𐤠𐤷=𐤨
+      - ab@line-wrapper:
+        - lb[n=9]:
+          - choice:
+            - reg[lg=xld-Latn-x-tld,type=transliteration]: kλidaλ kofuλ=k qiraλ qelλ=k
+                bilλ vcbaqẽnt
+            - orig[rend=rtl]: 𐤨𐤷𐤦𐤣𐤠𐤷 𐤨𐤬𐤱𐤰𐤷=𐤨 𐤲𐤦𐤭𐤠𐤷 𐤲𐤤𐤩𐤷=𐤨 𐤡𐤦𐤩𐤷 𐤥𐤹𐤡𐤠𐤲𐤶𐤫𐤯
+  - inscription[n=2]:
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[b]orlλ X III II oraλ cuvellλ
+              artakśassaλ=ś'
+          - orig[rend=rtl]: '[𐤡]𐤬𐤭𐤩𐤷 X III II 𐤬𐤭𐤠𐤷 𐤹𐤰𐤥𐤤𐤩𐤩𐤷 𐤠𐤭𐤯𐤠𐤨𐤳𐤠𐤮𐤮𐤠𐤷=𐤳'
+    - ab@line-wrapper:
+      - lb[n=2]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[q]aλmλuλ dãν eśś vãnaś
+              mru=k bλasokiτ'
+          - orig[rend=rtl]: '[𐤲]𐤠𐤷𐤪𐤷𐤰𐤷 𐤣𐤵𐤸 𐤤𐤳𐤳 𐤥𐤵𐤫𐤠𐤳 𐤪𐤭𐤰=𐤨 𐤡𐤷𐤠𐤮𐤬𐤨𐤦𐤴'
+    - ab@line-wrapper:
+      - lb[n=3]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: qid kataνil laqrisa=k=in
+              qid ẽtośrś ak=ad
+          - orig[rend=rtl]: 𐤲𐤦𐤣 𐤨𐤠𐤯𐤠𐤸𐤦𐤩 𐤩𐤠𐤲𐤭𐤦𐤮𐤠=𐤨=𐤦𐤫 𐤲𐤦𐤣 𐤶𐤯𐤬𐤳𐤭𐤳 𐤠𐤨=𐤠𐤣
+    - ab@line-wrapper:
+      - lb[n=4]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: karolid sabλalid iśtubeλmlid
+              ak=t=in
+          - orig[rend=rtl]: 𐤨𐤠𐤭𐤬𐤩𐤦𐤣 𐤮𐤠𐤡𐤷𐤠𐤩𐤦𐤣 𐤦𐤳𐤯𐤰𐤡𐤤𐤷𐤪𐤩𐤦𐤣 𐤠𐤨=𐤯=𐤦𐤫
+    - ab@line-wrapper:
+      - lb[n=5]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: nãqis fẽnsλibid esνaν mλvẽndaν
+              iskon
+          - orig[rend=rtl]: 𐤫𐤵𐤲𐤦𐤮 𐤱𐤶𐤫𐤮𐤷𐤦𐤡𐤦𐤣 𐤤𐤮𐤸𐤠𐤸 𐤪𐤷𐤥𐤶𐤫𐤣𐤠𐤸 𐤦𐤮𐤨𐤬𐤫
+    - ab@line-wrapper:
+      - lb[n=6]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: qid=a tamν buk vãnaλ esλ
+              buk mruλ buk
+          - orig[rend=rtl]: 𐤲𐤦𐤣=𐤠 𐤯𐤠𐤪𐤸 𐤡𐤰𐤨 𐤥𐤵𐤫𐤠𐤷 𐤤𐤮𐤷 𐤡𐤰𐤨 𐤪𐤭𐤰𐤷 𐤡𐤰𐤨
+    - ab@line-wrapper:
+      - lb[n=7]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: bλasoλ esλ buk laqrisaν buk=in
+              aλẽν
+          - orig[rend=rtl]: 𐤡𐤷𐤠𐤮𐤬𐤷 𐤤𐤮𐤷 𐤡𐤰𐤨 𐤩𐤠𐤲𐤭𐤦𐤮𐤠𐤸 𐤡𐤰𐤨=𐤦𐤫 𐤠𐤷𐤶𐤸
+    - ab@line-wrapper:
+      - lb[n=8]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: avλãν qis=k dctdid ist esλ
+              vãnaλ karolλ
+          - orig[rend=rtl]: 𐤠𐤥𐤷𐤵𐤸 𐤲𐤦𐤮=𐤨 𐤣𐤹𐤯𐤣𐤦𐤣 𐤦𐤮𐤯 𐤤𐤮𐤷 𐤥𐤵𐤫𐤠𐤷 𐤨𐤠𐤭𐤬𐤩𐤷
+    - ab@line-wrapper:
+      - lb[n=9]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: sabλalλ karola=ś śfẽndaν
+              arvol ak=mλ
+          - orig[rend=rtl]: 𐤮𐤠𐤡𐤷𐤠𐤩𐤷 𐤨𐤠𐤭𐤬𐤩𐤠=𐤳 𐤳𐤱𐤶𐤫𐤣𐤠𐤸 𐤠𐤭𐤥𐤬𐤩 𐤠𐤨=𐤪𐤷
+    - ab@line-wrapper:
+      - lb[n=10]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: artimuν ibśimνaν kulumνa=k
+              sivraλmn
+          - orig[rend=rtl]: 𐤠𐤭𐤯𐤦𐤪𐤰𐤸 𐤦𐤡𐤳𐤦𐤪𐤸𐤠𐤸 𐤨𐤰𐤩𐤰𐤪𐤸𐤠=𐤨 𐤮𐤦𐤥𐤭𐤠𐤷𐤪𐤫
+    - ab@line-wrapper:
+      - lb[n=11]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[in]ãnu ak=t=in nãqis fẽnsλibid
+              fak=at=aν ebad'
+          - orig[rend=rtl]: '[𐤦𐤫]𐤵𐤫𐤰 𐤠𐤨=𐤯=𐤦𐤫 𐤫𐤵𐤲𐤦𐤮 𐤱𐤶𐤫𐤮𐤷𐤦𐤡𐤦𐤣 𐤱𐤠𐤨=𐤠𐤯=𐤠𐤸 𐤤𐤡𐤠𐤣'
+    - ab@line-wrapper:
+      - lb[n=12]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[..]ra bistaν taqaλaν siśirorś
+              śfẽnda=k=mλ=in'
+          - orig[rend=rtl]: '[..]𐤭𐤠 𐤡𐤦𐤮𐤯𐤠𐤸 𐤯𐤠𐤲𐤠𐤷𐤠𐤸 𐤮𐤦𐤳𐤦𐤭𐤬𐤭𐤳 𐤳𐤱𐤶𐤫𐤣𐤠=𐤨=𐤪𐤷=𐤦𐤫'
+    - ab@line-wrapper:
+      - lb[n=13]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[..]lbuqid'
+          - orig[rend=rtl]: '[..]𐤩𐤡𐤰𐤲𐤦𐤣'
+  - inscription[n=3]:
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: brvãν III II aλiksãntruλ
+              dãν eśś vãnaś es=k mrud
+          - orig[rend=rtl]: 𐤡𐤭𐤥𐤵𐤸 III II 𐤠𐤷𐤦𐤨𐤮𐤵𐤫𐤯𐤭𐤰𐤷 𐤣𐤵𐤸 𐤤𐤳𐤳 𐤥𐤵𐤫𐤠𐤳 𐤤𐤮=𐤨 𐤪𐤭𐤰𐤣
+    - ab@line-wrapper:
+      - lb[n=2]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: atraśtalid timlelid ardẽc
+              alarmś fadol vśtaś
+          - orig[rend=rtl]: 𐤠𐤯𐤭𐤠𐤳𐤯𐤠𐤩𐤦𐤣 𐤯𐤦𐤪𐤩𐤤𐤩𐤦𐤣 𐤠𐤭𐤣𐤶𐤹 𐤠𐤩𐤠𐤭𐤪𐤳 𐤱𐤠𐤣𐤬𐤩 𐤥𐤳𐤯𐤠𐤳
+    - ab@line-wrapper:
+      - lb[n=3]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: ak qis qisred fak=aś silavad
+              fa=t nid ẽnsλibid ak=mλ
+          - orig[rend=rtl]: 𐤠𐤨 𐤲𐤦𐤮 𐤲𐤦𐤮𐤭𐤤𐤣 𐤱𐤠𐤨=𐤠𐤳 𐤮𐤦𐤩𐤠𐤥𐤠𐤣 𐤱𐤠=𐤯 𐤫𐤦𐤣 𐤶𐤫𐤮𐤷𐤦𐤡𐤦𐤣 𐤠𐤨=𐤪𐤷
+    - ab@line-wrapper:
+      - lb[n=4]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: levś sarẽtaś qis=it fẽnsλibid
+              esλ vãnaλ
+          - orig[rend=rtl]: 𐤩𐤤𐤥𐤳 𐤮𐤠𐤭𐤶𐤯𐤠𐤳 𐤲𐤦𐤮=𐤦𐤯 𐤱𐤶𐤫𐤮𐤷𐤦𐤡𐤦𐤣 𐤤𐤮𐤷 𐤥𐤵𐤫𐤠𐤷
+    - ab@line-wrapper:
+      - lb[n=5]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: buk esλ mruλ fak=mλ levś
+              vcbaqẽnt
+          - orig[rend=rtl]: 𐤡𐤰𐤨 𐤤𐤮𐤷 𐤪𐤭𐤰𐤷 𐤱𐤠𐤨=𐤪𐤷 𐤩𐤤𐤥𐤳 𐤥𐤹𐤡𐤠𐤲𐤶𐤫𐤯
+  - inscription[n=4a]:
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: eś aśinaś manelis alulis
+              ak=mλ=t qis fẽnsλibid
+          - orig[rend=rtl]: 𐤤𐤳 𐤠𐤳𐤦𐤫𐤠𐤳 𐤪𐤠𐤫𐤤𐤩𐤦𐤮 𐤠𐤩𐤰𐤩𐤦𐤮 𐤠𐤨=𐤪𐤷=𐤯 𐤲𐤦𐤮 𐤱𐤶𐤫𐤮𐤷𐤦𐤡𐤦𐤣
+    - ab@line-wrapper:
+      - lb[n=2]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: buk esνaν anlolaν buk
+          - orig[rend=rtl]: 𐤡𐤰𐤨 𐤤𐤮𐤸𐤠𐤸 𐤠𐤫𐤩𐤬𐤩𐤠𐤸 𐤡𐤰𐤨
+    - ab@line-wrapper:
+      - lb[n=3]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: esλ karolλ fak=mλ śãntaś
+          - orig[rend=rtl]: 𐤤𐤮𐤷 𐤨𐤠𐤭𐤬𐤩𐤷 𐤱𐤠𐤨=𐤪𐤷 𐤳𐤵𐤫𐤯𐤠𐤳
+    - ab@line-wrapper:
+      - lb[n=4]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: kufav=k marivda=k
+          - orig[rend=rtl]: 𐤨𐤰𐤱𐤠𐤥=𐤨 𐤪𐤠𐤭𐤦𐤥𐤣𐤠=𐤨
+    - ab@line-wrapper:
+      - lb[n=5]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: ẽnsλibb[i]d
+          - orig[rend=rtl]: 𐤶𐤫𐤮𐤷𐤦𐤡𐤡[𐤦]𐤣
+  - inscription[n=4b]:
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: eś vãnaś manelis
+          - orig[rend=rtl]: 𐤤𐤳 𐤥𐤵𐤫𐤠𐤳 𐤪𐤠𐤫𐤤𐤩𐤦𐤮
+    - ab@line-wrapper:
+      - lb[n=2]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: alulis ak=mλ=t
+          - orig[rend=rtl]: 𐤠𐤩𐤰𐤩𐤦𐤮 𐤠𐤨=𐤪𐤷=𐤯
+    - ab@line-wrapper:
+      - lb[n=3]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: qis fẽnsλibid
+          - orig[rend=rtl]: 𐤲𐤦𐤮 𐤱𐤶𐤫𐤮𐤷𐤦𐤡𐤦𐤣
+    - ab@line-wrapper:
+      - lb[n=4]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: fak=mλ=t qλdãnś
+          - orig[rend=rtl]: 𐤱𐤠𐤨=𐤪𐤷=𐤯 𐤲𐤷𐤣𐤵𐤫𐤳
+    - ab@line-wrapper:
+      - lb[n=5]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: artymu=k vcbaqẽnt
+          - orig[rend=rtl]: 𐤠𐤭𐤯𐤧𐤪𐤰=𐤨 𐤥𐤹𐤡𐤠𐤲𐤶𐤫𐤯
+  - inscription[n=5]:
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: eśś vãnaś atalis tivdalis
+              tarvτallis
+          - orig[rend=rtl]: 𐤤𐤳𐤳 𐤥𐤵𐤫𐤠𐤳 𐤠𐤯𐤠𐤩𐤦𐤮 𐤯𐤦𐤥𐤣𐤠𐤩𐤦𐤮 𐤯𐤠𐤭𐤥𐤴𐤠𐤩𐤩𐤦𐤮
+    - ab@line-wrapper:
+      - lb[n=2]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: ak=in kud kaτaλres ak teśaśtid
+              sivãmlid
+          - orig[rend=rtl]: 𐤠𐤨=𐤦𐤫 𐤨𐤰𐤣 𐤨𐤠𐤴𐤠𐤷𐤭𐤤𐤮 𐤠𐤨 𐤯𐤤𐤳𐤠𐤳𐤯𐤦𐤣 𐤮𐤦𐤥𐤵𐤪𐤩𐤦𐤣
+    - ab@line-wrapper:
+      - lb[n=3]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: mλola śrfaśtid mẽλalid mλola
+              ak nãqis
+          - orig[rend=rtl]: 𐤪𐤷𐤬𐤩𐤠 𐤳𐤭𐤱𐤠𐤳𐤯𐤦𐤣 𐤪𐤶𐤷𐤠𐤩𐤦𐤣 𐤪𐤷𐤬𐤩𐤠 𐤠𐤨 𐤫𐤵𐤲𐤦𐤮
+    - ab@line-wrapper:
+      - lb[n=4]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: ẽmλ kãnaλ kileλ buk ẽminaν
+              eśaν citalad
+          - orig[rend=rtl]: 𐤶𐤪𐤷 𐤨𐤵𐤫𐤠𐤷 𐤨𐤦𐤩𐤤𐤷 𐤡𐤰𐤨 𐤶𐤪𐤦𐤫𐤠𐤸 𐤤𐤳𐤠𐤸 𐤹𐤦𐤯𐤠𐤩𐤠𐤣
+    - ab@line-wrapper:
+      - lb[n=5]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: fadint fak=mλ artimuś qiraλ
+              qelλ=k vcbaqẽnt
+          - orig[rend=rtl]: 𐤱𐤠𐤣𐤦𐤫𐤯 𐤱𐤠𐤨=𐤪𐤷 𐤠𐤭𐤯𐤦𐤪𐤰𐤳 𐤲𐤦𐤭𐤠𐤷 𐤲𐤤𐤩𐤷=𐤨 𐤥𐤹𐤡𐤠𐤲𐤶𐤫𐤯
+  - inscription[n=6]:
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: eśś vãnaś sivãmlis armã-vlis
+          - orig[rend=rtl]: 𐤤𐤳𐤳 𐤥𐤵𐤫𐤠𐤳 𐤮𐤦𐤥𐤵𐤪𐤩𐤦𐤮 𐤠𐤭𐤪𐤵-𐤥𐤩𐤦𐤮
+    - ab@line-wrapper:
+      - lb[n=2]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: ak=it qis esλ vãnaλ
+          - orig[rend=rtl]: 𐤠𐤨=𐤦𐤯 𐤲𐤦𐤮 𐤤𐤮𐤷 𐤥𐤵𐤫𐤠𐤷
+    - ab@line-wrapper:
+      - lb[n=3]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: buk esνaν antolaν buk esν-aν
+          - orig[rend=rtl]: 𐤡𐤰𐤨 𐤤𐤮𐤸𐤠𐤸 𐤠𐤫𐤯𐤬𐤩𐤠𐤸 𐤡𐤰𐤨 𐤤𐤮𐤸-𐤠𐤸
+    - ab@line-wrapper:
+      - lb[n=4]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: laqrisaν fẽnsλibid
+          - orig[rend=rtl]: 𐤩𐤠𐤲𐤭𐤦𐤮𐤠𐤸 𐤱𐤶𐤫𐤮𐤷𐤦𐤡𐤦𐤣
+    - ab@line-wrapper:
+      - lb[n=5]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: fak=aν viśśis niviśścν
+          - orig[rend=rtl]: 𐤱𐤠𐤨=𐤠𐤸 𐤥𐤦𐤳𐤳𐤦𐤮 𐤫𐤦𐤥𐤦𐤳𐤳𐤹𐤸
+    - ab@line-wrapper:
+      - lb[n=6]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: varbtokid
+          - orig[rend=rtl]: 𐤥𐤠𐤭𐤡𐤯𐤬𐤨𐤦𐤣
+  - inscription[n=7]:
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: eśś vãnaś es=[k] laqrisa
+          - orig[rend=rtl]: 𐤤𐤳𐤳 𐤥𐤵𐤫𐤠𐤳 𐤤𐤮=[𐤨] 𐤩𐤠𐤲𐤭𐤦𐤮𐤠
+    - ab@line-wrapper:
+      - lb[n=2]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: es=k qelad bavafunidν
+          - orig[rend=rtl]: 𐤤𐤮=𐤨 𐤲𐤤𐤩𐤠𐤣 𐤡𐤠𐤥𐤠𐤱𐤰𐤫𐤦𐤣𐤸
+    - ab@line-wrapper:
+      - lb[n=3]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: ak=it nãqis esλ vãnaλ bu[k]
+          - orig[rend=rtl]: 𐤠𐤨=𐤦𐤯 𐤫𐤵𐤲𐤦𐤮 𐤤𐤮𐤷 𐤥𐤵𐤫𐤠𐤷 𐤡𐤰[𐤨]
+    - ab@line-wrapper:
+      - lb[n=4]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: laqrisaν buk qelaλ
+          - orig[rend=rtl]: 𐤩𐤠𐤲𐤭𐤦𐤮𐤠𐤸 𐤡𐤰𐤨 𐤲𐤤𐤩𐤠𐤷
+    - ab@line-wrapper:
+      - lb[n=5]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: fẽnsλbid fak=aν viśis
+          - orig[rend=rtl]: 𐤱𐤶𐤫𐤮𐤷𐤡𐤦𐤣 𐤱𐤠𐤨=𐤠𐤸 𐤥𐤦𐤳𐤦𐤮
+    - ab@line-wrapper:
+      - lb[n=6]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: niviścν varbtokid
+          - orig[rend=rtl]: 𐤫𐤦𐤥𐤦𐤳𐤹𐤸 𐤥𐤠𐤭𐤡𐤯𐤬𐤨𐤦𐤣
+  - inscription[n=8]:
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: eśś vãnaś es=k mrud es
+          - orig[rend=rtl]: 𐤤𐤳𐤳 𐤥𐤵𐤫𐤠𐤳 𐤤𐤮=𐤨 𐤪𐤭𐤰𐤣 𐤤𐤮
+    - ab@line-wrapper:
+      - lb[n=2]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: laqris=k kud=k=it esλ
+          - orig[rend=rtl]: 𐤩𐤠𐤲𐤭𐤦𐤮=𐤨 𐤨𐤰𐤣=𐤨=𐤦𐤯 𐤤𐤮𐤷
+    - ab@line-wrapper:
+      - lb[n=3]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[vã]naλ bλtarvod ak=a[d]'
+          - orig[rend=rtl]: '[𐤥𐤵]𐤫𐤠𐤷 𐤡𐤷𐤯𐤠𐤭𐤥𐤬𐤣 𐤠𐤨=𐤠[𐤣]'
+    - ab@line-wrapper:
+      - lb[n=4]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[...]'
+          - orig[rend=rtl]: '[...]'
+    - ab@line-wrapper:
+      - lb[n=5]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: artabãnalid katoval-i
+          - orig[rend=rtl]: 𐤠𐤭𐤯𐤠𐤡𐤵𐤫𐤠𐤩𐤦𐤣 𐤨𐤠𐤯𐤬𐤥𐤠𐤩-𐤦
+    - ab@line-wrapper:
+      - lb[n=6]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: =k atraśalid ak=it nãqis
+          - orig[rend=rtl]: =𐤨 𐤠𐤯𐤭𐤠𐤳𐤠𐤩𐤦𐤣 𐤠𐤨=𐤦𐤯 𐤫𐤵𐤲𐤦𐤮
+    - ab@line-wrapper:
+      - lb[n=7]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: fẽnsλibid esλ vãnaλ
+          - orig[rend=rtl]: 𐤱𐤶𐤫𐤮𐤷𐤦𐤡𐤦𐤣 𐤤𐤮𐤷 𐤥𐤵𐤫𐤠𐤷
+    - ab@line-wrapper:
+      - lb[n=8]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: buk esλ mruλ buk esν-aν
+          - orig[rend=rtl]: 𐤡𐤰𐤨 𐤤𐤮𐤷 𐤪𐤭𐤰𐤷 𐤡𐤰𐤨 𐤤𐤮𐤸-𐤠𐤸
+    - ab@line-wrapper:
+      - lb[n=9]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: laqrisaν kud=k=it
+          - orig[rend=rtl]: 𐤩𐤠𐤲𐤭𐤦𐤮𐤠𐤸 𐤨𐤰𐤣=𐤨=𐤦𐤯
+    - ab@line-wrapper:
+      - lb[n=10]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: esλ vãnaλ bλtarvod
+          - orig[rend=rtl]: 𐤤𐤮𐤷 𐤥𐤵𐤫𐤠𐤷 𐤡𐤷𐤯𐤠𐤭𐤥𐤬𐤣
+    - ab@line-wrapper:
+      - lb[n=11]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: fak=aν viśśis niviścν
+          - orig[rend=rtl]: 𐤱𐤠𐤨=𐤠𐤸 𐤥𐤦𐤳𐤳𐤦𐤮 𐤫𐤦𐤥𐤦𐤳𐤹𐤸
+    - ab@line-wrapper:
+      - lb[n=12]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: varbtokid
+          - orig[rend=rtl]: 𐤥𐤠𐤭𐤡𐤯𐤬𐤨𐤦𐤣
+  - inscription[n=9]:
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: III
+          - orig[rend=rtl]: III
+    - ab@line-wrapper:
+      - lb[n=2]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: eśś vãnaś kumlil-is
+          - orig[rend=rtl]: 𐤤𐤳𐤳 𐤥𐤵𐤫𐤠𐤳 𐤨𐤰𐤪𐤩𐤦𐤩-𐤦𐤮
+    - ab@line-wrapper:
+      - lb[n=3]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: atelis śam-[..]vlis
+          - orig[rend=rtl]: 𐤠𐤯𐤤𐤩𐤦𐤮 𐤳𐤠𐤪-[..]𐤥𐤩𐤦𐤮
+    - ab@line-wrapper:
+      - lb[n=4]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: laqris-a
+          - orig[rend=rtl]: 𐤩𐤠𐤲𐤭𐤦𐤮-𐤠
+    - ab@line-wrapper:
+      - lb[n=5]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: =k ak=i[t] nãqis
+          - orig[rend=rtl]: =𐤨 𐤠𐤨=𐤦[𐤯] 𐤫𐤵𐤲𐤦𐤮
+    - ab@line-wrapper:
+      - lb[n=6]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: fẽnsλ[ibid esλ]
+          - orig[rend=rtl]: 𐤱𐤶𐤫𐤮𐤷[𐤦𐤡𐤦𐤣 𐤤𐤮𐤷]
+    - ab@line-wrapper:
+      - lb[n=7]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: vãnaλ bu[k esνaν]
+          - orig[rend=rtl]: 𐤥𐤵𐤫𐤠𐤷 𐤡𐤰[𐤨 𐤤𐤮𐤸𐤠𐤸]
+    - ab@line-wrapper:
+      - lb[n=8]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: laqrisa[ν fak=aν]
+          - orig[rend=rtl]: 𐤩𐤠𐤲𐤭𐤦𐤮𐤠[𐤸 𐤱𐤠𐤨=𐤠𐤸]
+    - ab@line-wrapper:
+      - lb[n=9]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[viśś]is n[iviścν]'
+          - orig[rend=rtl]: '[𐤥𐤦𐤳𐤳]𐤦𐤮 𐤫[𐤦𐤥𐤦𐤳𐤹𐤸]'
+    - ab@line-wrapper:
+      - lb[n=10]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[varbtokid]'
+          - orig[rend=rtl]: '[𐤥𐤠𐤭𐤡𐤯𐤬𐤨𐤦𐤣]'
+  - inscription[n=10]:
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: es[t] mrud karoś katovalis
+              bilλ
+          - orig[rend=rtl]: 𐤤𐤮[𐤯] 𐤪𐤭𐤰𐤣 𐤨𐤠𐤭𐤬𐤳 𐤨𐤠𐤯𐤬𐤥𐤠𐤩𐤦𐤮 𐤡𐤦𐤩𐤷
+    - ab@line-wrapper:
+      - lb[n=2]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: vora[λ ka]ntrol katovaλ karolλ
+          - orig[rend=rtl]: 𐤥𐤬𐤭𐤠[𐤷 𐤨𐤠]𐤫𐤯𐤭𐤬𐤩 𐤨𐤠𐤯𐤬𐤥𐤠𐤷 𐤨𐤠𐤭𐤬𐤩𐤷
+    - ab@line-wrapper:
+      - lb[n=3]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: voraλ bλ [bili=k] iskubtoλ
+              dum=mλ=is sellis
+          - orig[rend=rtl]: 𐤥𐤬𐤭𐤠𐤷 𐤡𐤷 [𐤡𐤦𐤩𐤦=𐤨] 𐤦𐤮𐤨𐤰𐤡𐤯𐤬𐤷 𐤣𐤰𐤪=𐤪𐤷=𐤦𐤮 𐤮𐤤𐤩𐤩𐤦𐤮
+    - ab@line-wrapper:
+      - lb[n=4]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: veśfa=k voraś dacal
+          - orig[rend=rtl]: 𐤥𐤤𐤳𐤱𐤠=𐤨 𐤥𐤬𐤭𐤠𐤳 𐤣𐤠𐤹𐤠𐤩
+    - ab@line-wrapper:
+      - lb[n=5]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: est=it qid trodν sẽsvad qistoridν
+              kaśtãν
+          - orig[rend=rtl]: 𐤤𐤮𐤯=𐤦𐤯 𐤲𐤦𐤣 𐤯𐤭𐤬𐤣𐤸 𐤮𐤶𐤮𐤥𐤠𐤣 𐤲𐤦𐤮𐤯𐤬𐤭𐤦𐤣𐤸 𐤨𐤠𐤳𐤯𐤵𐤸
+    - ab@line-wrapper:
+      - lb[n=6]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: mruλ=it trodν fẽlla=k=in
+              tamν trfãν
+          - orig[rend=rtl]: 𐤪𐤭𐤰𐤷=𐤦𐤯 𐤯𐤭𐤬𐤣𐤸 𐤱𐤶𐤩𐤩𐤠=𐤨=𐤦𐤫 𐤯𐤠𐤪𐤸 𐤯𐤭𐤱𐤵𐤸
+    - ab@line-wrapper:
+      - lb[n=7]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: f=aś katul fak=it mruλ=k
+              ẽnsarbtat
+          - orig[rend=rtl]: 𐤱=𐤠𐤳 𐤨𐤠𐤯𐤰𐤩 𐤱𐤠𐤨=𐤦𐤯 𐤪𐤭𐤰𐤷=𐤨 𐤶𐤫𐤮𐤠𐤭𐤡𐤯𐤠𐤯
+    - ab@line-wrapper:
+      - lb[n=8]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: ak cẽnal nãrś qλ serś civνalis
+              kaττadmẽś
+          - orig[rend=rtl]: 𐤠𐤨 𐤹𐤶𐤫𐤠𐤩 𐤫𐤵𐤭𐤳 𐤲𐤷 𐤮𐤤𐤭𐤳 𐤹𐤦𐤥𐤸𐤠𐤩𐤦𐤮 𐤨𐤠𐤴𐤴𐤠𐤣𐤪𐤶𐤳
+    - ab@line-wrapper:
+      - lb[n=9]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: fak=m=it ẽnud ist katovalλ
+              sadmẽλ
+          - orig[rend=rtl]: 𐤱𐤠𐤨=𐤪=𐤦𐤯 𐤶𐤫𐤰𐤣 𐤦𐤮𐤯 𐤨𐤠𐤯𐤬𐤥𐤠𐤩𐤷 𐤮𐤠𐤣𐤪𐤶𐤷
+    - ab@line-wrapper:
+      - lb[n=10]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: fak=mś=ad amu kov civard
+              kot
+          - orig[rend=rtl]: 𐤱𐤠𐤨=𐤪𐤳=𐤠𐤣 𐤠𐤪𐤰 𐤨𐤬𐤥 𐤹𐤦𐤥𐤠𐤭𐤣 𐤨𐤬𐤯
+    - ab@line-wrapper:
+      - lb[n=11]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: sλẽcad laλẽnś [> civν fadofidν
+          - orig[rend=rtl]: 𐤮𐤷𐤶𐤹𐤠𐤣 𐤩𐤠𐤷𐤶𐤫𐤳 [> 𐤹𐤦𐤥𐤸 𐤱𐤠𐤣𐤬𐤱𐤦𐤣𐤸
+    - ab@line-wrapper:
+      - lb[n=12]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: tavśẽν ak=um nãqid kol fak=m=it
+          - orig[rend=rtl]: 𐤯𐤠𐤥𐤳𐤶𐤸 𐤠𐤨=𐤰𐤪 𐤫𐤵𐤲𐤦𐤣 𐤨𐤬𐤩 𐤱𐤠𐤨=𐤪=𐤦𐤯
+    - ab@line-wrapper:
+      - lb[n=13]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: el eds vaśtνunlis qasaaś
+          - orig[rend=rtl]: 𐤤𐤩 𐤤𐤣𐤮 𐤥𐤠𐤳𐤯𐤸𐤰𐤫𐤩𐤦𐤮 𐤲𐤠𐤮𐤠𐤠𐤳
+    - ab@line-wrapper:
+      - lb[n=14]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: nãm qid kot aλtokad ak=mλ=ad
+          - orig[rend=rtl]: 𐤫𐤵𐤪 𐤲𐤦𐤣 𐤨𐤬𐤯 𐤠𐤷𐤯𐤬𐤨𐤠𐤣 𐤠𐤨=𐤪𐤷=𐤠𐤣
+    - ab@line-wrapper:
+      - lb[n=15]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: sλẽcad qirad [> iśq=k=um
+              qardoλcν
+          - orig[rend=rtl]: 𐤮𐤷𐤶𐤹𐤠𐤣 𐤲𐤦𐤭𐤠𐤣 [> 𐤦𐤳𐤲=𐤨=𐤰𐤪 𐤲𐤠𐤭𐤣𐤬𐤷𐤹𐤸
+    - ab@line-wrapper:
+      - lb[n=16]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: facasidν fak=um ãn islodaλ
+          - orig[rend=rtl]: 𐤱𐤠𐤹𐤠𐤮𐤦𐤣𐤸 𐤱𐤠𐤨=𐤰𐤪 𐤵𐤫 𐤦𐤮𐤩𐤬𐤣𐤠𐤷
+    - ab@line-wrapper:
+      - lb[n=17]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: alarmn kaśtaλcν kud nak
+          - orig[rend=rtl]: 𐤠𐤩𐤠𐤭𐤪𐤫 𐤨𐤠𐤳𐤯𐤠𐤷𐤹𐤸 𐤨𐤰𐤣 𐤫𐤠𐤨
+    - ab@line-wrapper:
+      - lb[n=18]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: ẽnaś amãś qed=m bis ẽtamν
+              unadν
+          - orig[rend=rtl]: 𐤶𐤫𐤠𐤳 𐤠𐤪𐤵𐤳 𐤲𐤤𐤣=𐤪 𐤡𐤦𐤮 𐤶𐤯𐤠𐤪𐤸 𐤰𐤫𐤠𐤣𐤸
+    - ab@line-wrapper:
+      - lb[n=19]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: ak ebad inãnidν śfarvad
+          - orig[rend=rtl]: 𐤠𐤨 𐤤𐤡𐤠𐤣 𐤦𐤫𐤵𐤫𐤦𐤣𐤸 𐤳𐤱𐤠𐤭𐤥𐤠𐤣
+    - ab@line-wrapper:
+      - lb[n=20]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: ak cẽnu ẽna=k taada=k sivetτis
+              santoλ
+          - orig[rend=rtl]: 𐤠𐤨 𐤹𐤶𐤫𐤰 𐤶𐤫𐤠=𐤨 𐤯𐤠𐤠𐤣𐤠=𐤨 𐤮𐤦𐤥𐤤𐤯𐤴𐤦𐤮 𐤮𐤠𐤫𐤯𐤬𐤷
+    - ab@line-wrapper:
+      - lb[n=21]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: τ
+          - orig[rend=rtl]: 𐤴
+    - ab@line-wrapper:
+      - lb[n=22]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: faśisa malãν nak kim ãs
+          - orig[rend=rtl]: 𐤱𐤠𐤳𐤦𐤮𐤠 𐤪𐤠𐤩𐤵𐤸 𐤫𐤠𐤨 𐤨𐤦𐤪 𐤵𐤮
+    - ab@line-wrapper:
+      - lb[n=23]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: ẽnaλ=t bakivalλ mrud bśl
+          - orig[rend=rtl]: 𐤶𐤫𐤠𐤷=𐤯 𐤡𐤠𐤨𐤦𐤥𐤠𐤩𐤷 𐤪𐤭𐤰𐤣 𐤡𐤳𐤩
+    - ab@line-wrapper:
+      - lb[n=24]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: esλ=it mr qis fẽnsλibid ak=aν
+              viśśis
+          - orig[rend=rtl]: 𐤤𐤮𐤷=𐤦𐤯 𐤪𐤭 𐤲𐤦𐤮 𐤱𐤶𐤫𐤮𐤷𐤦𐤡𐤦𐤣 𐤠𐤨=𐤠𐤸 𐤥𐤦𐤳𐤳𐤦𐤮
+    - ab@line-wrapper:
+      - lb[n=25]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: niviścν varbtok
+          - orig[rend=rtl]: 𐤫𐤦𐤥𐤦𐤳𐤹𐤸 𐤥𐤠𐤭𐤡𐤯𐤬𐤨
+  - inscription[n=11]:
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: est mruvaad saristrośλ śfarvad
+              aśtrkoλ
+          - orig[rend=rtl]: 𐤤𐤮𐤯 𐤪𐤭𐤰𐤥𐤠𐤠𐤣 𐤮𐤠𐤭𐤦𐤮𐤯𐤭𐤬𐤳𐤷 𐤳𐤱𐤠𐤭𐤥𐤠𐤣 𐤠𐤳𐤯𐤭𐤨𐤬𐤷
+    - ab@line-wrapper:
+      - lb[n=2]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: vãnτaś vicν areλ kaτared=k=mś
+              iskoś
+          - orig[rend=rtl]: 𐤥𐤵𐤫𐤴𐤠𐤳 𐤥𐤦𐤹𐤸 𐤠𐤭𐤤𐤷 𐤨𐤠𐤴𐤠𐤭𐤤𐤣=𐤨=𐤪𐤳 𐤦𐤮𐤨𐤬𐤳
+    - ab@line-wrapper:
+      - lb[n=3]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: aνiś qid=ad savν vratuλ arśτãnsrś
+              kasnod
+          - orig[rend=rtl]: 𐤠𐤸𐤦𐤳 𐤲𐤦𐤣=𐤠𐤣 𐤮𐤠𐤥𐤸 𐤥𐤭𐤠𐤯𐤰𐤷 𐤠𐤭𐤳𐤴𐤵𐤫𐤮𐤭𐤳 𐤨𐤠𐤮𐤫𐤬𐤣
+    - ab@line-wrapper:
+      - lb[n=4]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: kśbλtaλ=k=ś atrgolλ tafaaλ
+              fabaλkol
+          - orig[rend=rtl]: 𐤨𐤳𐤡𐤷𐤯𐤠𐤷=𐤨=𐤳 𐤠𐤯𐤭𐤢𐤬𐤩𐤷 𐤯𐤠𐤱𐤠𐤠𐤷 𐤱𐤠𐤡𐤠𐤷𐤨𐤬𐤩
+    - ab@line-wrapper:
+      - lb[n=5]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: avkaν ẽtamν uved=m=aś varedtaλ
+              śfatoś
+          - orig[rend=rtl]: 𐤠𐤥𐤨𐤠𐤸 𐤶𐤯𐤠𐤪𐤸 𐤰𐤥𐤤𐤣=𐤪=𐤠𐤳 𐤥𐤠𐤭𐤤𐤣𐤯𐤠𐤷 𐤳𐤱𐤠𐤯𐤬𐤳
+    - ab@line-wrapper:
+      - lb[n=6]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: kot=aś cat qed=k=τ=ad cfiśad
+              isaaλal umνod
+          - orig[rend=rtl]: 𐤨𐤬𐤯=𐤠𐤳 𐤹𐤠𐤯 𐤲𐤤𐤣=𐤨=𐤴=𐤠𐤣 𐤹𐤱𐤦𐤳𐤠𐤣 𐤦𐤮𐤠𐤠𐤷𐤠𐤩 𐤰𐤪𐤸𐤬𐤣
+    - ab@line-wrapper:
+      - lb[n=7]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: saristrośλ srkastuś katovalis
+              śuλoś
+          - orig[rend=rtl]: 𐤮𐤠𐤭𐤦𐤮𐤯𐤭𐤬𐤳𐤷 𐤮𐤭𐤨𐤠𐤮𐤯𐤰𐤳 𐤨𐤠𐤯𐤬𐤥𐤠𐤩𐤦𐤮 𐤳𐤰𐤷𐤬𐤳
+    - ab@line-wrapper:
+      - lb[n=8]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: datrośis qaλmλad qis labtãnal
+              atrokl
+          - orig[rend=rtl]: 𐤣𐤠𐤯𐤭𐤬𐤳𐤦𐤮 𐤲𐤠𐤷𐤪𐤷𐤠𐤣 𐤲𐤦𐤮 𐤩𐤠𐤡𐤯𐤵𐤫𐤠𐤩 𐤠𐤯𐤭𐤬𐤨𐤩
+    - ab@line-wrapper:
+      - lb[n=9]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: śfarda=k artimuλ dãν caqrlaλ
+              aśtrkoλ
+          - orig[rend=rtl]: 𐤳𐤱𐤠𐤭𐤣𐤠=𐤨 𐤠𐤭𐤯𐤦𐤪𐤰𐤷 𐤣𐤵𐤸 𐤹𐤠𐤲𐤭𐤩𐤠𐤷 𐤠𐤳𐤯𐤭𐤨𐤬𐤷
+    - ab@line-wrapper:
+      - lb[n=10]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: fak=iτ est inal adalλ aksaakmλ
+              iskod
+          - orig[rend=rtl]: 𐤱𐤠𐤨=𐤦𐤴 𐤤𐤮𐤯 𐤦𐤫𐤠𐤩 𐤠𐤣𐤠𐤩𐤷 𐤠𐤨𐤮𐤠𐤠𐤨𐤪𐤷 𐤦𐤮𐤨𐤬𐤣
+    - ab@line-wrapper:
+      - lb[n=11]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: vãnτa=k=t esνaν ifrol qis
+              fakorfid katofn
+          - orig[rend=rtl]: 𐤥𐤵𐤫𐤴𐤠=𐤨=𐤯 𐤤𐤮𐤸𐤠𐤸 𐤦𐤱𐤭𐤬𐤩 𐤲𐤦𐤮 𐤱𐤠𐤨𐤬𐤭𐤱𐤦𐤣 𐤨𐤠𐤯𐤬𐤱𐤫
+    - ab@line-wrapper:
+      - lb[n=12]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: buk mruvaaλ fak=mλ=at=aν
+              viśśis vaarś nid kantrod
+          - orig[rend=rtl]: 𐤡𐤰𐤨 𐤪𐤭𐤰𐤥𐤠𐤠𐤷 𐤱𐤠𐤨=𐤪𐤷=𐤠𐤯=𐤠𐤸 𐤥𐤦𐤳𐤳𐤦𐤮 𐤥𐤠𐤠𐤭𐤳 𐤫𐤦𐤣 𐤨𐤠𐤫𐤯𐤭𐤬𐤣
+  - inscription[n=12]:
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: est mru sivãmlλ saroλ ẽntarfλod
+          - orig[rend=rtl]: 𐤤𐤮𐤯 𐤪𐤭𐤰 𐤮𐤦𐤥𐤵𐤪𐤩𐤷 𐤮𐤠𐤭𐤬𐤷 𐤶𐤫𐤯𐤠𐤭𐤱𐤷𐤬𐤣
+    - ab@line-wrapper:
+      - lb[n=2]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: dum=(m)λ=is nid qaaslλ veśfaś
+              alarmλ cavλoś
+          - orig[rend=rtl]: 𐤣𐤰𐤪=(𐤪)𐤷=𐤦𐤮 𐤫𐤦𐤣 𐤲𐤠𐤠𐤮𐤩𐤷 𐤥𐤤𐤳𐤱𐤠𐤳 𐤠𐤩𐤠𐤭𐤪𐤷 𐤹𐤠𐤥𐤷𐤬𐤳
+    - ab@line-wrapper:
+      - lb[n=3]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: ak=aν mλvẽsis vνisλ lẽν savkarbloś
+          - orig[rend=rtl]: 𐤠𐤨=𐤠𐤸 𐤪𐤷𐤥𐤶𐤮𐤦𐤮 𐤥𐤸𐤦𐤮𐤷 𐤩𐤶𐤸 𐤮𐤠𐤥𐤨𐤠𐤭𐤡𐤩𐤬𐤳
+    - ab@line-wrapper:
+      - lb[n=4]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: cinaλ qis qiraλ fẽtvintat
+              tutrloλ
+          - orig[rend=rtl]: 𐤹𐤦𐤫𐤠𐤷 𐤲𐤦𐤮 𐤲𐤦𐤭𐤠𐤷 𐤱𐤶𐤯𐤥𐤦𐤫𐤯𐤠𐤯 𐤯𐤰𐤯𐤭𐤩𐤬𐤷
+    - ab@line-wrapper:
+      - lb[n=5]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: nin=in nid qaaslis vãnaλ
+              akτaλ favkufot
+          - orig[rend=rtl]: 𐤫𐤦𐤫=𐤦𐤫 𐤫𐤦𐤣 𐤲𐤠𐤠𐤮𐤩𐤦𐤮 𐤥𐤵𐤫𐤠𐤷 𐤠𐤨𐤴𐤠𐤷 𐤱𐤠𐤥𐤨𐤰𐤱𐤬𐤯
+    - ab@line-wrapper:
+      - lb[n=6]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: iśaś il alarmś τeśaś kud=ãk
+              islukol
+          - orig[rend=rtl]: 𐤦𐤳𐤠𐤳 𐤦𐤩 𐤠𐤩𐤠𐤭𐤪𐤳 𐤴𐤤𐤳𐤠𐤳 𐤨𐤰𐤣=𐤵𐤨 𐤦𐤮𐤩𐤰𐤨𐤬𐤩
+    - ab@line-wrapper:
+      - lb[n=7]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: nir=at nãν sirmaλ ẽn ãn ismẽnlis
+              śfatoś
+          - orig[rend=rtl]: 𐤫𐤦𐤭=𐤠𐤯 𐤫𐤵𐤸 𐤮𐤦𐤭𐤪𐤠𐤷 𐤶𐤫 𐤵𐤫 𐤦𐤮𐤪𐤶𐤫𐤩𐤦𐤮 𐤳𐤱𐤠𐤯𐤬𐤳
+    - ab@line-wrapper:
+      - lb[n=8]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: bili=k eśś śfatrτaś vroλt
+              laafcν tulod
+          - orig[rend=rtl]: 𐤡𐤦𐤩𐤦=𐤨 𐤤𐤳𐤳 𐤳𐤱𐤠𐤯𐤭𐤴𐤠𐤳 𐤥𐤭𐤬𐤷𐤯 𐤩𐤠𐤠𐤱𐤹𐤸 𐤯𐤰𐤩𐤬𐤣
+    - ab@line-wrapper:
+      - lb[n=9]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: kot lumbaaś dum=mλ=it kocvid
+              niqasllλ tatrot
+          - orig[rend=rtl]: 𐤨𐤬𐤯 𐤩𐤰𐤪𐤡𐤠𐤠𐤳 𐤣𐤰𐤪=𐤪𐤷=𐤦𐤯 𐤨𐤬𐤹𐤥𐤦𐤣 𐤫𐤦𐤲𐤠𐤮𐤩𐤩𐤷 𐤯𐤠𐤯𐤭𐤬𐤯
+    - ab@line-wrapper:
+      - lb[n=10]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: nin linẽd vνisλ lẽν fẽntasẽnaν
+              lafod
+          - orig[rend=rtl]: 𐤫𐤦𐤫 𐤩𐤦𐤫𐤶𐤣 𐤥𐤸𐤦𐤮𐤷 𐤩𐤶𐤸 𐤱𐤶𐤫𐤯𐤠𐤮𐤶𐤫𐤠𐤸 𐤩𐤠𐤱𐤬𐤣
+  - inscription[n=13]:
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: il=im ãnas iśaś kud=m=ãk
+              cẽnsidν alarmaś
+          - orig[rend=rtl]: 𐤦𐤩=𐤦𐤪 𐤵𐤫𐤠𐤮 𐤦𐤳𐤠𐤳 𐤨𐤰𐤣=𐤪=𐤵𐤨 𐤹𐤶𐤫𐤮𐤦𐤣𐤸 𐤠𐤩𐤠𐤭𐤪𐤠𐤳
+    - ab@line-wrapper:
+      - lb[n=2]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: amu=k nãsi=k ẽmis istaminlis
+              vśtaaś
+          - orig[rend=rtl]: 𐤠𐤪𐤰=𐤨 𐤫𐤵𐤮𐤦=𐤨 𐤶𐤪𐤦𐤮 𐤦𐤮𐤯𐤠𐤪𐤦𐤫𐤩𐤦𐤮 𐤥𐤳𐤯𐤠𐤠𐤳
+    - ab@line-wrapper:
+      - lb[n=3]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: datrośis=k saryś nãν isqasãnvν
+              qiraad
+          - orig[rend=rtl]: 𐤣𐤠𐤯𐤭𐤬𐤳𐤦𐤮=𐤨 𐤮𐤠𐤭𐤧𐤳 𐤫𐤵𐤸 𐤦𐤮𐤲𐤠𐤮𐤵𐤫𐤥𐤸 𐤲𐤦𐤭𐤠𐤠𐤣
+    - ab@line-wrapper:
+      - lb[n=4]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: kot=τ=in aśfã=k cesvν aśtrkot
+              midaτad
+          - orig[rend=rtl]: 𐤨𐤬𐤯=𐤴=𐤦𐤫 𐤠𐤳𐤱𐤵=𐤨 𐤹𐤤𐤮𐤥𐤸 𐤠𐤳𐤯𐤭𐤨𐤬𐤯 𐤪𐤦𐤣𐤠𐤴𐤠𐤣
+    - ab@line-wrapper:
+      - lb[n=5]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: kud=τ=in atνãν nak fasivν
+              afaλaλ=k
+          - orig[rend=rtl]: 𐤨𐤰𐤣=𐤴=𐤦𐤫 𐤠𐤯𐤸𐤵𐤸 𐤫𐤠𐤨 𐤱𐤠𐤮𐤦𐤥𐤸 𐤠𐤱𐤠𐤷𐤠𐤷=𐤨
+    - ab@line-wrapper:
+      - lb[n=6]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: nik=τ=aś bitat ul=τ=in koττiś
+              tarblaś
+          - orig[rend=rtl]: 𐤫𐤦𐤨=𐤴=𐤠𐤳 𐤡𐤦𐤯𐤠𐤯 𐤰𐤩=𐤴=𐤦𐤫 𐤨𐤬𐤴𐤴𐤦𐤳 𐤯𐤠𐤭𐤡𐤩𐤠𐤳
+    - ab@line-wrapper:
+      - lb[n=7]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: fak=τ=in davicil istaminlaν
+              qiraaλ
+          - orig[rend=rtl]: 𐤱𐤠𐤨=𐤴=𐤦𐤫 𐤣𐤠𐤥𐤦𐤹𐤦𐤩 𐤦𐤮𐤯𐤠𐤪𐤦𐤫𐤩𐤠𐤸 𐤲𐤦𐤭𐤠𐤠𐤷
+    - ab@line-wrapper:
+      - lb[n=8]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: ẽna=t faśfẽnvν lẽm=k τaλalaν
+              aνatν
+          - orig[rend=rtl]: 𐤶𐤫𐤠=𐤯 𐤱𐤠𐤳𐤱𐤶𐤫𐤥𐤸 𐤩𐤶𐤪=𐤨 𐤴𐤠𐤷𐤠𐤩𐤠𐤸 𐤠𐤸𐤠𐤯𐤸
+    - ab@line-wrapper:
+      - lb[n=9]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: ak=ad vratoś aśẽmλ votlλ
+              tarbτad
+          - orig[rend=rtl]: 𐤠𐤨=𐤠𐤣 𐤥𐤭𐤠𐤯𐤬𐤳 𐤠𐤳𐤶𐤪𐤷 𐤥𐤬𐤯𐤩𐤷 𐤯𐤠𐤭𐤡𐤴𐤠𐤣
+    - ab@line-wrapper:
+      - lb[n=10]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[...]ẽν siτẽnit kot=τ=in
+              kocvid kancat'
+          - orig[rend=rtl]: '[...]𐤶𐤸 𐤮𐤦𐤴𐤶𐤫𐤦𐤯 𐤨𐤬𐤯=𐤴=𐤦𐤫 𐤨𐤬𐤹𐤥𐤦𐤣 𐤨𐤠𐤫𐤹𐤠𐤯'
+    - ab@line-wrapper:
+      - lb[n=11]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[......]ãn τẽnvν ni=τ=in
+              vratoś sikimλaν'
+          - orig[rend=rtl]: '[......]𐤵𐤫 𐤴𐤶𐤫𐤥𐤸 𐤫𐤦=𐤴=𐤦𐤫 𐤥𐤭𐤠𐤯𐤬𐤳 𐤮𐤦𐤨𐤦𐤪𐤷𐤠𐤸'
+    - ab@line-wrapper:
+      - lb[n=12]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[.......]śtolν qedna=k volν
+              kibτad'
+          - orig[rend=rtl]: '[.......]𐤳𐤯𐤬𐤩𐤸 𐤲𐤤𐤣𐤫𐤠=𐤨 𐤥𐤬𐤩𐤸 𐤨𐤦𐤡𐤴𐤠𐤣'
+    - ab@line-wrapper:
+      - lb[n=13]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[..............]aśẽmis eλoś
+              iślaaś'
+          - orig[rend=rtl]: '[..............]𐤠𐤳𐤶𐤪𐤦𐤮 𐤤𐤷𐤬𐤳 𐤦𐤳𐤩𐤠𐤠𐤳'
+  - inscription[n=14]:
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: mru=m=it baal dum=is qλ[......]ś
+              factot
+          - orig[rend=rtl]: 𐤪𐤭𐤰=𐤪=𐤦𐤯 𐤡𐤠𐤠𐤩 𐤣𐤰𐤪=𐤦𐤮 𐤲𐤷[......]𐤳 𐤱𐤠𐤹𐤯𐤬𐤯
+    - ab@line-wrapper:
+      - lb[n=2]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: aśtrkota=k savtaarś eλf=k....]λa=k
+              taśo=k
+          - orig[rend=rtl]: 𐤠𐤳𐤯𐤭𐤨𐤬𐤯𐤠=𐤨 𐤮𐤠𐤥𐤯𐤠𐤠𐤭𐤳 𐤤𐤷𐤱=𐤨....]𐤷𐤠=𐤨 𐤯𐤠𐤳𐤬=𐤨
+    - ab@line-wrapper:
+      - lb[n=3]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: nã=m baλτaś ist savkorfλ[...sav]taarλ=k
+              arktoλ
+          - orig[rend=rtl]: 𐤫𐤵=𐤪 𐤡𐤠𐤷𐤴𐤠𐤳 𐤦𐤮𐤯 𐤮𐤠𐤥𐤨𐤬𐤭𐤱𐤷[...𐤮𐤠𐤥]𐤯𐤠𐤠𐤭𐤷=𐤨 𐤠𐤭𐤨𐤯𐤬𐤷
+    - ab@line-wrapper:
+      - lb[n=4]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: fak=m=at τeλmdaν śνãλaν ẽ[......]śakoś
+          - orig[rend=rtl]: 𐤱𐤠𐤨=𐤪=𐤠𐤯 𐤴𐤤𐤷𐤪𐤣𐤠𐤸 𐤳𐤸𐤵𐤷𐤠𐤸 𐤶[......]𐤳𐤠𐤨𐤬𐤳
+    - ab@line-wrapper:
+      - lb[n=5]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: caqrlãν ak=um adẽnν a[......a]larmlν
+              ẽtolt
+          - orig[rend=rtl]: 𐤹𐤠𐤲𐤭𐤩𐤵𐤸 𐤠𐤨=𐤰𐤪 𐤠𐤣𐤶𐤫𐤸 𐤠[......𐤠]𐤩𐤠𐤭𐤪𐤩𐤸 𐤶𐤯𐤬𐤩𐤯
+    - ab@line-wrapper:
+      - lb[n=6]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: faśqν niqaaslad ak=m ciraλad
+              iskod
+          - orig[rend=rtl]: 𐤱𐤠𐤳𐤲𐤸 𐤫𐤦𐤲𐤠𐤠𐤮𐤩𐤠𐤣 𐤠𐤨=𐤪 𐤹𐤦𐤭𐤠𐤷𐤠𐤣 𐤦𐤮𐤨𐤬𐤣
+    - ab@line-wrapper:
+      - lb[n=7]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: istaν qλaśtãnu ni=k mrslaś
+              sitarfλoś
+          - orig[rend=rtl]: 𐤦𐤮𐤯𐤠𐤸 𐤲𐤷𐤠𐤳𐤯𐤵𐤫𐤰 𐤫𐤦=𐤨 𐤪𐤭𐤮𐤩𐤠𐤳 𐤮𐤦𐤯𐤠𐤭𐤱𐤷𐤬𐤳
+    - ab@line-wrapper:
+      - lb[n=8]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: dã=k=um est siqr[ ]saralλ
+              taktod
+          - orig[rend=rtl]: 𐤣𐤵=𐤨=𐤰𐤪 𐤤𐤮𐤯 𐤮𐤦𐤲𐤭[ ]𐤮𐤠𐤭𐤠𐤩𐤷 𐤯𐤠𐤨𐤯𐤬𐤣
+    - ab@line-wrapper:
+      - lb[n=9]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: kot=iś famrasidν[     ] qiraλ
+              ẽnvνatoλ=k
+          - orig[rend=rtl]: 𐤨𐤬𐤯=𐤦𐤳 𐤱𐤠𐤪𐤭𐤠𐤮𐤦𐤣𐤸[     ] 𐤲𐤦𐤭𐤠𐤷 𐤶𐤫𐤥𐤸𐤠𐤯𐤬𐤷=𐤨
+    - ab@line-wrapper:
+      - lb[n=10]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: lẽmś=um taada[     ] eśt
+              kaτfλads qλ śatrot
+          - orig[rend=rtl]: 𐤩𐤶𐤪𐤳=𐤰𐤪 𐤯𐤠𐤠𐤣𐤠[     ] 𐤤𐤳𐤯 𐤨𐤠𐤴𐤱𐤷𐤠𐤣𐤮 𐤲𐤷 𐤳𐤠𐤯𐤭𐤬𐤯
+    - ab@line-wrapper:
+      - lb[n=11]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: ãnś qλ nśa[ ]ararmś facato[.]
+          - orig[rend=rtl]: 𐤵𐤫𐤳 𐤲𐤷 𐤫𐤳𐤠[ ]𐤠𐤭𐤠𐤭𐤪𐤳 𐤱𐤠𐤹𐤠𐤯𐤬[.]
+    - ab@line-wrapper:
+      - lb[n=12]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: kibτama[ ]ankãν[...]śtrol
+          - orig[rend=rtl]: 𐤨𐤦𐤡𐤴𐤠𐤪𐤠[ ]𐤠𐤫𐤨𐤵𐤸[...]𐤳𐤯𐤭𐤬𐤩
+    - ab@line-wrapper:
+      - lb[n=13]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: qaλm=k c[     ] fa=m qiraλ
+              [.....]trol
+          - orig[rend=rtl]: 𐤲𐤠𐤷𐤪=𐤨 𐤹[     ] 𐤱𐤠=𐤪 𐤲𐤦𐤭𐤠𐤷 [.....]𐤯𐤭𐤬𐤩
+    - ab@line-wrapper:
+      - lb[n=14]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: umν=it [    ] otraν adalλ
+              fartol
+          - orig[rend=rtl]: 𐤰𐤪𐤸=𐤦𐤯 [    ] 𐤬𐤯𐤭𐤠𐤸 𐤠𐤣𐤠𐤩𐤷 𐤱𐤠𐤭𐤯𐤬𐤩
+    - ab@line-wrapper:
+      - lb[n=15]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[...]ś[     ] tartaś fak=m=is
+              col'
+          - orig[rend=rtl]: '[...]𐤳[     ] 𐤯𐤠𐤭𐤯𐤠𐤳 𐤱𐤠𐤨=𐤪=𐤦𐤮 𐤹𐤬𐤩'
+    - ab@line-wrapper:
+      - lb[n=16]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[      ]fa=mλ=ad taadaś
+              ẽntrol'
+          - orig[rend=rtl]: '[      ]𐤱𐤠=𐤪𐤷=𐤠𐤣 𐤯𐤠𐤠𐤣𐤠𐤳 𐤶𐤫𐤯𐤭𐤬𐤩'
+    - ab@line-wrapper:
+      - lb[n=17]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[     ] facatil kukok'
+          - orig[rend=rtl]: '[     ] 𐤱𐤠𐤹𐤠𐤯𐤦𐤩 𐤨𐤰𐤨𐤬𐤨'
+    - ab@line-wrapper:
+      - lb[n=18]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[    ]sid fabad ẽnτavλoλ'
+          - orig[rend=rtl]: '[    ]𐤮𐤦𐤣 𐤱𐤠𐤡𐤠𐤣 𐤶𐤫𐤴𐤠𐤥𐤷𐤬𐤷'
+    - ab@line-wrapper:
+      - lb[n=19]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[       ]s sivraλaλ karftoś'
+          - orig[rend=rtl]: '[       ]𐤮 𐤮𐤦𐤥𐤭𐤠𐤷𐤠𐤷 𐤨𐤠𐤭𐤱𐤯𐤬𐤳'
+  - inscription[n=15]:
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[    ]mλiλś nid kafolcν
+              fadil'
+          - orig[rend=rtl]: '[    ]𐤪𐤷𐤦𐤷𐤳 𐤫𐤦𐤣 𐤨𐤠𐤱𐤬𐤩𐤹𐤸 𐤱𐤠𐤣𐤦𐤩'
+    - ab@line-wrapper:
+      - lb[n=2]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[     ] kolcis tarblaś fẽnanil'
+          - orig[rend=rtl]: '[     ] 𐤨𐤬𐤩𐤹𐤦𐤮 𐤯𐤠𐤭𐤡𐤩𐤠𐤳 𐤱𐤶𐤫𐤠𐤫𐤦𐤩'
+    - ab@line-wrapper:
+      - lb[n=3]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[     ]śtil ãnś kocvid qis
+              tfil'
+          - orig[rend=rtl]: '[     ]𐤳𐤯𐤦𐤩 𐤵𐤫𐤳 𐤨𐤬𐤹𐤥𐤦𐤣 𐤲𐤦𐤮 𐤯𐤱𐤦𐤩'
+    - ab@line-wrapper:
+      - lb[n=4]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[     ]kud=ãk fasivλidν'
+          - orig[rend=rtl]: '[     ]𐤨𐤰𐤣=𐤵𐤨 𐤱𐤠𐤮𐤦𐤥𐤷𐤦𐤣𐤸'
+    - ab@line-wrapper:
+      - lb[n=5]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[    ]τad tarblatil mari[..]'
+          - orig[rend=rtl]: '[    ]𐤴𐤠𐤣 𐤯𐤠𐤭𐤡𐤩𐤠𐤯𐤦𐤩 𐤪𐤠𐤭𐤦[..]'
+    - ab@line-wrapper:
+      - lb[n=6]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[     ]is irẽnν sanil'
+          - orig[rend=rtl]: '[     ]𐤦𐤮 𐤦𐤭𐤶𐤫𐤸 𐤮𐤠𐤫𐤦𐤩'
+    - ab@line-wrapper:
+      - lb[n=7]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[     ]mtν fistrovν a[..]'
+          - orig[rend=rtl]: '[     ]𐤪𐤯𐤸 𐤱𐤦𐤮𐤯𐤭𐤬𐤥𐤸 𐤠[..]'
+    - ab@line-wrapper:
+      - lb[n=8]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[     ]qelqil siviś'
+          - orig[rend=rtl]: '[     ]𐤲𐤤𐤩𐤲𐤦𐤩 𐤮𐤦𐤥𐤦𐤳'
+    - ab@line-wrapper:
+      - lb[n=9]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[     ]vãnaλ ba[    ]'
+          - orig[rend=rtl]: '[     ]𐤥𐤵𐤫𐤠𐤷 𐤡𐤠[    ]'
+    - ab@line-wrapper:
+      - lb[n=10]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[    ]caqr[    ]'
+          - orig[rend=rtl]: '[    ]𐤹𐤠𐤲𐤭[    ]'
+  - inscription[n=16]:
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[...eśś v]ãnaś tivdalis
+              [...]'
+          - orig[rend=rtl]: '[...𐤤𐤳𐤳 𐤥]𐤵𐤫𐤠𐤳 𐤯𐤦𐤥𐤣𐤠𐤩𐤦𐤮 [...]'
+    - ab@line-wrapper:
+      - lb[n=2]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[...]λmlis borlλ ś[...]'
+          - orig[rend=rtl]: '[...]𐤷𐤪𐤩𐤦𐤮 𐤡𐤬𐤭𐤩𐤷 𐤳[...]'
+    - ab@line-wrapper:
+      - lb[n=3]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[...qa]λmλuλ dãν[...]'
+          - orig[rend=rtl]: '[...𐤲𐤠]𐤷𐤪𐤷𐤰𐤷 𐤣𐤵𐤸[...]'
+    - ab@line-wrapper:
+      - lb[n=4]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[...]alarmś sidλ[...]'
+          - orig[rend=rtl]: '[...]𐤠𐤩𐤠𐤭𐤪𐤳 𐤮𐤦𐤣𐤷[...]'
+    - ab@line-wrapper:
+      - lb[n=5]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[...]ẽl[...]'
+          - orig[rend=rtl]: '[...]𐤶𐤩[...]'
+  - inscription[n=17]:
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[...siv]ãmlis ak=it qis'
+          - orig[rend=rtl]: '[...𐤮𐤦𐤥]𐤵𐤪𐤩𐤦𐤮 𐤠𐤨=𐤦𐤯 𐤲𐤦𐤮'
+    - ab@line-wrapper:
+      - lb[n=2]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[...esνa]ν anlolaν fẽnsλib[id]'
+          - orig[rend=rtl]: '[...𐤤𐤮𐤸𐤠]𐤸 𐤠𐤫𐤩𐤬𐤩𐤠𐤸 𐤱𐤶𐤫𐤮𐤷𐤦𐤡[𐤦𐤣]'
+    - ab@line-wrapper:
+      - lb[n=3]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[...katsa]rlokid ẽna=k=mλ[...]'
+          - orig[rend=rtl]: '[...𐤨𐤠𐤯𐤮𐤠]𐤭𐤩𐤬𐤨𐤦𐤣 𐤶𐤫𐤠=𐤨=𐤪𐤷[...]'
+  - inscription[n=18]:
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[...]'
+          - orig[rend=rtl]: '[...]'
+    - ab@line-wrapper:
+      - lb[n=2]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: e. vãnaν qisredν ni=m=it
+              fẽnsλi[bid]
+          - orig[rend=rtl]: 𐤤. 𐤥𐤵𐤫𐤠𐤸 𐤲𐤦𐤮𐤭𐤤𐤣𐤸 𐤫𐤦=𐤪=𐤦𐤯 𐤱𐤶𐤫𐤮𐤷𐤦[𐤡𐤦𐤣]
+    - ab@line-wrapper:
+      - lb[n=3]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: ak=mś=in śof
+          - orig[rend=rtl]: 𐤠𐤨=𐤪𐤳=𐤦𐤫 𐤳𐤬𐤱
+  - inscription[n=19]:
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[...]'
+          - orig[rend=rtl]: '[...]'
+    - ab@line-wrapper:
+      - lb[n=2]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: fẽnsλibid bi[...]
+          - orig[rend=rtl]: 𐤱𐤶𐤫𐤮𐤷𐤦𐤡𐤦𐤣 𐤡𐤦[...]
+    - ab@line-wrapper:
+      - lb[n=3]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: fẽncãν bi[...]
+          - orig[rend=rtl]: 𐤱𐤶𐤫𐤹𐤵𐤸 𐤡𐤦[...]
+    - ab@line-wrapper:
+      - lb[n=4]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: fak[...]
+          - orig[rend=rtl]: 𐤱𐤠𐤨[...]
+  - inscription[n=20]:
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: nannaś bakivalis artimuλ
+          - orig[rend=rtl]: 𐤫𐤠𐤫𐤫𐤠𐤳 𐤡𐤠𐤨𐤦𐤥𐤠𐤩𐤦𐤮 𐤠𐤭𐤯𐤦𐤪𐤰𐤷
+  - inscription[n=21]:
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[m]an[e]ś bakivalis mane[lis(?)]
+              artim[uλ(?)]'
+          - orig[rend=rtl]: '[𐤪]𐤠𐤫[𐤤]𐤳 𐤡𐤠𐤨𐤦𐤥𐤠𐤩𐤦𐤮 𐤪𐤠𐤫𐤤[𐤩𐤦𐤮(?)] 𐤠𐤭𐤯𐤦𐤪[𐤰𐤷(?)]'
+  - inscription[n=22]:
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: est mrud śfardẽnτ facνiris
+              mλimnaś vicν
+          - orig[rend=rtl]: 𐤤𐤮𐤯 𐤪𐤭𐤰𐤣 𐤳𐤱𐤠𐤭𐤣𐤶𐤫𐤴 𐤱𐤠𐤹𐤸𐤦𐤭𐤦𐤮 𐤪𐤷𐤦𐤪𐤫𐤠𐤳 𐤥𐤦𐤹𐤸
+    - ab@line-wrapper:
+      - lb[n=2]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: dum=mś ebad favnẽris amẽd
+              śfardẽtλ aśtrkoλ
+          - orig[rend=rtl]: 𐤣𐤰𐤪=𐤪𐤳 𐤤𐤡𐤠𐤣 𐤱𐤠𐤥𐤫𐤶𐤭𐤦𐤮 𐤠𐤪𐤶𐤣 𐤳𐤱𐤠𐤭𐤣𐤶𐤯𐤷 𐤠𐤳𐤯𐤭𐤨𐤬𐤷
+    - ab@line-wrapper:
+      - lb[n=3]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: mλatalad mλimnś aλidad viśvid
+              kaττirś
+          - orig[rend=rtl]: 𐤪𐤷𐤠𐤯𐤠𐤩𐤠𐤣 𐤪𐤷𐤦𐤪𐤫𐤳 𐤠𐤷𐤦𐤣𐤠𐤣 𐤥𐤦𐤳𐤥𐤦𐤣 𐤨𐤠𐤴𐤴𐤦𐤭𐤳
+    - ab@line-wrapper:
+      - lb[n=4]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: fak śfardẽta=k ãn katvνẽl
+              ãnad fẽntasẽnaν
+          - orig[rend=rtl]: 𐤱𐤠𐤨 𐤳𐤱𐤠𐤭𐤣𐤶𐤯𐤠=𐤨 𐤵𐤫 𐤨𐤠𐤯𐤥𐤸𐤶𐤩 𐤵𐤫𐤠𐤣 𐤱𐤶𐤫𐤯𐤠𐤮𐤶𐤫𐤠𐤸
+    - ab@line-wrapper:
+      - lb[n=5]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: nãqid=a mλimnś ist śfarλ
+              iitλ ak=mś aλidad
+          - orig[rend=rtl]: 𐤫𐤵𐤲𐤦𐤣=𐤠 𐤪𐤷𐤦𐤪𐤫𐤳 𐤦𐤮𐤯 𐤳𐤱𐤠𐤭𐤷 𐤦𐤦𐤯𐤷 𐤠𐤨=𐤪𐤳 𐤠𐤷𐤦𐤣𐤠𐤣
+    - ab@line-wrapper:
+      - lb[n=6]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: viśvid kaττivν kot=it cidaλmdaν
+              ẽnvaλaλ
+          - orig[rend=rtl]: 𐤥𐤦𐤳𐤥𐤦𐤣 𐤨𐤠𐤴𐤴𐤦𐤥𐤸 𐤨𐤬𐤯=𐤦𐤯 𐤹𐤦𐤣𐤠𐤷𐤪𐤣𐤠𐤸 𐤶𐤫𐤥𐤠𐤷𐤠𐤷
+    - ab@line-wrapper:
+      - lb[n=7]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: vaśtνun=k=mś niqeśi=k dẽt
+              datroś=k=mś qeśis
+          - orig[rend=rtl]: 𐤥𐤠𐤳𐤯𐤸𐤰𐤫=𐤨=𐤪𐤳 𐤫𐤦𐤲𐤤𐤳𐤦=𐤨 𐤣𐤶𐤯 𐤣𐤠𐤯𐤭𐤬𐤳=𐤨=𐤪𐤳 𐤲𐤤𐤳𐤦𐤮
+    - ab@line-wrapper:
+      - lb[n=8]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: cẽntλ mλimnaν savν śfardẽtaν
+              ak=mś=ad
+          - orig[rend=rtl]: 𐤹𐤶𐤫𐤯𐤷 𐤪𐤷𐤦𐤪𐤫𐤠𐤸 𐤮𐤠𐤥𐤸 𐤳𐤱𐤠𐤭𐤣𐤶𐤯𐤠𐤸 𐤠𐤨=𐤪𐤳=𐤠𐤣
+    - ab@line-wrapper:
+      - lb[n=9]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: sivraλMis artimul kaττirś
+              kave=k bakillis
+          - orig[rend=rtl]: sivraλMis 𐤠𐤭𐤯𐤦𐤪𐤰𐤩 𐤨𐤠𐤴𐤴𐤦𐤭𐤳 𐤨𐤠𐤥𐤤=𐤨 𐤡𐤠𐤨𐤦𐤩𐤩𐤦𐤮
+    - ab@line-wrapper:
+      - lb[n=10]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: armτa=k qid=a iitλ mλimnś
+              ist śfarλ ak=mś
+          - orig[rend=rtl]: 𐤠𐤭𐤪𐤴𐤠=𐤨 𐤲𐤦𐤣=𐤠 𐤦𐤦𐤯𐤷 𐤪𐤷𐤦𐤪𐤫𐤳 𐤦𐤮𐤯 𐤳𐤱𐤠𐤭𐤷 𐤠𐤨=𐤪𐤳
+    - ab@line-wrapper:
+      - lb[n=11]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: irduν sivraλmis artimul kaττirś
+              ak=ad
+          - orig[rend=rtl]: 𐤦𐤭𐤣𐤰𐤸 𐤮𐤦𐤥𐤭𐤠𐤷𐤪𐤦𐤮 𐤠𐤭𐤯𐤦𐤪𐤰𐤩 𐤨𐤠𐤴𐤴𐤦𐤭𐤳 𐤠𐤨=𐤠𐤣
+    - ab@line-wrapper:
+      - lb[n=12]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: sivraλmis artimul aśfãν cẽqraλ
+              qiraλ
+          - orig[rend=rtl]: 𐤮𐤦𐤥𐤭𐤠𐤷𐤪𐤦𐤮 𐤠𐤭𐤯𐤦𐤪𐤰𐤩 𐤠𐤳𐤱𐤵𐤸 𐤹𐤶𐤲𐤭𐤠𐤷 𐤲𐤦𐤭𐤠𐤷
+    - ab@line-wrapper:
+      - lb[n=13]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: taqtulãt ak=mś=aś aśfãν vcbinvν
+              śfardẽti=k
+          - orig[rend=rtl]: 𐤯𐤠𐤲𐤯𐤰𐤩𐤵𐤯 𐤠𐤨=𐤪𐤳=𐤠𐤳 𐤠𐤳𐤱𐤵𐤸 𐤥𐤹𐤡𐤦𐤫𐤥𐤸 𐤳𐤱𐤠𐤭𐤣𐤶𐤯𐤦=𐤨
+    - ab@line-wrapper:
+      - lb[n=14]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: aśtrkoś mλimlλ nãku=kod fakatvãmid
+              ak qed
+          - orig[rend=rtl]: 𐤠𐤳𐤯𐤭𐤨𐤬𐤳 𐤪𐤷𐤦𐤪𐤩𐤷 𐤫𐤵𐤨𐤰=𐤨𐤬𐤣 𐤱𐤠𐤨𐤠𐤯𐤥𐤵𐤪𐤦𐤣 𐤠𐤨 𐤲𐤤𐤣
+    - ab@line-wrapper:
+      - lb[n=15]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: aλidad taśod ak=mλ=ad inãnt
+          - orig[rend=rtl]: 𐤠𐤷𐤦𐤣𐤠𐤣 𐤯𐤠𐤳𐤬𐤣 𐤠𐤨=𐤪𐤷=𐤠𐤣 𐤦𐤫𐤵𐤫𐤯
+  - inscription[n=23]:
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: eśś syrmaś qλdãnl artimuλ=k
+              dacuverś=t
+          - orig[rend=rtl]: 𐤤𐤳𐤳 𐤮𐤧𐤭𐤪𐤠𐤳 𐤲𐤷𐤣𐤵𐤫𐤩 𐤠𐤭𐤯𐤦𐤪𐤰𐤷=𐤨 𐤣𐤠𐤹𐤰𐤥𐤤𐤭𐤳=𐤯
+    - ab@line-wrapper:
+      - lb[n=2]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: vintaś ak=it esλ sirmaλ qys
+              fẽnsλibid
+          - orig[rend=rtl]: 𐤥𐤦𐤫𐤯𐤠𐤳 𐤠𐤨=𐤦𐤯 𐤤𐤮𐤷 𐤮𐤦𐤭𐤪𐤠𐤷 𐤲𐤧𐤮 𐤱𐤶𐤫𐤮𐤷𐤦𐤡𐤦𐤣
+    - ab@line-wrapper:
+      - lb[n=3]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: niviścν fak=mλ=it=in qλdãnś
+              tavśaś
+          - orig[rend=rtl]: 𐤫𐤦𐤥𐤦𐤳𐤹𐤸 𐤱𐤠𐤨=𐤪𐤷=𐤦𐤯=𐤦𐤫 𐤲𐤷𐤣𐤵𐤫𐤳 𐤯𐤠𐤥𐤳𐤠𐤳
+    - ab@line-wrapper:
+      - lb[n=4]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: artimu=k ibśimsis katsarlokid
+              brvã=ś
+          - orig[rend=rtl]: 𐤠𐤭𐤯𐤦𐤪𐤰=𐤨 𐤦𐤡𐤳𐤦𐤪𐤮𐤦𐤮 𐤨𐤠𐤯𐤮𐤠𐤭𐤩𐤬𐤨𐤦𐤣 𐤡𐤭𐤥𐤵=𐤳
+    - ab@line-wrapper:
+      - lb[n=5]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: III II dãν ãnτẽt mitridastaś
+              mitratalis
+          - orig[rend=rtl]: III II 𐤣𐤵𐤸 𐤵𐤫𐤴𐤶𐤯 𐤪𐤦𐤯𐤭𐤦𐤣𐤠𐤮𐤯𐤠𐤳 𐤪𐤦𐤯𐤭𐤠𐤯𐤠𐤩𐤦𐤮
+    - ab@line-wrapper:
+      - lb[n=6]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: kaveś citoλś buk afariś qλ
+              dẽt amudãν
+          - orig[rend=rtl]: 𐤨𐤠𐤥𐤤𐤳 𐤹𐤦𐤯𐤬𐤷𐤳 𐤡𐤰𐤨 𐤠𐤱𐤠𐤭𐤦𐤳 𐤲𐤷 𐤣𐤶𐤯 𐤠𐤪𐤰𐤣𐤵𐤸
+    - ab@line-wrapper:
+      - lb[n=7]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: ak=m=aν brafrsis brafrlλ
+              savtarid fa=kud
+          - orig[rend=rtl]: 𐤠𐤨=𐤪=𐤠𐤸 𐤡𐤭𐤠𐤱𐤭𐤮𐤦𐤮 𐤡𐤭𐤠𐤱𐤭𐤩𐤷 𐤮𐤠𐤥𐤯𐤠𐤭𐤦𐤣 𐤱𐤠=𐤨𐤰𐤣
+    - ab@line-wrapper:
+      - lb[n=8]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: amu ovν ak=it qed faśfẽnu
+              ak=at qλ fakantrov
+          - orig[rend=rtl]: 𐤠𐤪𐤰 𐤬𐤥𐤸 𐤠𐤨=𐤦𐤯 𐤲𐤤𐤣 𐤱𐤠𐤳𐤱𐤶𐤫𐤰 𐤠𐤨=𐤠𐤯 𐤲𐤷 𐤱𐤠𐤨𐤠𐤫𐤯𐤭𐤬𐤥
+    - ab@line-wrapper:
+      - lb[n=9]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: ak=mλ=is qis citollad bitad
+          - orig[rend=rtl]: 𐤠𐤨=𐤪𐤷=𐤦𐤮 𐤲𐤦𐤮 𐤹𐤦𐤯𐤬𐤩𐤩𐤠𐤣 𐤡𐤦𐤯𐤠𐤣
+    - ab@line-wrapper:
+      - lb[n=10]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: fak=mλ=t=in qλdãn=k artimu=k
+              katsarlokid
+          - orig[rend=rtl]: 𐤱𐤠𐤨=𐤪𐤷=𐤯=𐤦𐤫 𐤲𐤷𐤣𐤵𐤫=𐤨 𐤠𐤭𐤯𐤦𐤪𐤰=𐤨 𐤨𐤠𐤯𐤮𐤠𐤭𐤩𐤬𐤨𐤦𐤣
+    - ab@line-wrapper:
+      - lb[n=11]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: buλ bilλ=k arlyllλ qyraλ
+              ẽtverś=k=in
+          - orig[rend=rtl]: 𐤡𐤰𐤷 𐤡𐤦𐤩𐤷=𐤨 𐤠𐤭𐤩𐤧𐤩𐤩𐤷 𐤲𐤧𐤭𐤠𐤷 𐤶𐤯𐤥𐤤𐤭𐤳=𐤨=𐤦𐤫
+    - ab@line-wrapper:
+      - lb[n=12]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: saroka=k esνaν civaν nikumẽk
+          - orig[rend=rtl]: 𐤮𐤠𐤭𐤬𐤨𐤠=𐤨 𐤤𐤮𐤸𐤠𐤸 𐤹𐤦𐤥𐤠𐤸 𐤫𐤦𐤨𐤰𐤪𐤶𐤨
+    - ab@line-wrapper:
+      - lb[n=13]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: savẽnt ni=k bis ni=k bilis
+              arlyllis
+          - orig[rend=rtl]: 𐤮𐤠𐤥𐤶𐤫𐤯 𐤫𐤦=𐤨 𐤡𐤦𐤮 𐤫𐤦=𐤨 𐤡𐤦𐤩𐤦𐤮 𐤠𐤭𐤩𐤧𐤩𐤩𐤦𐤮
+    - ab@line-wrapper:
+      - lb[n=14]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: qys=k amu=k=it qyd faśfẽnu
+              ak=at
+          - orig[rend=rtl]: 𐤲𐤧𐤮=𐤨 𐤠𐤪𐤰=𐤨=𐤦𐤯 𐤲𐤧𐤣 𐤱𐤠𐤳𐤱𐤶𐤫𐤰 𐤠𐤨=𐤠𐤯
+    - ab@line-wrapper:
+      - lb[n=15]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: bavafuλ selλ=k kantoru aλaλ
+              nid
+          - orig[rend=rtl]: 𐤡𐤠𐤥𐤠𐤱𐤰𐤷 𐤮𐤤𐤩𐤷=𐤨 𐤨𐤠𐤫𐤯𐤬𐤭𐤰 𐤠𐤷𐤠𐤷 𐤫𐤦𐤣
+    - ab@line-wrapper:
+      - lb[n=16]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: qλ=k bλesa=k dẽt tafaaś aλaś
+          - orig[rend=rtl]: 𐤲𐤷=𐤨 𐤡𐤷𐤤𐤮𐤠=𐤨 𐤣𐤶𐤯 𐤯𐤠𐤱𐤠𐤠𐤳 𐤠𐤷𐤠𐤳
+    - ab@line-wrapper:
+      - lb[n=17]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: ak=it ed=ko=k ẽtqratad kot=ad
+              amu
+          - orig[rend=rtl]: 𐤠𐤨=𐤦𐤯 𐤤𐤣=𐤨𐤬=𐤨 𐤶𐤯𐤲𐤭𐤠𐤯𐤠𐤣 𐤨𐤬𐤯=𐤠𐤣 𐤠𐤪𐤰
+    - ab@line-wrapper:
+      - lb[n=18]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: mitridastaś fẽtamνidν ak=ś
+              qis
+          - orig[rend=rtl]: 𐤪𐤦𐤯𐤭𐤦𐤣𐤠𐤮𐤯𐤠𐤳 𐤱𐤶𐤯𐤠𐤪𐤸𐤦𐤣𐤸 𐤠𐤨=𐤳 𐤲𐤦𐤮
+    - ab@line-wrapper:
+      - lb[n=19]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: ẽmν ẽtamν uν favcνaśod buk
+              in
+          - orig[rend=rtl]: 𐤶𐤪𐤸 𐤶𐤯𐤠𐤪𐤸 𐤰𐤸 𐤱𐤠𐤥𐤹𐤸𐤠𐤳𐤬𐤣 𐤡𐤰𐤨 𐤦𐤫
+    - ab@line-wrapper:
+      - lb[n=20]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: mẽtrid buk bidẽν qi=k int
+              ak=mλ=i[s]
+          - orig[rend=rtl]: 𐤪𐤶𐤯𐤭𐤦𐤣 𐤡𐤰𐤨 𐤡𐤦𐤣𐤶𐤸 𐤲𐤦=𐤨 𐤦𐤫𐤯 𐤠𐤨=𐤪𐤷=𐤦[𐤮]
+    - ab@line-wrapper:
+      - lb[n=21]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: qed ẽnud ẽtamś uν ak=ad artimuś
+          - orig[rend=rtl]: 𐤲𐤤𐤣 𐤶𐤫𐤰𐤣 𐤶𐤯𐤠𐤪𐤳 𐤰𐤸 𐤠𐤨=𐤠𐤣 𐤠𐤭𐤯𐤦𐤪𐤰𐤳
+    - ab@line-wrapper:
+      - lb[n=22]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: biferś=t
+          - orig[rend=rtl]: 𐤡𐤦𐤱𐤤𐤭𐤳=𐤯
+  - inscription[n=24]:
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: ãnτẽt mitridastaś mitra[talis]
+          - orig[rend=rtl]: 𐤵𐤫𐤴𐤶𐤯 𐤪𐤦𐤯𐤭𐤦𐤣𐤠𐤮𐤯𐤠𐤳 𐤪𐤦𐤯𐤭𐤠[𐤯𐤠𐤩𐤦𐤮]
+    - ab@line-wrapper:
+      - lb[n=2]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: kaveś nak amu katosν faov
+          - orig[rend=rtl]: 𐤨𐤠𐤥𐤤𐤳 𐤫𐤠𐤨 𐤠𐤪𐤰 𐤨𐤠𐤯𐤬𐤮𐤸 𐤱𐤠𐤬𐤥
+    - ab@line-wrapper:
+      - lb[n=3]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: ak=it nãqid serlis srmlis
+          - orig[rend=rtl]: 𐤠𐤨=𐤦𐤯 𐤫𐤵𐤲𐤦𐤣 𐤮𐤤𐤭𐤩𐤦𐤮 𐤮𐤭𐤪𐤩𐤦𐤮
+    - ab@line-wrapper:
+      - lb[n=4]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: amu fadifil buk=τ=ad amudãν
+          - orig[rend=rtl]: 𐤠𐤪𐤰 𐤱𐤠𐤣𐤦𐤱𐤦𐤩 𐤡𐤰𐤨=𐤴=𐤠𐤣 𐤠𐤪𐤰𐤣𐤵𐤸
+    - ab@line-wrapper:
+      - lb[n=5]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: fak[.]nal buk=mλ=ad amu bitocν
+          - orig[rend=rtl]: 𐤱𐤠𐤨[.]𐤫𐤠𐤩 𐤡𐤰𐤨=𐤪𐤷=𐤠𐤣 𐤠𐤪𐤰 𐤡𐤦𐤯𐤬𐤹𐤸
+    - ab@line-wrapper:
+      - lb[n=6]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: bidν qed=k=mλ aλad fẽtamνidν
+          - orig[rend=rtl]: 𐤡𐤦𐤣𐤸 𐤲𐤤𐤣=𐤨=𐤪𐤷 𐤠𐤷𐤠𐤣 𐤱𐤶𐤯𐤠𐤪𐤸𐤦𐤣𐤸
+    - ab@line-wrapper:
+      - lb[n=7]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: ak=mλ=is qis citollad bitaad
+          - orig[rend=rtl]: 𐤠𐤨=𐤪𐤷=𐤦𐤮 𐤲𐤦𐤮 𐤹𐤦𐤯𐤬𐤩𐤩𐤠𐤣 𐤡𐤦𐤯𐤠𐤠𐤣
+    - ab@line-wrapper:
+      - lb[n=8]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: buk=mλ=is fakarsed qi=k buk=mλ=a[d]
+          - orig[rend=rtl]: 𐤡𐤰𐤨=𐤪𐤷=𐤦𐤮 𐤱𐤠𐤨𐤠𐤭𐤮𐤤𐤣 𐤲𐤦=𐤨 𐤡𐤰𐤨=𐤪𐤷=𐤠[𐤣]
+    - ab@line-wrapper:
+      - lb[n=9]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: fabuverftaλ buk=mλ=it basνśak-
+          - orig[rend=rtl]: 𐤱𐤠𐤡𐤰𐤥𐤤𐤭𐤱𐤯𐤠𐤷 𐤡𐤰𐤨=𐤪𐤷=𐤦𐤯 𐤡𐤠𐤮𐤸𐤳𐤠𐤨-
+    - ab@line-wrapper:
+      - lb[n=10]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: νãkid niviślλ qelλ=k buk
+          - orig[rend=rtl]: 𐤸𐤵𐤨𐤦𐤣 𐤫𐤦𐤥𐤦𐤳𐤩𐤷 𐤲𐤤𐤩𐤷=𐤨 𐤡𐤰𐤨
+    - ab@line-wrapper:
+      - lb[n=11]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: mẽtlid buk bidẽν qi=k int
+          - orig[rend=rtl]: 𐤪𐤶𐤯𐤩𐤦𐤣 𐤡𐤰𐤨 𐤡𐤦𐤣𐤶𐤸 𐤲𐤦=𐤨 𐤦𐤫𐤯
+    - ab@line-wrapper:
+      - lb[n=12]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: fak=mλ=it artimuś ibśimsis
+          - orig[rend=rtl]: 𐤱𐤠𐤨=𐤪𐤷=𐤦𐤯 𐤠𐤭𐤯𐤦𐤪𐤰𐤳 𐤦𐤡𐤳𐤦𐤪𐤮𐤦𐤮
+    - ab@line-wrapper:
+      - lb[n=13]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: katsarlokid bλ bilλ=k arlilλ
+          - orig[rend=rtl]: 𐤨𐤠𐤯𐤮𐤠𐤭𐤩𐤬𐤨𐤦𐤣 𐤡𐤷 𐤡𐤦𐤩𐤷=𐤨 𐤠𐤭𐤩𐤦𐤩𐤷
+    - ab@line-wrapper:
+      - lb[n=14]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: qiraλ artimuλ=k=in ẽtversn
+          - orig[rend=rtl]: 𐤲𐤦𐤭𐤠𐤷 𐤠𐤭𐤯𐤦𐤪𐤰𐤷=𐤨=𐤦𐤫 𐤶𐤯𐤥𐤤𐤭𐤮𐤫
+    - ab@line-wrapper:
+      - lb[n=15]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: saroka=k nikumẽk savẽnt ni=k
+          - orig[rend=rtl]: 𐤮𐤠𐤭𐤬𐤨𐤠=𐤨 𐤫𐤦𐤨𐤰𐤪𐤶𐤨 𐤮𐤠𐤥𐤶𐤫𐤯 𐤫𐤦=𐤨
+    - ab@line-wrapper:
+      - lb[n=16]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: bis ni=k bil śfẽnis serli=k
+              srmlis
+          - orig[rend=rtl]: 𐤡𐤦𐤮 𐤫𐤦=𐤨 𐤡𐤦𐤩 𐤳𐤱𐤶𐤫𐤦𐤮 𐤮𐤤𐤭𐤩𐤦=𐤨 𐤮𐤭𐤪𐤩𐤦𐤮
+    - ab@line-wrapper:
+      - lb[n=17]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: ãnτẽt nak amu mitridastaλ=ś
+          - orig[rend=rtl]: 𐤵𐤫𐤴𐤶𐤯 𐤫𐤠𐤨 𐤠𐤪𐤰 𐤪𐤦𐤯𐤭𐤦𐤣𐤠𐤮𐤯𐤠𐤷=𐤳
+    - ab@line-wrapper:
+      - lb[n=18]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: katosν faov ak=it amu nãqid
+          - orig[rend=rtl]: 𐤨𐤠𐤯𐤬𐤮𐤸 𐤱𐤠𐤬𐤥 𐤠𐤨=𐤦𐤯 𐤠𐤪𐤰 𐤫𐤵𐤲𐤦𐤣
+    - ab@line-wrapper:
+      - lb[n=19]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: faśfẽnu nak aaraν nak bira=k
+          - orig[rend=rtl]: 𐤱𐤠𐤳𐤱𐤶𐤫𐤰 𐤫𐤠𐤨 𐤠𐤠𐤭𐤠𐤸 𐤫𐤠𐤨 𐤡𐤦𐤭𐤠=𐤨
+    - ab@line-wrapper:
+      - lb[n=20]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[n]ak dẽtν ẽmν ak=at amu
+              mitridas[taλ]'
+          - orig[rend=rtl]: '[𐤫]𐤠𐤨 𐤣𐤶𐤯𐤸 𐤶𐤪𐤸 𐤠𐤨=𐤠𐤯 𐤠𐤪𐤰 𐤪𐤦𐤯𐤭𐤦𐤣𐤠𐤮[𐤯𐤠𐤷]'
+    - ab@line-wrapper:
+      - lb[n=21]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[ka]veλ kantoru savvaśτal
+              ak=mλ'
+          - orig[rend=rtl]: '[𐤨𐤠]𐤥𐤤𐤷 𐤨𐤠𐤫𐤯𐤬𐤭𐤰 𐤮𐤠𐤥𐤥𐤠𐤳𐤴𐤠𐤩 𐤠𐤨=𐤪𐤷'
+    - ab@line-wrapper:
+      - lb[n=22]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[aλaś] nid qis=k dẽt ifrlis
+              mitridasta[.]'
+          - orig[rend=rtl]: '[𐤠𐤷𐤠𐤳] 𐤫𐤦𐤣 𐤲𐤦𐤮=𐤨 𐤣𐤶𐤯 𐤦𐤱𐤭𐤩𐤦𐤮 𐤪𐤦𐤯𐤭𐤦𐤣𐤠𐤮𐤯𐤠[.]'
+    - ab@line-wrapper:
+      - lb[n=23]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[...(15)..(?)b]itad mitridastaś
+              [...]'
+          - orig[rend=rtl]: '[...(15)..(?)𐤡]𐤦𐤯𐤠𐤣 𐤪𐤦𐤯𐤭𐤦𐤣𐤠𐤮𐤯𐤠𐤳 [...]'
+  - inscription[n=25]:
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[    ]is ta[    ]'
+          - orig[rend=rtl]: '[    ]𐤦𐤮 𐤯𐤠[    ]'
+    - ab@line-wrapper:
+      - lb[n=2]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[   kat]ovalis man[    ]'
+          - orig[rend=rtl]: '[   𐤨𐤠𐤯]𐤬𐤥𐤠𐤩𐤦𐤮 𐤪𐤠𐤫[    ]'
+    - ab@line-wrapper:
+      - lb[n=3]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[    k]arolis tivd[    ]'
+          - orig[rend=rtl]: '[    𐤨]𐤠𐤭𐤬𐤩𐤦𐤮 𐤯𐤦𐤥𐤣[    ]'
+    - ab@line-wrapper:
+      - lb[n=4]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[    k]arolis ma[    ]'
+          - orig[rend=rtl]: '[    𐤨]𐤠𐤭𐤬𐤩𐤦𐤮 𐤪𐤠[    ]'
+    - ab@line-wrapper:
+      - lb[n=5]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[   ar]timulis [    ]'
+          - orig[rend=rtl]: '[   𐤠𐤭]𐤯𐤦𐤪𐤰𐤩𐤦𐤮 [    ]'
+    - ab@line-wrapper:
+      - lb[n=6]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[    ]is m[    ]'
+          - orig[rend=rtl]: '[    ]𐤦𐤮 𐤪[    ]'
+  - inscription[n=26]:
+    - note[lg=eng-Latn]:
+      - placeName: Mersindere
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: eś sadmẽś es=k mrud alikrelid
+              karol[id(?)] anlali=k atraśt[alid(?)]
+          - orig[rend=rtl]: 𐤤𐤳 𐤮𐤠𐤣𐤪𐤶𐤳 𐤤𐤮=𐤨 𐤪𐤭𐤰𐤣 𐤠𐤩𐤦𐤨𐤭𐤤𐤩𐤦𐤣 𐤨𐤠𐤭𐤬𐤩[𐤦𐤣(?)] 𐤠𐤫𐤩𐤠𐤩𐤦=𐤨 𐤠𐤯𐤭𐤠𐤳𐤯[𐤠𐤩𐤦𐤣(?)]
+    - ab@line-wrapper:
+      - lb[n=2]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: kaveś lamẽtrulis qis alikamśo=k
+              bilis [ti]vdalis atalid a[k=it]
+          - orig[rend=rtl]: 𐤨𐤠𐤥𐤤𐤳 𐤩𐤠𐤪𐤶𐤯𐤭𐤰𐤩𐤦𐤮 𐤲𐤦𐤮 𐤠𐤩𐤦𐤨𐤠𐤪𐤳𐤬=𐤨 𐤡𐤦𐤩𐤦𐤮 [𐤯𐤦]𐤥𐤣𐤠𐤩𐤦𐤮 𐤠𐤯𐤠𐤩𐤦𐤣
+              𐤠[𐤨=𐤦𐤯]
+    - ab@line-wrapper:
+      - lb[n=3]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[esλ s]admẽλ buk esλ mruλ
+              buk esνaν maśtãν qis fẽn[sλibid   ]'
+          - orig[rend=rtl]: '[𐤤𐤮𐤷 𐤮]𐤠𐤣𐤪𐤶𐤷 𐤡𐤰𐤨 𐤤𐤮𐤷 𐤪𐤭𐤰𐤷 𐤡𐤰𐤨 𐤤𐤮𐤸𐤠𐤸 𐤪𐤠𐤳𐤯𐤵𐤸 𐤲𐤦𐤮 𐤱𐤶𐤫[𐤮𐤷𐤦𐤡𐤦𐤣   ]'
+    - ab@line-wrapper:
+      - lb[n=4]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[    ]lamẽtruś [....] sa[dmẽ]λ
+              artimu=k aśbluvaś viś[        ]'
+          - orig[rend=rtl]: '[    ]𐤩𐤠𐤪𐤶𐤯𐤭𐤰𐤳 [....] 𐤮𐤠[𐤣𐤪𐤶]𐤷 𐤠𐤭𐤯𐤦𐤪𐤰=𐤨 𐤠𐤳𐤡𐤩𐤰𐤥𐤠𐤳 𐤥𐤦𐤳[        ]'
+  - inscription[n=27]:
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[...]'
+          - orig[rend=rtl]: '[...]'
+    - ab@line-wrapper:
+      - lb[n=2]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[   ]ẽrblocimλ'
+          - orig[rend=rtl]: '[   ]𐤶𐤭𐤡𐤩𐤬𐤹𐤦𐤪𐤷'
+    - ab@line-wrapper:
+      - lb[n=3]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[    ]il karo=k=it ẽndiblint'
+          - orig[rend=rtl]: '[    ]𐤦𐤩 𐤨𐤠𐤭𐤬=𐤨=𐤦𐤯 𐤶𐤫𐤣𐤦𐤡𐤩𐤦𐤫𐤯'
+    - ab@line-wrapper:
+      - lb[n=4]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[    ]ocν iraν cuλdalẽλ
+              taacdaν bimirś śfarda=k'
+          - orig[rend=rtl]: '[    ]𐤬𐤹𐤸 𐤦𐤭𐤠𐤸 𐤹𐤰𐤷𐤣𐤠𐤩𐤶𐤷 𐤯𐤠𐤠𐤹𐤣𐤠𐤸 𐤡𐤦𐤪𐤦𐤭𐤳 𐤳𐤱𐤠𐤭𐤣𐤠=𐤨'
+  - inscription[n=28]:
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[    ]ftellis kaveś inl'
+          - orig[rend=rtl]: '[    ]𐤱𐤯𐤤𐤩𐤩𐤦𐤮 𐤨𐤠𐤥𐤤𐤳 𐤦𐤫𐤩'
+  - inscription[n=29]:
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[   ]ud'
+          - orig[rend=rtl]: '[   ]𐤰𐤣'
+    - ab@line-wrapper:
+      - lb[n=2]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[   ]re'
+          - orig[rend=rtl]: '[   ]𐤭𐤤'
+  - inscription[n=30]:
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: 'titiś=in : ẽmν : tiśardν
+              : fabil'
+          - orig[rend=rtl]: '𐤯𐤦𐤯𐤦𐤳=𐤦𐤫 : 𐤶𐤪𐤸 : 𐤯𐤦𐤳𐤠𐤭𐤣𐤸 : 𐤱𐤠𐤡𐤦𐤩'
+    - ab@line-wrapper:
+      - lb[n=2]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: 'ataλ : kitvaλ'
+          - orig[rend=rtl]: '𐤠𐤯𐤠𐤷 : 𐤨𐤦𐤯𐤥𐤠𐤷'
+  - inscription[n=31]:
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: śaśa
+          - orig[rend=rtl]: 𐤳𐤠𐤳𐤠
+  - inscription[n=32]:
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[    ]ralulis kardal'
+          - orig[rend=rtl]: '[    ]𐤭𐤠𐤩𐤰𐤩𐤦𐤮 𐤨𐤠𐤭𐤣𐤠𐤩'
+  - inscription[n=33]:
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: mivad
+          - orig[rend=rtl]: 𐤪𐤦𐤥𐤠𐤣
+  - inscription[n=34]:
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: eg
+          - orig[rend=rtl]: 𐤤𐤢
+  - inscription[n=35]:
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: cm
+          - orig[rend=rtl]: 𐤹𐤪
+  - inscription[n=36]:
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: .ru
+          - orig[rend=rtl]: .𐤭𐤰
+  - inscription[n=37]:
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: art f
+          - orig[rend=rtl]: 𐤠𐤭𐤯 𐤱
+  - inscription[n=38]:
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: ly
+          - orig[rend=rtl]: 𐤩𐤧
+  - inscription[n=39]:
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: tiv
+          - orig[rend=rtl]: 𐤯𐤦𐤥
+  - inscription[n=40]:
+    - note[lg=eng-Latn]:
+      - placeName: Pergamon
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: esν taśẽν acνil
+          - orig[rend=rtl]: 𐤤𐤮𐤸 𐤯𐤠𐤳𐤶𐤸 𐤠𐤹𐤸𐤦𐤩
+    - ab@line-wrapper:
+      - lb[n=2]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: bartaraś śa.it
+          - orig[rend=rtl]: 𐤡𐤠𐤭𐤯𐤠𐤭𐤠𐤳 𐤳𐤠.𐤦𐤯
+  - inscription[n=41]:
+    - note[lg=eng-Latn]:
+      - placeName: Falaka
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: borlλ X III III arta[kśass-]aλ
+          - orig[rend=rtl]: 𐤡𐤬𐤭𐤩𐤷 X III III 𐤠𐤭𐤯𐤠[𐤨𐤳𐤠𐤮𐤮-]𐤠𐤷
+    - ab@line-wrapper:
+      - lb[n=2]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: qaλmλuλ dãν
+          - orig[rend=rtl]: 𐤲𐤠𐤷𐤪𐤷𐤰𐤷 𐤣𐤵𐤸
+    - ab@line-wrapper:
+      - lb[n=3]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: oraλ kanlalaλ karo[..]
+          - orig[rend=rtl]: 𐤬𐤭𐤠𐤷 𐤨𐤠𐤫𐤩𐤠𐤩𐤠𐤷 𐤨𐤠𐤭𐤬[..]
+    - ab@line-wrapper:
+      - lb[n=4]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: trolλ vrauλ artimulλ
+          - orig[rend=rtl]: 𐤯𐤭𐤬𐤩𐤷 𐤥𐤭𐤠𐤰𐤷 𐤠𐤭𐤯𐤦𐤪𐤰𐤩𐤷
+    - ab@line-wrapper:
+      - lb[n=5]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: esν tacn bantakaśa[ś]
+          - orig[rend=rtl]: 𐤤𐤮𐤸 𐤯𐤠𐤹𐤫 𐤡𐤠𐤫𐤯𐤠𐤨𐤠𐤳𐤠[𐤳]
+    - ab@line-wrapper:
+      - lb[n=6]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: abrnalis kãna=k bil[is]
+          - orig[rend=rtl]: 𐤠𐤡𐤭𐤫𐤠𐤩𐤦𐤮 𐤨𐤵𐤫𐤠=𐤨 𐤡𐤦𐤩[𐤦𐤮]
+    - ab@line-wrapper:
+      - lb[n=7]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[.]ret=k aśaν qaλem[   ]'
+          - orig[rend=rtl]: '[.]𐤭𐤤𐤯=𐤨 𐤠𐤳𐤠𐤸 𐤲𐤠𐤷𐤤𐤪[   ]'
+  - inscription[n=42]:
+    - note[lg=eng-Latn]:
+      - placeName: Emre
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: borlλ XI ora[λ ...]
+          - orig[rend=rtl]: 𐤡𐤬𐤭𐤩𐤷 XI 𐤬𐤭𐤠[𐤷 ...]
+    - ab@line-wrapper:
+      - lb[n=2]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: qaλmλuλ dãν es[...]
+          - orig[rend=rtl]: 𐤲𐤠𐤷𐤪𐤷𐤰𐤷 𐤣𐤵𐤸 𐤤𐤮[...]
+    - ab@line-wrapper:
+      - lb[n=3]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[..]roś artimal[is...]'
+          - orig[rend=rtl]: '[..]𐤭𐤬𐤳 𐤠𐤭𐤯𐤦𐤪𐤠𐤩[𐤦𐤮...]'
+    - ab@line-wrapper:
+      - lb[n=4]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[k]ãna=k ak=mλ [qis ...]'
+          - orig[rend=rtl]: '[𐤨]𐤵𐤫𐤠=𐤨 𐤠𐤨=𐤪𐤷 [𐤲𐤦𐤮 ...]'
+    - ab@line-wrapper:
+      - lb[n=5]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: buλ=k bil=k śfẽnaν [...]
+          - orig[rend=rtl]: 𐤡𐤰𐤷=𐤨 𐤡𐤦𐤩=𐤨 𐤳𐤱𐤶𐤫𐤠𐤸 [...]
+    - ab@line-wrapper:
+      - lb[n=6]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: es=k=iś labta qis fẽn[...]
+          - orig[rend=rtl]: 𐤤𐤮=𐤨=𐤦𐤳 𐤩𐤠𐤡𐤯𐤠 𐤲𐤦𐤮 𐤱𐤶𐤫[...]
+    - ab@line-wrapper:
+      - lb[n=7]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[......]vad ak ẽnaλ[...]'
+          - orig[rend=rtl]: '[......]𐤥𐤠𐤣 𐤠𐤨 𐤶𐤫𐤠𐤷[...]'
+  - inscription[n=43]:
+    - note[lg=eng-Latn]:
+      - placeName: Eǵriköy
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: brvãν II dãν
+          - orig[rend=rtl]: 𐤡𐤭𐤥𐤵𐤸 II 𐤣𐤵𐤸
+    - ab@line-wrapper:
+      - lb[n=2]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: oraλ kanlelaλ
+          - orig[rend=rtl]: 𐤬𐤭𐤠𐤷 𐤨𐤠𐤫𐤩𐤤𐤩𐤠𐤷
+    - ab@line-wrapper:
+      - lb[n=3]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: vartraluλ esν tacν
+          - orig[rend=rtl]: 𐤥𐤠𐤭𐤯𐤭𐤠𐤩𐤰𐤷 𐤤𐤮𐤸 𐤯𐤠𐤹𐤸
+    - ab@line-wrapper:
+      - lb[n=4]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: maneś bẽtovlis
+          - orig[rend=rtl]: 𐤪𐤠𐤫𐤤𐤳 𐤡𐤶𐤯𐤬𐤥𐤩𐤦𐤮
+    - ab@line-wrapper:
+      - lb[n=5]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: facunil cẽqrad
+          - orig[rend=rtl]: 𐤱𐤠𐤹𐤰𐤫𐤦𐤩 𐤹𐤶𐤲𐤭𐤠𐤣
+    - ab@line-wrapper:
+      - lb[n=6]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[.]aλidẽnl bar[..]'
+          - orig[rend=rtl]: '[.]𐤠𐤷𐤦𐤣𐤶𐤫𐤩 𐤡𐤠𐤭[..]'
+  - inscription[n=44]:
+    - note[lg=eng-Latn]:
+      - placeName: č̣oban-isa
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[...(18)...]ẽtsa[...(8)...]'
+          - orig[rend=rtl]: '[...(18)...]𐤶𐤯𐤮𐤠[...(8)...]'
+    - ab@line-wrapper:
+      - lb[n=2]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: trismν adẽnν satiś um cak
+              trfnod
+          - orig[rend=rtl]: 𐤯𐤭𐤦𐤮𐤪𐤸 𐤠𐤣𐤶𐤫𐤸 𐤮𐤠𐤯𐤦𐤳 𐤰𐤪 𐤹𐤠𐤨 𐤯𐤭𐤱𐤫𐤬𐤣
+    - ab@line-wrapper:
+      - lb[n=3]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: lavl arśmavad[...(11)...]
+              asnãntol sok[   ]
+          - orig[rend=rtl]: 𐤩𐤠𐤥𐤩 𐤠𐤭𐤳𐤪𐤠𐤥𐤠𐤣[...(11)...] 𐤠𐤮𐤫𐤵𐤫𐤯𐤬𐤩 𐤮𐤬𐤨[   ]
+    - ab@line-wrapper:
+      - lb[n=4]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: irẽλ k[..]ar[...(11)...]qλ
+              dakrod qiro[   ]
+          - orig[rend=rtl]: 𐤦𐤭𐤶𐤷 𐤨[..]𐤠𐤭[...(11)...]𐤲𐤷 𐤣𐤠𐤨𐤭𐤬𐤣 𐤲𐤦𐤭𐤬[   ]
+    - ab@line-wrapper:
+      - lb[n=5]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: civad armird[...(9)...]tid
+              fatros volk[   ]
+          - orig[rend=rtl]: 𐤹𐤦𐤥𐤠𐤣 𐤠𐤭𐤪𐤦𐤭𐤣[...(9)...]𐤯𐤦𐤣 𐤱𐤠𐤯𐤭𐤬𐤮 𐤥𐤬𐤩𐤨[   ]
+    - ab@line-wrapper:
+      - lb[n=6]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: es[...(12)...]s[..]seds fedtroś
+              qis[   ]
+          - orig[rend=rtl]: 𐤤𐤮[...(12)...]𐤮[..]𐤮𐤤𐤣𐤮 𐤱𐤤𐤣𐤯𐤭𐤬𐤳 𐤲𐤦𐤮[   ]
+    - ab@line-wrapper:
+      - lb[n=7]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: ẽminas[...(18)...]τol siva[   ]
+          - orig[rend=rtl]: 𐤶𐤪𐤦𐤫𐤠𐤮[...(18)...]𐤴𐤬𐤩 𐤮𐤦𐤥𐤠[   ]
+    - ab@line-wrapper:
+      - lb[n=8]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: fara[...(23)...]                      brafr[   ]
+          - orig[rend=rtl]: 𐤱𐤠𐤭𐤠[...(23)...]                      𐤡𐤭𐤠𐤱𐤭[   ]
+    - ab@line-wrapper:
+      - lb[n=9]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: le[...(28)...]nod fatrol[   ]
+          - orig[rend=rtl]: 𐤩𐤤[...(28)...]𐤫𐤬𐤣 𐤱𐤠𐤯𐤭𐤬𐤩[   ]
+    - ab@line-wrapper:
+      - lb[n=10]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: a[...(30)...]
+          - orig[rend=rtl]: 𐤠[...(30)...]
+    - ab@line-wrapper:
+      - lb[n=11]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: ed[...(24)...]lokτ
+          - orig[rend=rtl]: 𐤤𐤣[...(24)...]𐤩𐤬𐤨𐤴
+    - ab@line-wrapper:
+      - lb[n=12]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: etlaλ[.......] fẽtvinteλ
+              aśturkoś
+          - orig[rend=rtl]: 𐤤𐤯𐤩𐤠𐤷[.......] 𐤱𐤶𐤯𐤥𐤦𐤫𐤯𐤤𐤷 𐤠𐤳𐤯𐤰𐤭𐤨𐤬𐤳
+    - ab@line-wrapper:
+      - lb[n=13]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: eds=in sub[..]taν istamin
+              nid fatrod
+          - orig[rend=rtl]: 𐤤𐤣𐤮=𐤦𐤫 𐤮𐤰𐤡[..]𐤯𐤠𐤸 𐤦𐤮𐤯𐤠𐤪𐤦𐤫 𐤫𐤦𐤣 𐤱𐤠𐤯𐤭𐤬𐤣
+    - ab@line-wrapper:
+      - lb[n=14]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: ed=t=in kumlolλ b[.]rsfantuś
+              fasνo[d]
+          - orig[rend=rtl]: 𐤤𐤣=𐤯=𐤦𐤫 𐤨𐤰𐤪𐤩𐤬𐤩𐤷 𐤡[.]𐤭𐤮𐤱𐤠𐤫𐤯𐤰𐤳 𐤱𐤠𐤮𐤸𐤬[𐤣]
+    - ab@line-wrapper:
+      - lb[n=15]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: ẽnν batnẽds fatinẽd tẽtr[o.]
+          - orig[rend=rtl]: 𐤶𐤫𐤸 𐤡𐤠𐤯𐤫𐤶𐤣𐤮 𐤱𐤠𐤯𐤦𐤫𐤶𐤣 𐤯𐤶𐤯𐤭[𐤬.]
+    - ab@line-wrapper:
+      - lb[n=16]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: qis faśaknakil buk=t aλẽλ[o.]
+          - orig[rend=rtl]: 𐤲𐤦𐤮 𐤱𐤠𐤳𐤠𐤨𐤫𐤠𐤨𐤦𐤩 𐤡𐤰𐤨=𐤯 𐤠𐤷𐤶𐤷[𐤬.]
+    - ab@line-wrapper:
+      - lb[n=17]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: edλ=t=in niviśva civs f[..]
+          - orig[rend=rtl]: 𐤤𐤣𐤷=𐤯=𐤦𐤫 𐤫𐤦𐤥𐤦𐤳𐤥𐤠 𐤹𐤦𐤥𐤮 𐤱[..]
+    - ab@line-wrapper:
+      - lb[n=18]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: dumν=um arś[...]
+          - orig[rend=rtl]: 𐤣𐤰𐤪𐤸=𐤰𐤪 𐤠𐤭𐤳[...]
+  - inscription[n=45]:
+    - note[lg=eng-Latn]:
+      - placeName: Arablhк Hachкlhк Mahallesi
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[...]'
+          - orig[rend=rtl]: '[...]'
+    - ab@line-wrapper:
+      - lb[n=2]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[...]ś fẽntrol'
+          - orig[rend=rtl]: '[...]𐤳 𐤱𐤶𐤫𐤯𐤭𐤬𐤩'
+    - ab@line-wrapper:
+      - lb[n=3]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[...]aśolλ faτaν'
+          - orig[rend=rtl]: '[...]𐤠𐤳𐤬𐤩𐤷 𐤱𐤠𐤴𐤠𐤸'
+    - ab@line-wrapper:
+      - lb[n=4]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[r]aval fak=mλ śanẽν inal'
+          - orig[rend=rtl]: '[𐤭]𐤠𐤥𐤠𐤩 𐤱𐤠𐤨=𐤪𐤷 𐤳𐤠𐤫𐤶𐤸 𐤦𐤫𐤠𐤩'
+    - ab@line-wrapper:
+      - lb[n=5]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: ak=it esλ taacλ qis fẽnsλibid
+          - orig[rend=rtl]: 𐤠𐤨=𐤦𐤯 𐤤𐤮𐤷 𐤯𐤠𐤠𐤹𐤷 𐤲𐤦𐤮 𐤱𐤶𐤫𐤮𐤷𐤦𐤡𐤦𐤣
+  - inscription[n=46]:
+    - note[lg=eng-Latn]:
+      - placeName: Hamidiye
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[..]k sibad śak[...a]λad
+              dẽt nid'
+          - orig[rend=rtl]: '[..]𐤨 𐤮𐤦𐤡𐤠𐤣 𐤳𐤠𐤨[...𐤠]𐤷𐤠𐤣 𐤣𐤶𐤯 𐤫𐤦𐤣'
+    - ab@line-wrapper:
+      - lb[n=2]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: fasabid qi[s] bidẽν fratinid
+          - orig[rend=rtl]: 𐤱𐤠𐤮𐤠𐤡𐤦𐤣 𐤲𐤦[𐤮] 𐤡𐤦𐤣𐤶𐤸 𐤱𐤭𐤠𐤯𐤦𐤫𐤦𐤣
+    - ab@line-wrapper:
+      - lb[n=3]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: buv=aś fisfid [.]st ak=τ=in
+              asraν
+          - orig[rend=rtl]: 𐤡𐤰𐤥=𐤠𐤳 𐤱𐤦𐤮𐤱𐤦𐤣 [.]𐤮𐤯 𐤠𐤨=𐤴=𐤦𐤫 𐤠𐤮𐤭𐤠𐤸
+    - ab@line-wrapper:
+      - lb[n=4]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: artimu=k sava[...]
+          - orig[rend=rtl]: 𐤠𐤭𐤯𐤦𐤪𐤰=𐤨 𐤮𐤠𐤥𐤠[...]
+    - ab@line-wrapper:
+      - lb[n=5]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: tanlaλ b[...]
+          - orig[rend=rtl]: 𐤯𐤠𐤫𐤩𐤠𐤷 𐤡[...]
+    - ab@line-wrapper:
+      - lb[n=6]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: buk=[i]t [...]
+          - orig[rend=rtl]: 𐤡𐤰𐤨=[𐤦]𐤯 [...]
+    - ab@line-wrapper:
+      - lb[n=7]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[.]ivard ak=a[d...]'
+          - orig[rend=rtl]: '[.]𐤦𐤥𐤠𐤭𐤣 𐤠𐤨=𐤠[𐤣...]'
+    - ab@line-wrapper:
+      - lb[n=8]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: visi[...]
+          - orig[rend=rtl]: 𐤥𐤦𐤮𐤦[...]
+  - inscription[n=47]:
+    - note[lg=eng-Latn]:
+      - placeName: Tire
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[.....]qa[...(15)...]a[...(20)...]a'
+          - orig[rend=rtl]: '[.....]𐤲𐤠[...(15)...]𐤠[...(20)...]𐤠'
+    - ab@line-wrapper:
+      - lb[n=2]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: brafraν laduvad intiśtcν
+              tin[.]ν τaλad fasitamra[...]
+          - orig[rend=rtl]: 𐤡𐤭𐤠𐤱𐤭𐤠𐤸 𐤩𐤠𐤣𐤰𐤥𐤠𐤣 𐤦𐤫𐤯𐤦𐤳𐤯𐤹𐤸 𐤯𐤦𐤫[.]𐤸 𐤴𐤠𐤷𐤠𐤣 𐤱𐤠𐤮𐤦𐤯𐤠𐤪𐤭𐤠[...]
+  - inscription[n=48]:
+    - note[lg=eng-Latn]:
+      - placeName: Ephesos
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[    ]is inl'
+          - orig[rend=rtl]: '[    ]𐤦𐤮 𐤦𐤫𐤩'
+  - inscription[n=49]:
+    - note[lg=eng-Latn]:
+      - placeName: Silsilis
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: lẽKqug i
+          - orig[rend=rtl]: lẽKqug 𐤦
+    - ab@line-wrapper:
+      - lb[n=2]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: aluś=mretlis=ul
+          - orig[rend=rtl]: 𐤠𐤩𐤰𐤳=𐤪𐤭𐤤𐤯𐤩𐤦𐤮=𐤰𐤩
+  - inscription[n=50]:
+    - note[lg=eng-Latn]:
+      - placeName: Megalais Katefches
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: forlλ XII oraλ kanlelaλ
+          - orig[rend=rtl]: 𐤱𐤬𐤭𐤩𐤷 XII 𐤬𐤭𐤠𐤷 𐤨𐤠𐤫𐤩𐤤𐤩𐤠𐤷
+    - ab@line-wrapper:
+      - lb[n=2]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[...]tralaλ aλiksantruλ'
+          - orig[rend=rtl]: '[...]𐤯𐤭𐤠𐤩𐤠𐤷 𐤠𐤷𐤦𐤨𐤮𐤠𐤫𐤯𐤭𐤰𐤷'
+    - ab@line-wrapper:
+      - lb[n=3]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[q]aλmλuλ dãν esn taacn'
+          - orig[rend=rtl]: '[𐤲]𐤠𐤷𐤪𐤷𐤰𐤷 𐤣𐤵𐤸 𐤤𐤮𐤫 𐤯𐤠𐤠𐤹𐤫'
+    - ab@line-wrapper:
+      - lb[n=4]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: timleś brdunlis fẽncal
+          - orig[rend=rtl]: 𐤯𐤦𐤪𐤩𐤤𐤳 𐤡𐤭𐤣𐤰𐤫𐤩𐤦𐤮 𐤱𐤶𐤫𐤹𐤠𐤩
+    - ab@line-wrapper:
+      - lb[n=5]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: lefś=tλ faτaν raval ak=mλ
+          - orig[rend=rtl]: 𐤩𐤤𐤱𐤳=𐤯𐤷 𐤱𐤠𐤴𐤠𐤸 𐤭𐤠𐤥𐤠𐤩 𐤠𐤨=𐤪𐤷
+    - ab@line-wrapper:
+      - lb[n=6]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[?]aśaãν bill ak=mλ lefś'
+          - orig[rend=rtl]: '[?]𐤠𐤳𐤠𐤵𐤸 𐤡𐤦𐤩𐤩 𐤠𐤨=𐤪𐤷 𐤩𐤤𐤱𐤳'
+    - ab@line-wrapper:
+      - lb[n=7]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: sarẽtaś/saretaś
+          - orig[rend=rtl]: 𐤮𐤠𐤭𐤶𐤯𐤠𐤳/𐤮𐤠𐤭𐤤𐤯𐤠𐤳
+  - inscription[n=51]:
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: bakivalid
+          - orig[rend=rtl]: 𐤡𐤠𐤨𐤦𐤥𐤠𐤩𐤦𐤣
+    - ab@line-wrapper:
+      - lb[n=2]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: samlid
+          - orig[rend=rtl]: 𐤮𐤠𐤪𐤩𐤦𐤣
+  - inscription[n=52]:
+    - note[lg=eng-Latn]:
+      - placeName: Ephesos
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: valvel
+          - orig[rend=rtl]: 𐤥𐤠𐤩𐤥𐤤𐤩
+  - inscription[n=53]:
+    - note[lg=eng-Latn]:
+      - placeName: Jabachк
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: nteś ntś (??)
+          - orig[rend=rtl]: 𐤫𐤯𐤤𐤳 𐤫𐤯𐤳 (??)
+  - inscription[n=54]:
+    - note[lg=eng-Latn]:
+      - placeName:
+        - Manisa
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[e]s anlola atraśtal'
+          - orig[rend=rtl]: '[𐤤]𐤮 𐤠𐤫𐤩𐤬𐤩𐤠 𐤠𐤯𐤭𐤠𐤳𐤯𐤠𐤩'
+    - ab@line-wrapper:
+      - lb[n=2]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: śakardal ak=ad qis fisqãnt
+          - orig[rend=rtl]: 𐤳𐤠𐤨𐤠𐤭𐤣𐤠𐤩 𐤠𐤨=𐤠𐤣 𐤲𐤦𐤮 𐤱𐤦𐤮𐤲𐤵𐤫𐤯
+    - ab@line-wrapper:
+      - lb[n=3]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: buk=aś fẽdanoλt fak=τ=ad
+          - orig[rend=rtl]: 𐤡𐤰𐤨=𐤠𐤳 𐤱𐤶𐤣𐤠𐤫𐤬𐤷𐤯 𐤱𐤠𐤨=𐤴=𐤠𐤣
+    - ab@line-wrapper:
+      - lb[n=4]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: kabrdokid nã=mλ qi=g dẽt
+          - orig[rend=rtl]: 𐤨𐤠𐤡𐤭𐤣𐤬𐤨𐤦𐤣 𐤫𐤵=𐤪𐤷 𐤲𐤦=𐤢 𐤣𐤶𐤯
+    - ab@line-wrapper:
+      - lb[n=5]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: nã=k=mλ [...]clλ ak=ad
+          - orig[rend=rtl]: 𐤫𐤵=𐤨=𐤪𐤷 [...]𐤹𐤩𐤷 𐤠𐤨=𐤠𐤣
+    - ab@line-wrapper:
+      - lb[n=6]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: artimuλ ibśimlλ fẽncãν
+          - orig[rend=rtl]: 𐤠𐤭𐤯𐤦𐤪𐤰𐤷 𐤦𐤡𐤳𐤦𐤪𐤩𐤷 𐤱𐤶𐤫𐤹𐤵𐤸
+  - inscription[n=55]:
+    - note[lg=eng-Latn]:
+      - placeName: (?)
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: manel=im
+          - orig[rend=rtl]: 𐤪𐤠𐤫𐤤𐤩=𐤦𐤪
+  - inscription[n=56]:
+    - note[lg=eng-Latn]:
+      - placeName:
+        - (?)
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: manel=im
+          - orig[rend=rtl]: 𐤪𐤠𐤫𐤤𐤩=𐤦𐤪
+  - inscription[n=57]:
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[   ]rlam[  ]'
+          - orig[rend=rtl]: '[   ]𐤭𐤩𐤠𐤪[  ]'
+  - inscription[n=58]:
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: ']eśivśis /['
+          - orig[rend=rtl]: ']𐤤𐤳𐤦𐤥𐤳𐤦𐤮 /['
+  - inscription[n=59]:
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: borlλ d or[aλ...]
+          - orig[rend=rtl]: 𐤡𐤬𐤭𐤩𐤷 𐤣 𐤬𐤭[𐤠𐤷...]
+    - ab@line-wrapper:
+      - lb[n=2]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[...] qaλmλ[uλ...]'
+          - orig[rend=rtl]: '[...] 𐤲𐤠𐤷𐤪𐤷[𐤰𐤷...]'
+  - inscription[n=60]:
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: esλ[...]
+          - orig[rend=rtl]: 𐤤𐤮𐤷[...]
+    - ab@line-wrapper:
+      - lb[n=2]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: fa[...]
+          - orig[rend=rtl]: 𐤱𐤠[...]
+    - ab@line-wrapper:
+      - lb[n=3]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: fa[...]
+          - orig[rend=rtl]: 𐤱𐤠[...]
+  - inscription[n=61]:
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[...]valis ak=aν qi[s...]'
+          - orig[rend=rtl]: '[...]𐤥𐤠𐤩𐤦𐤮 𐤠𐤨=𐤠𐤸 𐤲𐤦[𐤮...]'
+  - inscription[n=62]:
+    - note[lg=eng-Latn]:
+      - placeName: Tire
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[...]'
+          - orig[rend=rtl]: '[...]'
+    - ab@line-wrapper:
+      - lb[n=2]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[.]rd.aś dẽt qaλmu=k vard['
+          - orig[rend=rtl]: '[.]𐤭𐤣.𐤠𐤳 𐤣𐤶𐤯 𐤲𐤠𐤷𐤪𐤰=𐤨 𐤥𐤠𐤭𐤣['
+    - ab@line-wrapper:
+      - lb[n=3]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: qaλdãnlid ak sabλaλ qira[
+          - orig[rend=rtl]: 𐤲𐤠𐤷𐤣𐤵𐤫𐤩𐤦𐤣 𐤠𐤨 𐤮𐤠𐤡𐤷𐤠𐤷 𐤲𐤦𐤭𐤠[
+    - ab@line-wrapper:
+      - lb[n=4]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: taλ dãν dẽt litaś qira[
+          - orig[rend=rtl]: 𐤯𐤠𐤷 𐤣𐤵𐤸 𐤣𐤶𐤯 𐤩𐤦𐤯𐤠𐤳 𐤲𐤦𐤭𐤠[
+    - ab@line-wrapper:
+      - lb[n=5]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[?]śarsecν mursucν aτλed=m=aś['
+          - orig[rend=rtl]: '[?]𐤳𐤠𐤭𐤮𐤤𐤹𐤸 𐤪𐤰𐤭𐤮𐤰𐤹𐤸 𐤠𐤴𐤷𐤤𐤣=𐤪=𐤠𐤳['
+    - ab@line-wrapper:
+      - lb[n=6]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: esn qaλdãl ãn civlad [
+          - orig[rend=rtl]: 𐤤𐤮𐤫 𐤲𐤠𐤷𐤣𐤵𐤩 𐤵𐤫 𐤹𐤦𐤥𐤩𐤠𐤣 [
+    - ab@line-wrapper:
+      - lb[n=7]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[  ]t tim[  ] ak=m.[?] qa['
+          - orig[rend=rtl]: '[  ]𐤯 𐤯𐤦𐤪[  ] 𐤠𐤨=𐤪.[?] 𐤲𐤠['
+  - inscription[n=63]:
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: ']lis ['
+          - orig[rend=rtl]: ']𐤩𐤦𐤮 ['
+    - ab@line-wrapper:
+      - lb[n=2]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: ']sima.['
+          - orig[rend=rtl]: ']𐤮𐤦𐤪𐤠.['
+  - inscription[n=64]:
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: ']kãλ : labλ : vrit['
+          - orig[rend=rtl]: ']𐤨𐤵𐤷 : 𐤩𐤠𐤡𐤷 : 𐤥𐤭𐤦𐤯['
+    - ab@line-wrapper:
+      - lb[n=2]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: τakm[
+          - orig[rend=rtl]: 𐤴𐤠𐤨𐤪[
+  - inscription[n=65]:
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: qis=m[
+          - orig[rend=rtl]: 𐤲𐤦𐤮=𐤪[
+  - inscription[n=66]:
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: ']alis at['
+          - orig[rend=rtl]: ']𐤠𐤩𐤦𐤮 𐤠𐤯['
+    - ab@line-wrapper:
+      - lb[n=2]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: ']k art['
+          - orig[rend=rtl]: ']𐤨 𐤠𐤭𐤯['
+  - inscription[n=67]:
+    - note[lg=eng-Latn]:
+      - placeName:
+        - Bin Tepe
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: ve (??)
+          - orig[rend=rtl]: 𐤥𐤤 (??)
+  - inscription[n=68]:
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: ']. kun...['
+          - orig[rend=rtl]: ']. 𐤨𐤰𐤫...['
+  - inscription[n=69]:
+    - note[lg=eng-Latn]:
+      - placeName: (Coins)
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: rkalim (?)
+          - orig[rend=rtl]: 𐤭𐤨𐤠𐤩𐤦𐤪 (?)
+  - inscription[n=70]:
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: eś sadmẽś os=k anlola[...(6)...]
+          - orig[rend=rtl]: 𐤤𐤳 𐤮𐤠𐤣𐤪𐤶𐤳 𐤬𐤮=𐤨 𐤠𐤫𐤩𐤬𐤩𐤠[...(6)...]
+    - ab@line-wrapper:
+      - lb[n=2]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: ar[tim]ul ak=it esλ sa[dmẽλ
+              ...]
+          - orig[rend=rtl]: 𐤠𐤭[𐤯𐤦𐤪]𐤰𐤩 𐤠𐤨=𐤦𐤯 𐤤𐤮𐤷 𐤮𐤠[𐤣𐤪𐤶𐤷 ...]
+  - inscription[n=71]:
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '...] s ['
+          - orig[rend=rtl]: '...] 𐤮 ['
+    - ab@line-wrapper:
+      - lb[n=2]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '...ser]lis srmli[s]'
+          - orig[rend=rtl]: '...𐤮𐤤𐤭]𐤩𐤦𐤮 𐤮𐤭𐤪𐤩𐤦[𐤮]'
+    - ab@line-wrapper:
+      - lb[n=3]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '...]. artakśa.'
+          - orig[rend=rtl]: '...]. 𐤠𐤭𐤯𐤠𐤨𐤳𐤠.'
+    - ab@line-wrapper:
+      - lb[n=4]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '...]vãnaλ dã[ν]'
+          - orig[rend=rtl]: '...]𐤥𐤵𐤫𐤠𐤷 𐤣𐤵[𐤸]'
+    - ab@line-wrapper:
+      - lb[n=5]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '...]bisfat.[?]'
+          - orig[rend=rtl]: '...]𐤡𐤦𐤮𐤱𐤠𐤯.[?]'
+    - ab@line-wrapper:
+      - lb[n=6]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '...]| brullis[?]'
+          - orig[rend=rtl]: '...]| 𐤡𐤭𐤰𐤩𐤩𐤦𐤮[?]'
+    - ab@line-wrapper:
+      - lb[n=7]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '...]rolis aλa[?]'
+          - orig[rend=rtl]: '...]𐤭𐤬𐤩𐤦𐤮 𐤠𐤷𐤠[?]'
+  - inscription[n=72]:
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: ']s kuvav['
+          - orig[rend=rtl]: ']𐤮 𐤨𐤰𐤥𐤠𐤥['
+  - inscription[n=73]:
+    - note[lg=eng-Latn]:
+      - placeName: Kerč
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: manel=im
+          - orig[rend=rtl]: 𐤪𐤠𐤫𐤤𐤩=𐤦𐤪
+  - inscription[n=74]:
+    - note[lg=eng-Latn]:
+      - placeName: Sardes (?)
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: 'eś sadmẽś : mitratalis'
+          - orig[rend=rtl]: '𐤤𐤳 𐤮𐤠𐤣𐤪𐤶𐤳 : 𐤪𐤦𐤯𐤭𐤠𐤯𐤠𐤩𐤦𐤮'
+  - inscription[n=75]:
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: sivãml=im ate-lis
+          - orig[rend=rtl]: 𐤮𐤦𐤥𐤵𐤪𐤩=𐤦𐤪 𐤠𐤯𐤤-𐤩𐤦𐤮
+  - inscription[n=76]:
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: taful=im
+          - orig[rend=rtl]: 𐤯𐤠𐤱𐤰𐤩=𐤦𐤪
+  - inscription[n=78]:
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: nanaś
+          - orig[rend=rtl]: 𐤫𐤠𐤫𐤠𐤳
+  - inscription[n=79]:
+    - note[lg=eng-Latn]:
+      - placeName: Aphrodisias
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[...]'
+          - orig[rend=rtl]: '[...]'
+    - ab@line-wrapper:
+      - lb[n=2]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: ś]ãntaλ [?
+          - orig[rend=rtl]: 𐤳]𐤵𐤫𐤯𐤠𐤷 [?
+    - ab@line-wrapper:
+      - lb[n=3]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: ']talid [?'
+          - orig[rend=rtl]: ']𐤯𐤠𐤩𐤦𐤣 [?'
+  - inscription[n=80]:
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[a]larmś bis fa=t=is[?].['
+          - orig[rend=rtl]: '[𐤠]𐤩𐤠𐤭𐤪𐤳 𐤡𐤦𐤮 𐤱𐤠=𐤯=𐤦𐤮[?].['
+    - ab@line-wrapper:
+      - lb[n=2]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[.]aarcrś il amito['
+          - orig[rend=rtl]: '[.]𐤠𐤠𐤭𐤹𐤭𐤳 𐤦𐤩 𐤠𐤪𐤦𐤯𐤬['
+    - ab@line-wrapper:
+      - lb[n=3]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: fak=ad τorśa istro.[
+          - orig[rend=rtl]: 𐤱𐤠𐤨=𐤠𐤣 𐤴𐤬𐤭𐤳𐤠 𐤦𐤮𐤯𐤭𐤬.[
+    - ab@line-wrapper:
+      - lb[n=4]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: bλ=k=in ãn savls dẽt[
+          - orig[rend=rtl]: 𐤡𐤷=𐤨=𐤦𐤫 𐤵𐤫 𐤮𐤠𐤥𐤩𐤮 𐤣𐤶𐤯[
+    - ab@line-wrapper:
+      - lb[n=5]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: iśqν śfẽnis tavśẽν m[
+          - orig[rend=rtl]: 𐤦𐤳𐤲𐤸 𐤳𐤱𐤶𐤫𐤦𐤮 𐤯𐤠𐤥𐤳𐤶𐤸 𐤪[
+    - ab@line-wrapper:
+      - lb[n=6]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: fak=mλ=it niqaslad if.[
+          - orig[rend=rtl]: 𐤱𐤠𐤨=𐤪𐤷=𐤦𐤯 𐤫𐤦𐤲𐤠𐤮𐤩𐤠𐤣 𐤦𐤱.[
+    - ab@line-wrapper:
+      - lb[n=7]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: akτaś avladλ faśqν nśa.[
+          - orig[rend=rtl]: 𐤠𐤨𐤴𐤠𐤳 𐤠𐤥𐤩𐤠𐤣𐤷 𐤱𐤠𐤳𐤲𐤸 𐤫𐤳𐤠.[
+    - ab@line-wrapper:
+      - lb[n=8]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: ẽnarn nãnś kãns cẽnit ka[
+          - orig[rend=rtl]: 𐤶𐤫𐤠𐤭𐤫 𐤫𐤵𐤫𐤳 𐤨𐤵𐤫𐤮 𐤹𐤶𐤫𐤦𐤯 𐤨𐤠[
+    - ab@line-wrapper:
+      - lb[n=9]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: kãna=k=aν ãn kimλad nãn[
+          - orig[rend=rtl]: 𐤨𐤵𐤫𐤠=𐤨=𐤠𐤸 𐤵𐤫 𐤨𐤦𐤪𐤷𐤠𐤣 𐤫𐤵𐤫[
+    - ab@line-wrapper:
+      - lb[n=10]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: kot=aν isfollad borfcν a[
+          - orig[rend=rtl]: 𐤨𐤬𐤯=𐤠𐤸 𐤦𐤮𐤱𐤬𐤩𐤩𐤠𐤣 𐤡𐤬𐤭𐤱𐤹𐤸 𐤠[
+    - ab@line-wrapper:
+      - lb[n=11]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: qrifrit qλ fakanśfẽnal τa[
+          - orig[rend=rtl]: 𐤲𐤭𐤦𐤱𐤭𐤦𐤯 𐤲𐤷 𐤱𐤠𐤨𐤠𐤫𐤳𐤱𐤶𐤫𐤠𐤩 𐤴𐤠[
+    - ab@line-wrapper:
+      - lb[n=12]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: tẽmvaν tutra=k bślẽν taada[
+          - orig[rend=rtl]: 𐤯𐤶𐤪𐤥𐤠𐤸 𐤯𐤰𐤯𐤭𐤠=𐤨 𐤡𐤳𐤩𐤶𐤸 𐤯𐤠𐤠𐤣𐤠[
+    - ab@line-wrapper:
+      - lb[n=13]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: fak=mλ ebad murvaad esλ ś[
+          - orig[rend=rtl]: 𐤱𐤠𐤨=𐤪𐤷 𐤤𐤡𐤠𐤣 𐤪𐤰𐤭𐤥𐤠𐤠𐤣 𐤤𐤮𐤷 𐤳[
+    - ab@line-wrapper:
+      - lb[n=14]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: aśfãν avladis anãtlλ t[
+          - orig[rend=rtl]: 𐤠𐤳𐤱𐤵𐤸 𐤠𐤥𐤩𐤠𐤣𐤦𐤮 𐤠𐤫𐤵𐤯𐤩𐤷 𐤯[
+    - ab@line-wrapper:
+      - lb[n=15]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: qic=mλ=aś saristrośś bu.[
+          - orig[rend=rtl]: 𐤲𐤦𐤹=𐤪𐤷=𐤠𐤳 𐤮𐤠𐤭𐤦𐤮𐤯𐤭𐤬𐤳𐤳 𐤡𐤰.[
+    - ab@line-wrapper:
+      - lb[n=16]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[..]t=k=aś fasitavad ẽtqra['
+          - orig[rend=rtl]: '[..]𐤯=𐤨=𐤠𐤳 𐤱𐤠𐤮𐤦𐤯𐤠𐤥𐤠𐤣 𐤶𐤯𐤲𐤭𐤠['
+    - ab@line-wrapper:
+      - lb[n=17]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[...t]aśod na=k=iś qic=k
+              is['
+          - orig[rend=rtl]: '[...𐤯]𐤠𐤳𐤬𐤣 𐤫𐤠=𐤨=𐤦𐤳 𐤲𐤦𐤹=𐤨 𐤦𐤮['
+    - ab@line-wrapper:
+      - lb[n=18]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[...(8)...] baritod dum['
+          - orig[rend=rtl]: '[...(8)...] 𐤡𐤠𐤭𐤦𐤯𐤬𐤣 𐤣𐤰𐤪['
+    - ab@line-wrapper:
+      - lb[n=19]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[...]ẽ[...'
+          - orig[rend=rtl]: '[...]𐤶[...'
+  - inscription[n=81]:
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: badi[...(6)...]l
+          - orig[rend=rtl]: 𐤡𐤠𐤣𐤦[...(6)...]𐤩
+  - inscription[n=82]:
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: ']lma['
+          - orig[rend=rtl]: ']𐤩𐤪𐤠['
+  - inscription[n=83]:
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: ']uli[s(?)'
+          - orig[rend=rtl]: ']𐤰𐤩𐤦[𐤮(?)'
+  - inscription[n=84]:
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: ']ulis['
+          - orig[rend=rtl]: ']𐤰𐤩𐤦𐤮['
+  - inscription[n=85]:
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '] va ['
+          - orig[rend=rtl]: '] 𐤥𐤠 ['
+  - inscription[n=86]:
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: ']. ka ['
+          - orig[rend=rtl]: ']. 𐤨𐤠 ['
+  - inscription[n=87]:
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: ']ma['
+          - orig[rend=rtl]: ']𐤪𐤠['
+  - inscription[n=88]:
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '] ba ['
+          - orig[rend=rtl]: '] 𐤡𐤠 ['
+  - inscription[n=89]:
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: ']uk['
+          - orig[rend=rtl]: ']𐤰𐤨['
+  - inscription[n=90]:
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: ']ma['
+          - orig[rend=rtl]: ']𐤪𐤠['
+  - inscription[n=91]:
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '] ba['
+          - orig[rend=rtl]: '] 𐤡𐤠['
+  - inscription[n=92]:
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: ']min['
+          - orig[rend=rtl]: ']𐤪𐤦𐤫['
+  - inscription[n=93]:
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: art
+          - orig[rend=rtl]: 𐤠𐤭𐤯
+  - inscription[n=94]:
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '].a.ś'
+          - orig[rend=rtl]: '].𐤠.𐤳'
+  - inscription[n=95]:
+    - note[lg=eng-Latn]:
+      - placeName: Sardes (?)
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: tetel=im
+          - orig[rend=rtl]: 𐤯𐤤𐤯𐤤𐤩=𐤦𐤪
+  - inscription[n=96]:
+    - note[lg=eng-Latn]:
+      - placeName: Old-Smyrna
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: ']vmś'
+          - orig[rend=rtl]: ']𐤥𐤪𐤳'
+  - inscription[n=97]:
+    - note[lg=eng-Latn]:
+      - placeName: Old-Smyrna
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '?]unaν : eś : śdi.['
+          - orig[rend=rtl]: '?]𐤰𐤫𐤠𐤸 : 𐤤𐤳 : 𐤳𐤣𐤦.['
+  - inscription[n=98]:
+    - note[lg=eng-Latn]:
+      - placeName: Old-Smyrna
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: śil[ ]karol
+          - orig[rend=rtl]: 𐤳𐤦𐤩[ ]𐤨𐤠𐤭𐤬𐤩
+    - ab@line-wrapper:
+      - lb[n=2]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: ar[ti]mal=k
+          - orig[rend=rtl]: 𐤠𐤭[𐤯𐤦]𐤪𐤠𐤩=𐤨
+  - inscription[n=99]:
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[bra]vrsis bil ['
+          - orig[rend=rtl]: '[𐤡𐤭𐤠]𐤥𐤭𐤮𐤦𐤮 𐤡𐤦𐤩 ['
+  - inscription[n=100]:
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: ']urdo['
+          - orig[rend=rtl]: ']𐤰𐤭𐤣𐤬['
+  - inscription[n=101]:
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[...(7)...m]anelis'
+          - orig[rend=rtl]: '[...(7)...𐤪]𐤠𐤫𐤤𐤩𐤦𐤮'
+    - ab@line-wrapper:
+      - lb[n=2]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[...(7)...]is inal'
+          - orig[rend=rtl]: '[...(7)...]𐤦𐤮 𐤦𐤫𐤠𐤩'
+  - inscription[n=102]:
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: ośflś
+          - orig[rend=rtl]: 𐤬𐤳𐤱𐤩𐤳
+  - inscription[n=103]:
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '] srkastulis śf[ardẽt...'
+          - orig[rend=rtl]: '] 𐤮𐤭𐤨𐤠𐤮𐤯𐤰𐤩𐤦𐤮 𐤳𐤱[𐤠𐤭𐤣𐤶𐤯...'
+  - inscription[n=104]:
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: artymal=im
+          - orig[rend=rtl]: 𐤠𐤭𐤯𐤧𐤪𐤠𐤩=𐤦𐤪
+  - inscription[n=105]:
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: laś.ẽ
+          - orig[rend=rtl]: 𐤩𐤠𐤳.𐤶
+  - inscription[n=106]:
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: miλaś
+          - orig[rend=rtl]: 𐤪𐤦𐤷𐤠𐤳
+  - inscription[n=107]:
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: ']lefś=tλ ba.['
+          - orig[rend=rtl]: ']𐤩𐤤𐤱𐤳=𐤯𐤷 𐤡𐤠.['
+  - inscription[n=108]:
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[e]śś vanaś bakiv[alis]'
+          - orig[rend=rtl]: '[𐤤]𐤳𐤳 𐤥𐤠𐤫𐤠𐤳 𐤡𐤠𐤨𐤦𐤥[𐤠𐤩𐤦𐤮]'
+    - ab@line-wrapper:
+      - lb[n=2]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[...]mi.ãlis ba.[....]'
+          - orig[rend=rtl]: '[...]𐤪𐤦.𐤵𐤩𐤦𐤮 𐤡𐤠.[....]'
+    - ab@line-wrapper:
+      - lb[n=3]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[.....] vśtãś avsi.[....]'
+          - orig[rend=rtl]: '[.....] 𐤥𐤳𐤯𐤵𐤳 𐤠𐤥𐤮𐤦.[....]'
+    - ab@line-wrapper:
+      - lb[n=4]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[ak e]sλ vãnaλ q[is?]'
+          - orig[rend=rtl]: '[𐤠𐤨 𐤤]𐤮𐤷 𐤥𐤵𐤫𐤠𐤷 𐤲[𐤦𐤮?]'
+    - ab@line-wrapper:
+      - lb[n=5]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[fẽnsλ]ifid buk es[λ]'
+          - orig[rend=rtl]: '[𐤱𐤶𐤫𐤮𐤷]𐤦𐤱𐤦𐤣 𐤡𐤰𐤨 𐤤𐤮[𐤷]'
+    - ab@line-wrapper:
+      - lb[n=6]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: '[...]'
+          - orig[rend=rtl]: '[...]'
+  - inscription[n=109]:
+    - note[lg=eng-Latn]:
+      - placeName: Sardes
+    - ab@line-wrapper:
+      - lb[n=1]:
+        - choice:
+          - reg[lg=xld-Latn-x-tld,type=transliteration]: śo.[
+          - orig[rend=rtl]: 𐤳𐤬.[
