@@ -4,11 +4,64 @@
 
 This is a TEI port of a [TITUS dataset](http://titus.uni-frankfurt.de/texte/etcs/anatol/lydian/lydco.htm).
 
-* URL: https://github.com/TITUS-2-0/anatolian/tree/main/drafts/lydco/
-* version: unreleased
-* date: 2025-01-14
+* URL: https://titus2.uni-frankfurt.de/dataset/lydco
+* version: 0.1.0
+* date: 2025-04-23
 
 ## Citation
+```text
+Digital version of Corpus of Lydian Inscriptions (v0.1.0). By: Jost Gippert, Florian Matter, H.C. Melchert, J. Tischler. In: Carling, Gerd & Jost Gippert (2025). TITUS 2.0. Frankfurt: Goethe University. (URL: https://titus2.uni-frankfurt.de/dataset/lydco, visited on <insert date>)
 ```
-Digital version of Corpus of Lydian Inscriptions (draft version). By: Jost Gippert, Florian Matter, H.C. Melchert, J. Tischler. In: Carling, Gerd & Jost Gippert (2025). TITUS 2.0. Frankfurt: Goethe University. (URL: https://github.com/TITUS-2-0/anatolian/tree/main/drafts/lydco/, visited on <insert date>)
+
+## TEI encoding
+
+
+### Unit Mapping
+The TITUS 1 structural units are mapped onto TEI as follows:
+
+| Source Unit | TEI Mapping | Notes |
+|-------------|-------------|-------|
+| Inscription | `div@inscription` | Automatically translated into named div |
+| Line | `lb` |  |
+
+### Structural overview
+```text
+text (@xml:lang=xld-Lydi)
+  body
+    div (@data-level=1, @n, @type=inscription, @xml:id) (multiple)
+      note (@xml:id, @xml:lang=eng-Latn)
+        placeName (@xml:id)
+      div (@data-level=2, @n, @type=text, @xml:id, @xml:lang=arc-Latn-x-tld) (multiple)
+        head (@xml:lang=eng-Latn)
+        ab (@xml:id)
+          ab (@type=line-wrapper, @xml:id) (multiple)
+            lb (@n)
+            choice
+              reg (@type=transliteration)
+              orig (@rend=rtl)
+      div (@data-level=2, @n, @type=text, @xml:id) (multiple)
+        head (@xml:lang=eng-Latn)
+        ab (@type=line-wrapper, @xml:id) (multiple)
+          lb (@n)
+          choice
+            reg (@type=transliteration, @xml:lang=xld-Latn-x-tld)
+            orig (@rend=rtl)
+```
+
+### Structure Example
+
+```xml
+<div xmlns="http://www.tei-c.org/ns/1.0" n="1" xml:id="inscription-1" type="inscription" data-level="1">
+				<note xml:id="inscription-1-note-1" xml:lang="eng-Latn">
+					<placeName xml:id="inscription-1-note-1-placeName-1">Sardes</placeName>
+				</note>
+				<div n="1a" xml:id="inscription-1-text-1" type="text" data-level="2" xml:lang="arc-Latn-x-tld">
+					<head xml:lang="eng-Latn">Aramaic inscription</head>
+					<ab xml:id="inscription-1-text-1-ab-1">
+						<ab type="line-wrapper" xml:id="inscription-1-text-1-ab-2">
+							<lb n="A1"/>
+							<choice>
+								<reg type="transliteration">B 5 L-MRḤŠWN ŠNT 10 ՚RTḤŠSŠ MLK՚</reg>
+								<orig rend="rtl">𐡁 5 𐡋-𐡌𐡓𐡇𐡔𐡅𐡍 𐡔𐡍𐡕 10 𐡀𐡓𐡕𐡇𐡔𐡎𐡔 𐡌𐡋𐡊𐡀</orig>
+  ...
 ```
