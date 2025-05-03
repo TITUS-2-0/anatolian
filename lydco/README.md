@@ -28,24 +28,32 @@ The TITUS 1 structural units are mapped onto TEI as follows:
 ```text
 text (@xml:lang=xld-Lydi)
   body
-    div (@data-level=1, @n, @type=inscription, @xml:id) (multiple)
-      note (@xml:id, @xml:lang=eng-Latn)
-        placeName (@xml:id)
-      div (@data-level=2, @n, @type=text, @xml:id, @xml:lang=arc-Latn-x-tld) (multiple)
+    div (@data-level=1, @n, @type=inscription, @xml:id)
+      div (@data-level=2, @n, @type=text, @xml:id, @xml:lang=arc-Latn-x-tld)
         head (@xml:lang=eng-Latn)
         ab (@xml:id)
           ab (@type=line-wrapper, @xml:id) (multiple)
-            lb (@n)
-            choice
-              reg (@type=transliteration)
-              orig (@rend=rtl)
-      div (@data-level=2, @n, @type=text, @xml:id) (multiple)
+            choice (multiple)
+              reg (@type=transliteration) (multiple)
+              orig (@rend=rtl) (multiple)
+            [lb (@n) (multiple)]
+      div (@data-level=2, @n, @type=text, @xml:id)
         head (@xml:lang=eng-Latn)
         ab (@type=line-wrapper, @xml:id) (multiple)
-          lb (@n)
-          choice
-            reg (@type=transliteration, @xml:lang=xld-Latn-x-tld)
-            orig (@rend=rtl)
+          choice (multiple)
+            reg (@type=transliteration, @xml:lang=xld-Latn-x-tld) (multiple)
+            orig (@rend=rtl) (multiple)
+          [lb (@n) (multiple)]
+      [note (@xml:id, @xml:lang=eng-Latn)]
+        placeName (@xml:id)
+    div (@data-level=1, @n, @type=inscription, @xml:id) (multiple)
+      ab (@type=line-wrapper, @xml:id) (multiple)
+        choice (multiple)
+          reg (@type=transliteration, @xml:lang=xld-Latn-x-tld) (multiple)
+          orig (@rend=rtl) (multiple)
+        [lb (@n) (multiple)]
+      [note (@xml:id, @xml:lang=eng-Latn) (multiple)]
+        placeName (@xml:id) (multiple)
 ```
 
 ### Structure Example
