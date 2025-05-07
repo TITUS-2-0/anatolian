@@ -47,10 +47,10 @@
 		</fileDesc>
 		<profileDesc>
 			<langUsage>
-				<language ident="xld-Lydi">Lydian</language>
-				<language ident="eng-Latn">English</language>
-				<language ident="arc-Latn-x-tld">Imperial Aramaic (700-300 BCE)</language>
-				<language ident="xld-Latn-x-tld">Lydian</language>
+				<language ident="xld-Lydi" ana="primary">Lydian</language>
+				<language ident="arc-Latn-x-tld" ana="secondary">Imperial Aramaic (700-300 BCE)</language>
+				<language ident="xld-Latn-x-tld" ana="secondary">Lydian</language>
+				<language ident="eng-Latn" ana="meta">English</language>
 			</langUsage>
 		</profileDesc>
 	</teiHeader>
