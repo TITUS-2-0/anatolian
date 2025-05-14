@@ -32,14 +32,14 @@ text (@xml:lang=xld-Lydi)
       div (@data-level=2, @n, @type=text, @xml:id, @xml:lang=arc-Latn-x-tld)
         head (@xml:lang=eng-Latn)
         ab (@xml:id)
-          ab (@type=line-wrapper, @xml:id) (multiple)
+          ab (@type=rtl-line-wrapper, @xml:id) (multiple)
             choice (multiple)
               reg (@type=transliteration) (multiple)
               orig (@rend=rtl) (multiple)
             [lb (@n) (multiple)]
       div (@data-level=2, @n, @type=text, @xml:id)
         head (@xml:lang=eng-Latn)
-        ab (@type=line-wrapper, @xml:id) (multiple)
+        ab (@type=rtl-line-wrapper, @xml:id) (multiple)
           choice (multiple)
             reg (@type=transliteration, @xml:lang=xld-Latn-x-tld) (multiple)
             orig (@rend=rtl) (multiple)
@@ -47,7 +47,7 @@ text (@xml:lang=xld-Lydi)
       [note (@xml:id, @xml:lang=eng-Latn)]
         placeName (@xml:id)
     div (@data-level=1, @n, @type=inscription, @xml:id) (multiple)
-      ab (@type=line-wrapper, @xml:id) (multiple)
+      ab (@type=rtl-line-wrapper, @xml:id) (multiple)
         choice (multiple)
           reg (@type=transliteration, @xml:lang=xld-Latn-x-tld) (multiple)
           orig (@rend=rtl) (multiple)
@@ -66,7 +66,7 @@ text (@xml:lang=xld-Lydi)
 				<div n="1a" xml:id="inscription-1-text-1" type="text" data-level="2" xml:lang="arc-Latn-x-tld">
 					<head xml:lang="eng-Latn">Aramaic inscription</head>
 					<ab xml:id="inscription-1-text-1-ab-1">
-						<ab type="line-wrapper" xml:id="inscription-1-text-1-ab-2">
+						<ab type="rtl-line-wrapper" xml:id="inscription-1-text-1-ab-2">
 							<lb n="A1"/>
 							<choice>
 								<reg type="transliteration">B 5 L-MRḤŠWN ŠNT 10 ՚RTḤŠSŠ MLK՚</reg>
