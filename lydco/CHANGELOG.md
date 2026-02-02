@@ -21,6 +21,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - shift languages (2025-02-22)
 - line numbers, splitting inscription 1 (2025-02-07)
 - notes in ps (2025-02-05)
-- initial creation (2025-01-14)
 - add placenames (2025-01-14)
 - remove unknown placenames (2025-01-14)
+- initial creation (2025-01-14)
