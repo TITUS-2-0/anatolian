@@ -47,20 +47,20 @@
     </fileDesc>
     <profileDesc>
       <langUsage>
-        <language ident="xld-Lydi" ana="primary">Lydian</language>
-        <language ident="arc-Latn-x-tld" ana="secondary">Imperial Aramaic (700-300 BCE)</language>
-        <language ident="xld-Latn-x-tld" ana="secondary">Lydian</language>
-        <language ident="eng-Latn" ana="meta">English</language>
+        <language ana="primary" ident="xld-Lydi">Lydian</language>
+        <language ana="secondary" ident="arc-Latn-x-tld">Imperial Aramaic (700-300 BCE)</language>
+        <language ana="secondary" ident="xld-Latn-x-tld">Lydian</language>
+        <language ana="meta" ident="eng-Latn">English</language>
       </langUsage>
     </profileDesc>
   </teiHeader>
   <text xml:lang="xld-Lydi">
     <body>
-      <div n="1" xml:id="inscription-1" type="inscription" data-level="1">
+      <div data-level="1" n="1" type="inscription" xml:id="inscription-1">
         <note xml:id="inscription-1-note-1" xml:lang="eng-Latn">
           <placeName xml:id="inscription-1-note-1-placeName-1">Sardes</placeName>
         </note>
-        <div n="1a" xml:id="inscription-1-text-1" type="text" data-level="2" xml:lang="arc-Latn-x-tld">
+        <div data-level="2" n="1a" type="text" xml:id="inscription-1-text-1" xml:lang="arc-Latn-x-tld">
           <head xml:lang="eng-Latn">Aramaic inscription</head>
           <ab xml:id="inscription-1-text-1-ab-1">
             <ab type="rtl-line-wrapper" xml:id="inscription-1-text-1-ab-2">
@@ -121,7 +121,7 @@
             </ab>
           </ab>
         </div>
-        <div n="1b" xml:id="inscription-1-text-2" type="text" data-level="2">
+        <div data-level="2" n="1b" type="text" xml:id="inscription-1-text-2">
           <head xml:lang="eng-Latn">Lydian inscription</head>
           <ab type="rtl-line-wrapper" xml:id="inscription-1-text-2-ab-10">
             <lb n="1" />
@@ -188,7 +188,7 @@
           </ab>
         </div>
       </div>
-      <div n="2" xml:id="inscription-2" type="inscription" data-level="1">
+      <div data-level="1" n="2" type="inscription" xml:id="inscription-2">
         <note xml:id="inscription-2-note-2" xml:lang="eng-Latn">
           <placeName xml:id="inscription-2-note-2-placeName-2">Sardes</placeName>
         </note>
@@ -284,7 +284,7 @@
           </choice>
         </ab>
       </div>
-      <div n="3" xml:id="inscription-3" type="inscription" data-level="1">
+      <div data-level="1" n="3" type="inscription" xml:id="inscription-3">
         <note xml:id="inscription-3-note-3" xml:lang="eng-Latn">
           <placeName xml:id="inscription-3-note-3-placeName-3">Sardes</placeName>
         </note>
@@ -324,7 +324,7 @@
           </choice>
         </ab>
       </div>
-      <div n="4a" xml:id="inscription-4" type="inscription" data-level="1">
+      <div data-level="1" n="4a" type="inscription" xml:id="inscription-4">
         <note xml:id="inscription-4-note-4" xml:lang="eng-Latn">
           <placeName xml:id="inscription-4-note-4-placeName-4">Sardes</placeName>
         </note>
@@ -364,7 +364,7 @@
           </choice>
         </ab>
       </div>
-      <div n="4b" xml:id="inscription-5" type="inscription" data-level="1">
+      <div data-level="1" n="4b" type="inscription" xml:id="inscription-5">
         <note xml:id="inscription-5-note-5" xml:lang="eng-Latn">
           <placeName xml:id="inscription-5-note-5-placeName-5">Sardes</placeName>
         </note>
@@ -404,7 +404,7 @@
           </choice>
         </ab>
       </div>
-      <div n="5" xml:id="inscription-6" type="inscription" data-level="1">
+      <div data-level="1" n="5" type="inscription" xml:id="inscription-6">
         <note xml:id="inscription-6-note-6" xml:lang="eng-Latn">
           <placeName xml:id="inscription-6-note-6-placeName-6">Sardes</placeName>
         </note>
@@ -444,7 +444,7 @@
           </choice>
         </ab>
       </div>
-      <div n="6" xml:id="inscription-7" type="inscription" data-level="1">
+      <div data-level="1" n="6" type="inscription" xml:id="inscription-7">
         <note xml:id="inscription-7-note-7" xml:lang="eng-Latn">
           <placeName xml:id="inscription-7-note-7-placeName-7">Sardes</placeName>
         </note>
@@ -491,7 +491,7 @@
           </choice>
         </ab>
       </div>
-      <div n="7" xml:id="inscription-8" type="inscription" data-level="1">
+      <div data-level="1" n="7" type="inscription" xml:id="inscription-8">
         <note xml:id="inscription-8-note-8" xml:lang="eng-Latn">
           <placeName xml:id="inscription-8-note-8-placeName-8">Sardes</placeName>
         </note>
@@ -538,7 +538,7 @@
           </choice>
         </ab>
       </div>
-      <div n="8" xml:id="inscription-9" type="inscription" data-level="1">
+      <div data-level="1" n="8" type="inscription" xml:id="inscription-9">
         <note xml:id="inscription-9-note-9" xml:lang="eng-Latn">
           <placeName xml:id="inscription-9-note-9-placeName-9">Sardes</placeName>
         </note>
@@ -627,7 +627,7 @@
           </choice>
         </ab>
       </div>
-      <div n="9" xml:id="inscription-10" type="inscription" data-level="1">
+      <div data-level="1" n="9" type="inscription" xml:id="inscription-10">
         <note xml:id="inscription-10-note-10" xml:lang="eng-Latn">
           <placeName xml:id="inscription-10-note-10-placeName-10">Sardes</placeName>
         </note>
@@ -702,7 +702,7 @@
           </choice>
         </ab>
       </div>
-      <div n="10" xml:id="inscription-11" type="inscription" data-level="1">
+      <div data-level="1" n="10" type="inscription" xml:id="inscription-11">
         <note xml:id="inscription-11-note-11" xml:lang="eng-Latn">
           <placeName xml:id="inscription-11-note-11-placeName-11">Sardes</placeName>
         </note>
@@ -882,7 +882,7 @@
           </choice>
         </ab>
       </div>
-      <div n="11" xml:id="inscription-12" type="inscription" data-level="1">
+      <div data-level="1" n="11" type="inscription" xml:id="inscription-12">
         <note xml:id="inscription-12-note-12" xml:lang="eng-Latn">
           <placeName xml:id="inscription-12-note-12-placeName-12">Sardes</placeName>
         </note>
@@ -971,7 +971,7 @@
           </choice>
         </ab>
       </div>
-      <div n="12" xml:id="inscription-13" type="inscription" data-level="1">
+      <div data-level="1" n="12" type="inscription" xml:id="inscription-13">
         <note xml:id="inscription-13-note-13" xml:lang="eng-Latn">
           <placeName xml:id="inscription-13-note-13-placeName-13">Sardes</placeName>
         </note>
@@ -1046,7 +1046,7 @@
           </choice>
         </ab>
       </div>
-      <div n="13" xml:id="inscription-14" type="inscription" data-level="1">
+      <div data-level="1" n="13" type="inscription" xml:id="inscription-14">
         <note xml:id="inscription-14-note-14" xml:lang="eng-Latn">
           <placeName xml:id="inscription-14-note-14-placeName-14">Sardes</placeName>
         </note>
@@ -1142,7 +1142,7 @@
           </choice>
         </ab>
       </div>
-      <div n="14" xml:id="inscription-15" type="inscription" data-level="1">
+      <div data-level="1" n="14" type="inscription" xml:id="inscription-15">
         <note xml:id="inscription-15-note-15" xml:lang="eng-Latn">
           <placeName xml:id="inscription-15-note-15-placeName-15">Sardes</placeName>
         </note>
@@ -1280,7 +1280,7 @@
           </choice>
         </ab>
       </div>
-      <div n="15" xml:id="inscription-16" type="inscription" data-level="1">
+      <div data-level="1" n="15" type="inscription" xml:id="inscription-16">
         <note xml:id="inscription-16-note-16" xml:lang="eng-Latn">
           <placeName xml:id="inscription-16-note-16-placeName-16">Sardes</placeName>
         </note>
@@ -1355,7 +1355,7 @@
           </choice>
         </ab>
       </div>
-      <div n="16" xml:id="inscription-17" type="inscription" data-level="1">
+      <div data-level="1" n="16" type="inscription" xml:id="inscription-17">
         <note xml:id="inscription-17-note-17" xml:lang="eng-Latn">
           <placeName xml:id="inscription-17-note-17-placeName-17">Sardes</placeName>
         </note>
@@ -1395,7 +1395,7 @@
           </choice>
         </ab>
       </div>
-      <div n="17" xml:id="inscription-18" type="inscription" data-level="1">
+      <div data-level="1" n="17" type="inscription" xml:id="inscription-18">
         <note xml:id="inscription-18-note-18" xml:lang="eng-Latn">
           <placeName xml:id="inscription-18-note-18-placeName-18">Sardes</placeName>
         </note>
@@ -1421,7 +1421,7 @@
           </choice>
         </ab>
       </div>
-      <div n="18" xml:id="inscription-19" type="inscription" data-level="1">
+      <div data-level="1" n="18" type="inscription" xml:id="inscription-19">
         <note xml:id="inscription-19-note-19" xml:lang="eng-Latn">
           <placeName xml:id="inscription-19-note-19-placeName-19">Sardes</placeName>
         </note>
@@ -1447,7 +1447,7 @@
           </choice>
         </ab>
       </div>
-      <div n="19" xml:id="inscription-20" type="inscription" data-level="1">
+      <div data-level="1" n="19" type="inscription" xml:id="inscription-20">
         <note xml:id="inscription-20-note-20" xml:lang="eng-Latn">
           <placeName xml:id="inscription-20-note-20-placeName-20">Sardes</placeName>
         </note>
@@ -1480,7 +1480,7 @@
           </choice>
         </ab>
       </div>
-      <div n="20" xml:id="inscription-21" type="inscription" data-level="1">
+      <div data-level="1" n="20" type="inscription" xml:id="inscription-21">
         <note xml:id="inscription-21-note-21" xml:lang="eng-Latn">
           <placeName xml:id="inscription-21-note-21-placeName-21">Sardes</placeName>
         </note>
@@ -1492,7 +1492,7 @@
           </choice>
         </ab>
       </div>
-      <div n="21" xml:id="inscription-22" type="inscription" data-level="1">
+      <div data-level="1" n="21" type="inscription" xml:id="inscription-22">
         <note xml:id="inscription-22-note-22" xml:lang="eng-Latn">
           <placeName xml:id="inscription-22-note-22-placeName-22">Sardes</placeName>
         </note>
@@ -1504,7 +1504,7 @@
           </choice>
         </ab>
       </div>
-      <div n="22" xml:id="inscription-23" type="inscription" data-level="1">
+      <div data-level="1" n="22" type="inscription" xml:id="inscription-23">
         <note xml:id="inscription-23-note-23" xml:lang="eng-Latn">
           <placeName xml:id="inscription-23-note-23-placeName-23">Sardes</placeName>
         </note>
@@ -1614,7 +1614,7 @@
           </choice>
         </ab>
       </div>
-      <div n="23" xml:id="inscription-24" type="inscription" data-level="1">
+      <div data-level="1" n="23" type="inscription" xml:id="inscription-24">
         <note xml:id="inscription-24-note-24" xml:lang="eng-Latn">
           <placeName xml:id="inscription-24-note-24-placeName-24">Sardes</placeName>
         </note>
@@ -1773,7 +1773,7 @@
           </choice>
         </ab>
       </div>
-      <div n="24" xml:id="inscription-25" type="inscription" data-level="1">
+      <div data-level="1" n="24" type="inscription" xml:id="inscription-25">
         <note xml:id="inscription-25-note-25" xml:lang="eng-Latn">
           <placeName xml:id="inscription-25-note-25-placeName-25">Sardes</placeName>
         </note>
@@ -1939,7 +1939,7 @@
           </choice>
         </ab>
       </div>
-      <div n="25" xml:id="inscription-26" type="inscription" data-level="1">
+      <div data-level="1" n="25" type="inscription" xml:id="inscription-26">
         <note xml:id="inscription-26-note-26" xml:lang="eng-Latn">
           <placeName xml:id="inscription-26-note-26-placeName-26">Sardes</placeName>
         </note>
@@ -1986,7 +1986,7 @@
           </choice>
         </ab>
       </div>
-      <div n="26" xml:id="inscription-27" type="inscription" data-level="1">
+      <div data-level="1" n="26" type="inscription" xml:id="inscription-27">
         <note xml:id="inscription-27-note-27" xml:lang="eng-Latn">
           <placeName xml:id="inscription-27-note-27-placeName-27">Mersindere</placeName>
         </note>
@@ -2019,7 +2019,7 @@
           </choice>
         </ab>
       </div>
-      <div n="27" xml:id="inscription-28" type="inscription" data-level="1">
+      <div data-level="1" n="27" type="inscription" xml:id="inscription-28">
         <note xml:id="inscription-28-note-28" xml:lang="eng-Latn">
           <placeName xml:id="inscription-28-note-28-placeName-28">Sardes</placeName>
         </note>
@@ -2052,7 +2052,7 @@
           </choice>
         </ab>
       </div>
-      <div n="28" xml:id="inscription-29" type="inscription" data-level="1">
+      <div data-level="1" n="28" type="inscription" xml:id="inscription-29">
         <note xml:id="inscription-29-note-29" xml:lang="eng-Latn">
           <placeName xml:id="inscription-29-note-29-placeName-29">Sardes</placeName>
         </note>
@@ -2064,7 +2064,7 @@
           </choice>
         </ab>
       </div>
-      <div n="29" xml:id="inscription-30" type="inscription" data-level="1">
+      <div data-level="1" n="29" type="inscription" xml:id="inscription-30">
         <note xml:id="inscription-30-note-30" xml:lang="eng-Latn">
           <placeName xml:id="inscription-30-note-30-placeName-30">Sardes</placeName>
         </note>
@@ -2083,7 +2083,7 @@
           </choice>
         </ab>
       </div>
-      <div n="30" xml:id="inscription-31" type="inscription" data-level="1">
+      <div data-level="1" n="30" type="inscription" xml:id="inscription-31">
         <note xml:id="inscription-31-note-31" xml:lang="eng-Latn">
           <placeName xml:id="inscription-31-note-31-placeName-31">Sardes</placeName>
         </note>
@@ -2102,7 +2102,7 @@
           </choice>
         </ab>
       </div>
-      <div n="31" xml:id="inscription-32" type="inscription" data-level="1">
+      <div data-level="1" n="31" type="inscription" xml:id="inscription-32">
         <note xml:id="inscription-32-note-32" xml:lang="eng-Latn">
           <placeName xml:id="inscription-32-note-32-placeName-32">Sardes</placeName>
         </note>
@@ -2114,7 +2114,7 @@
           </choice>
         </ab>
       </div>
-      <div n="32" xml:id="inscription-33" type="inscription" data-level="1">
+      <div data-level="1" n="32" type="inscription" xml:id="inscription-33">
         <note xml:id="inscription-33-note-33" xml:lang="eng-Latn">
           <placeName xml:id="inscription-33-note-33-placeName-33">Sardes</placeName>
         </note>
@@ -2126,7 +2126,7 @@
           </choice>
         </ab>
       </div>
-      <div n="33" xml:id="inscription-34" type="inscription" data-level="1">
+      <div data-level="1" n="33" type="inscription" xml:id="inscription-34">
         <note xml:id="inscription-34-note-34" xml:lang="eng-Latn">
           <placeName xml:id="inscription-34-note-34-placeName-34">Sardes</placeName>
         </note>
@@ -2138,7 +2138,7 @@
           </choice>
         </ab>
       </div>
-      <div n="34" xml:id="inscription-35" type="inscription" data-level="1">
+      <div data-level="1" n="34" type="inscription" xml:id="inscription-35">
         <note xml:id="inscription-35-note-35" xml:lang="eng-Latn">
           <placeName xml:id="inscription-35-note-35-placeName-35">Sardes</placeName>
         </note>
@@ -2150,7 +2150,7 @@
           </choice>
         </ab>
       </div>
-      <div n="35" xml:id="inscription-36" type="inscription" data-level="1">
+      <div data-level="1" n="35" type="inscription" xml:id="inscription-36">
         <note xml:id="inscription-36-note-36" xml:lang="eng-Latn">
           <placeName xml:id="inscription-36-note-36-placeName-36">Sardes</placeName>
         </note>
@@ -2162,7 +2162,7 @@
           </choice>
         </ab>
       </div>
-      <div n="36" xml:id="inscription-37" type="inscription" data-level="1">
+      <div data-level="1" n="36" type="inscription" xml:id="inscription-37">
         <note xml:id="inscription-37-note-37" xml:lang="eng-Latn">
           <placeName xml:id="inscription-37-note-37-placeName-37">Sardes</placeName>
         </note>
@@ -2174,7 +2174,7 @@
           </choice>
         </ab>
       </div>
-      <div n="37" xml:id="inscription-38" type="inscription" data-level="1">
+      <div data-level="1" n="37" type="inscription" xml:id="inscription-38">
         <note xml:id="inscription-38-note-38" xml:lang="eng-Latn">
           <placeName xml:id="inscription-38-note-38-placeName-38">Sardes</placeName>
         </note>
@@ -2186,7 +2186,7 @@
           </choice>
         </ab>
       </div>
-      <div n="38" xml:id="inscription-39" type="inscription" data-level="1">
+      <div data-level="1" n="38" type="inscription" xml:id="inscription-39">
         <note xml:id="inscription-39-note-39" xml:lang="eng-Latn">
           <placeName xml:id="inscription-39-note-39-placeName-39">Sardes</placeName>
         </note>
@@ -2198,7 +2198,7 @@
           </choice>
         </ab>
       </div>
-      <div n="39" xml:id="inscription-40" type="inscription" data-level="1">
+      <div data-level="1" n="39" type="inscription" xml:id="inscription-40">
         <note xml:id="inscription-40-note-40" xml:lang="eng-Latn">
           <placeName xml:id="inscription-40-note-40-placeName-40">Sardes</placeName>
         </note>
@@ -2210,7 +2210,7 @@
           </choice>
         </ab>
       </div>
-      <div n="40" xml:id="inscription-41" type="inscription" data-level="1">
+      <div data-level="1" n="40" type="inscription" xml:id="inscription-41">
         <note xml:id="inscription-41-note-41" xml:lang="eng-Latn">
           <placeName xml:id="inscription-41-note-41-placeName-41">Pergamon</placeName>
         </note>
@@ -2229,7 +2229,7 @@
           </choice>
         </ab>
       </div>
-      <div n="41" xml:id="inscription-42" type="inscription" data-level="1">
+      <div data-level="1" n="41" type="inscription" xml:id="inscription-42">
         <note xml:id="inscription-42-note-42" xml:lang="eng-Latn">
           <placeName xml:id="inscription-42-note-42-placeName-42">Falaka</placeName>
         </note>
@@ -2283,7 +2283,7 @@
           </choice>
         </ab>
       </div>
-      <div n="42" xml:id="inscription-43" type="inscription" data-level="1">
+      <div data-level="1" n="42" type="inscription" xml:id="inscription-43">
         <note xml:id="inscription-43-note-43" xml:lang="eng-Latn">
           <placeName xml:id="inscription-43-note-43-placeName-43">Emre</placeName>
         </note>
@@ -2337,7 +2337,7 @@
           </choice>
         </ab>
       </div>
-      <div n="43" xml:id="inscription-44" type="inscription" data-level="1">
+      <div data-level="1" n="43" type="inscription" xml:id="inscription-44">
         <note xml:id="inscription-44-note-44" xml:lang="eng-Latn">
           <placeName xml:id="inscription-44-note-44-placeName-44">Eǵriköy</placeName>
         </note>
@@ -2384,7 +2384,7 @@
           </choice>
         </ab>
       </div>
-      <div n="44" xml:id="inscription-45" type="inscription" data-level="1">
+      <div data-level="1" n="44" type="inscription" xml:id="inscription-45">
         <note xml:id="inscription-45-note-45" xml:lang="eng-Latn">
           <placeName xml:id="inscription-45-note-45-placeName-45">č̣oban-isa</placeName>
         </note>
@@ -2515,7 +2515,7 @@
           </choice>
         </ab>
       </div>
-      <div n="45" xml:id="inscription-46" type="inscription" data-level="1">
+      <div data-level="1" n="45" type="inscription" xml:id="inscription-46">
         <note xml:id="inscription-46-note-46" xml:lang="eng-Latn">
           <placeName xml:id="inscription-46-note-46-placeName-46">Arablhк Hachкlhк Mahallesi</placeName>
         </note>
@@ -2555,7 +2555,7 @@
           </choice>
         </ab>
       </div>
-      <div n="46" xml:id="inscription-47" type="inscription" data-level="1">
+      <div data-level="1" n="46" type="inscription" xml:id="inscription-47">
         <note xml:id="inscription-47-note-47" xml:lang="eng-Latn">
           <placeName xml:id="inscription-47-note-47-placeName-47">Hamidiye</placeName>
         </note>
@@ -2616,7 +2616,7 @@
           </choice>
         </ab>
       </div>
-      <div n="47" xml:id="inscription-48" type="inscription" data-level="1">
+      <div data-level="1" n="47" type="inscription" xml:id="inscription-48">
         <note xml:id="inscription-48-note-48" xml:lang="eng-Latn">
           <placeName xml:id="inscription-48-note-48-placeName-48">Tire</placeName>
         </note>
@@ -2635,7 +2635,7 @@
           </choice>
         </ab>
       </div>
-      <div n="48" xml:id="inscription-49" type="inscription" data-level="1">
+      <div data-level="1" n="48" type="inscription" xml:id="inscription-49">
         <note xml:id="inscription-49-note-49" xml:lang="eng-Latn">
           <placeName xml:id="inscription-49-note-49-placeName-49">Ephesos</placeName>
         </note>
@@ -2647,7 +2647,7 @@
           </choice>
         </ab>
       </div>
-      <div n="49" xml:id="inscription-50" type="inscription" data-level="1">
+      <div data-level="1" n="49" type="inscription" xml:id="inscription-50">
         <note xml:id="inscription-50-note-50" xml:lang="eng-Latn">
           <placeName xml:id="inscription-50-note-50-placeName-50">Silsilis</placeName>
         </note>
@@ -2666,7 +2666,7 @@
           </choice>
         </ab>
       </div>
-      <div n="50" xml:id="inscription-51" type="inscription" data-level="1">
+      <div data-level="1" n="50" type="inscription" xml:id="inscription-51">
         <note xml:id="inscription-51-note-51" xml:lang="eng-Latn">
           <placeName xml:id="inscription-51-note-51-placeName-51">Megalais Katefches</placeName>
         </note>
@@ -2720,7 +2720,7 @@
           </choice>
         </ab>
       </div>
-      <div n="51" xml:id="inscription-52" type="inscription" data-level="1">
+      <div data-level="1" n="51" type="inscription" xml:id="inscription-52">
         <note xml:id="inscription-52-note-52" xml:lang="eng-Latn">
           <placeName xml:id="inscription-52-note-52-placeName-52">Sardes</placeName>
         </note>
@@ -2739,7 +2739,7 @@
           </choice>
         </ab>
       </div>
-      <div n="52" xml:id="inscription-53" type="inscription" data-level="1">
+      <div data-level="1" n="52" type="inscription" xml:id="inscription-53">
         <note xml:id="inscription-53-note-53" xml:lang="eng-Latn">
           <placeName xml:id="inscription-53-note-53-placeName-53">Ephesos</placeName>
         </note>
@@ -2751,7 +2751,7 @@
           </choice>
         </ab>
       </div>
-      <div n="53" xml:id="inscription-54" type="inscription" data-level="1">
+      <div data-level="1" n="53" type="inscription" xml:id="inscription-54">
         <note xml:id="inscription-54-note-54" xml:lang="eng-Latn">
           <placeName xml:id="inscription-54-note-54-placeName-54">Jabachк</placeName>
         </note>
@@ -2763,7 +2763,7 @@
           </choice>
         </ab>
       </div>
-      <div n="54" xml:id="inscription-55" type="inscription" data-level="1">
+      <div data-level="1" n="54" type="inscription" xml:id="inscription-55">
         <note xml:id="inscription-55-note-55" xml:lang="eng-Latn">
           <placeName xml:id="inscription-55-note-55-placeName-55">Manisa</placeName>
         </note>
@@ -2810,7 +2810,7 @@
           </choice>
         </ab>
       </div>
-      <div n="55" xml:id="inscription-56" type="inscription" data-level="1">
+      <div data-level="1" n="55" type="inscription" xml:id="inscription-56">
         <note xml:id="inscription-56-note-56" xml:lang="eng-Latn">
           <placeName xml:id="inscription-56-note-56-placeName-56">(?)</placeName>
         </note>
@@ -2822,7 +2822,7 @@
           </choice>
         </ab>
       </div>
-      <div n="56" xml:id="inscription-57" type="inscription" data-level="1">
+      <div data-level="1" n="56" type="inscription" xml:id="inscription-57">
         <note xml:id="inscription-57-note-57" xml:lang="eng-Latn">
           <placeName xml:id="inscription-57-note-57-placeName-57">(?)</placeName>
         </note>
@@ -2834,7 +2834,7 @@
           </choice>
         </ab>
       </div>
-      <div n="57" xml:id="inscription-58" type="inscription" data-level="1">
+      <div data-level="1" n="57" type="inscription" xml:id="inscription-58">
         <note xml:id="inscription-58-note-58" xml:lang="eng-Latn">
           <placeName xml:id="inscription-58-note-58-placeName-58">Sardes</placeName>
         </note>
@@ -2846,7 +2846,7 @@
           </choice>
         </ab>
       </div>
-      <div n="58" xml:id="inscription-59" type="inscription" data-level="1">
+      <div data-level="1" n="58" type="inscription" xml:id="inscription-59">
         <note xml:id="inscription-59-note-59" xml:lang="eng-Latn">
           <placeName xml:id="inscription-59-note-59-placeName-59">Sardes</placeName>
         </note>
@@ -2858,7 +2858,7 @@
           </choice>
         </ab>
       </div>
-      <div n="59" xml:id="inscription-60" type="inscription" data-level="1">
+      <div data-level="1" n="59" type="inscription" xml:id="inscription-60">
         <note xml:id="inscription-60-note-60" xml:lang="eng-Latn">
           <placeName xml:id="inscription-60-note-60-placeName-60">Sardes</placeName>
         </note>
@@ -2877,7 +2877,7 @@
           </choice>
         </ab>
       </div>
-      <div n="60" xml:id="inscription-61" type="inscription" data-level="1">
+      <div data-level="1" n="60" type="inscription" xml:id="inscription-61">
         <note xml:id="inscription-61-note-61" xml:lang="eng-Latn">
           <placeName xml:id="inscription-61-note-61-placeName-61">Sardes</placeName>
         </note>
@@ -2903,7 +2903,7 @@
           </choice>
         </ab>
       </div>
-      <div n="61" xml:id="inscription-62" type="inscription" data-level="1">
+      <div data-level="1" n="61" type="inscription" xml:id="inscription-62">
         <note xml:id="inscription-62-note-62" xml:lang="eng-Latn">
           <placeName xml:id="inscription-62-note-62-placeName-62">Sardes</placeName>
         </note>
@@ -2915,7 +2915,7 @@
           </choice>
         </ab>
       </div>
-      <div n="62" xml:id="inscription-63" type="inscription" data-level="1">
+      <div data-level="1" n="62" type="inscription" xml:id="inscription-63">
         <note xml:id="inscription-63-note-63" xml:lang="eng-Latn">
           <placeName xml:id="inscription-63-note-63-placeName-63">Tire</placeName>
         </note>
@@ -2969,7 +2969,7 @@
           </choice>
         </ab>
       </div>
-      <div n="63" xml:id="inscription-64" type="inscription" data-level="1">
+      <div data-level="1" n="63" type="inscription" xml:id="inscription-64">
         <note xml:id="inscription-64-note-64" xml:lang="eng-Latn">
           <placeName xml:id="inscription-64-note-64-placeName-64">Sardes</placeName>
         </note>
@@ -2988,7 +2988,7 @@
           </choice>
         </ab>
       </div>
-      <div n="64" xml:id="inscription-65" type="inscription" data-level="1">
+      <div data-level="1" n="64" type="inscription" xml:id="inscription-65">
         <note xml:id="inscription-65-note-65" xml:lang="eng-Latn">
           <placeName xml:id="inscription-65-note-65-placeName-65">Sardes</placeName>
         </note>
@@ -3007,7 +3007,7 @@
           </choice>
         </ab>
       </div>
-      <div n="65" xml:id="inscription-66" type="inscription" data-level="1">
+      <div data-level="1" n="65" type="inscription" xml:id="inscription-66">
         <note xml:id="inscription-66-note-66" xml:lang="eng-Latn">
           <placeName xml:id="inscription-66-note-66-placeName-66">Sardes</placeName>
         </note>
@@ -3019,7 +3019,7 @@
           </choice>
         </ab>
       </div>
-      <div n="66" xml:id="inscription-67" type="inscription" data-level="1">
+      <div data-level="1" n="66" type="inscription" xml:id="inscription-67">
         <note xml:id="inscription-67-note-67" xml:lang="eng-Latn">
           <placeName xml:id="inscription-67-note-67-placeName-67">Sardes</placeName>
         </note>
@@ -3038,7 +3038,7 @@
           </choice>
         </ab>
       </div>
-      <div n="67" xml:id="inscription-68" type="inscription" data-level="1">
+      <div data-level="1" n="67" type="inscription" xml:id="inscription-68">
         <note xml:id="inscription-68-note-68" xml:lang="eng-Latn">
           <placeName xml:id="inscription-68-note-68-placeName-68">Bin Tepe</placeName>
         </note>
@@ -3050,7 +3050,7 @@
           </choice>
         </ab>
       </div>
-      <div n="68" xml:id="inscription-69" type="inscription" data-level="1">
+      <div data-level="1" n="68" type="inscription" xml:id="inscription-69">
         <note xml:id="inscription-69-note-69" xml:lang="eng-Latn">
           <placeName xml:id="inscription-69-note-69-placeName-69">Sardes</placeName>
         </note>
@@ -3062,7 +3062,7 @@
           </choice>
         </ab>
       </div>
-      <div n="69" xml:id="inscription-70" type="inscription" data-level="1">
+      <div data-level="1" n="69" type="inscription" xml:id="inscription-70">
         <note xml:id="inscription-70-note-70" xml:lang="eng-Latn">
           <placeName xml:id="inscription-70-note-70-placeName-70">(Coins)</placeName>
         </note>
@@ -3074,7 +3074,7 @@
           </choice>
         </ab>
       </div>
-      <div n="70" xml:id="inscription-71" type="inscription" data-level="1">
+      <div data-level="1" n="70" type="inscription" xml:id="inscription-71">
         <note xml:id="inscription-71-note-71" xml:lang="eng-Latn">
           <placeName xml:id="inscription-71-note-71-placeName-71">Sardes</placeName>
         </note>
@@ -3093,7 +3093,7 @@
           </choice>
         </ab>
       </div>
-      <div n="71" xml:id="inscription-72" type="inscription" data-level="1">
+      <div data-level="1" n="71" type="inscription" xml:id="inscription-72">
         <note xml:id="inscription-72-note-72" xml:lang="eng-Latn">
           <placeName xml:id="inscription-72-note-72-placeName-72">Sardes</placeName>
         </note>
@@ -3147,7 +3147,7 @@
           </choice>
         </ab>
       </div>
-      <div n="72" xml:id="inscription-73" type="inscription" data-level="1">
+      <div data-level="1" n="72" type="inscription" xml:id="inscription-73">
         <note xml:id="inscription-73-note-73" xml:lang="eng-Latn">
           <placeName xml:id="inscription-73-note-73-placeName-73">Sardes</placeName>
         </note>
@@ -3159,7 +3159,7 @@
           </choice>
         </ab>
       </div>
-      <div n="73" xml:id="inscription-74" type="inscription" data-level="1">
+      <div data-level="1" n="73" type="inscription" xml:id="inscription-74">
         <note xml:id="inscription-74-note-74" xml:lang="eng-Latn">
           <placeName xml:id="inscription-74-note-74-placeName-74">Kerč</placeName>
         </note>
@@ -3171,7 +3171,7 @@
           </choice>
         </ab>
       </div>
-      <div n="74" xml:id="inscription-75" type="inscription" data-level="1">
+      <div data-level="1" n="74" type="inscription" xml:id="inscription-75">
         <note xml:id="inscription-75-note-75" xml:lang="eng-Latn">
           <placeName xml:id="inscription-75-note-75-placeName-75">Sardes (?)</placeName>
         </note>
@@ -3183,7 +3183,7 @@
           </choice>
         </ab>
       </div>
-      <div n="75" xml:id="inscription-76" type="inscription" data-level="1">
+      <div data-level="1" n="75" type="inscription" xml:id="inscription-76">
         <ab type="rtl-line-wrapper" xml:id="inscription-76-ab-394">
           <lb n="1" />
           <choice>
@@ -3192,7 +3192,7 @@
           </choice>
         </ab>
       </div>
-      <div n="76" xml:id="inscription-77" type="inscription" data-level="1">
+      <div data-level="1" n="76" type="inscription" xml:id="inscription-77">
         <ab type="rtl-line-wrapper" xml:id="inscription-77-ab-395">
           <lb n="1" />
           <choice>
@@ -3201,7 +3201,7 @@
           </choice>
         </ab>
       </div>
-      <div n="78" xml:id="inscription-78" type="inscription" data-level="1">
+      <div data-level="1" n="78" type="inscription" xml:id="inscription-78">
         <ab type="rtl-line-wrapper" xml:id="inscription-78-ab-396">
           <lb n="1" />
           <choice>
@@ -3210,7 +3210,7 @@
           </choice>
         </ab>
       </div>
-      <div n="79" xml:id="inscription-79" type="inscription" data-level="1">
+      <div data-level="1" n="79" type="inscription" xml:id="inscription-79">
         <note xml:id="inscription-79-note-76" xml:lang="eng-Latn">
           <placeName xml:id="inscription-79-note-76-placeName-76">Aphrodisias</placeName>
         </note>
@@ -3236,7 +3236,7 @@
           </choice>
         </ab>
       </div>
-      <div n="80" xml:id="inscription-80" type="inscription" data-level="1">
+      <div data-level="1" n="80" type="inscription" xml:id="inscription-80">
         <note xml:id="inscription-80-note-77" xml:lang="eng-Latn">
           <placeName xml:id="inscription-80-note-77-placeName-77">Sardes</placeName>
         </note>
@@ -3374,7 +3374,7 @@
           </choice>
         </ab>
       </div>
-      <div n="81" xml:id="inscription-81" type="inscription" data-level="1">
+      <div data-level="1" n="81" type="inscription" xml:id="inscription-81">
         <note xml:id="inscription-81-note-78" xml:lang="eng-Latn">
           <placeName xml:id="inscription-81-note-78-placeName-78">Sardes</placeName>
         </note>
@@ -3386,7 +3386,7 @@
           </choice>
         </ab>
       </div>
-      <div n="82" xml:id="inscription-82" type="inscription" data-level="1">
+      <div data-level="1" n="82" type="inscription" xml:id="inscription-82">
         <note xml:id="inscription-82-note-79" xml:lang="eng-Latn">
           <placeName xml:id="inscription-82-note-79-placeName-79">Sardes</placeName>
         </note>
@@ -3398,7 +3398,7 @@
           </choice>
         </ab>
       </div>
-      <div n="83" xml:id="inscription-83" type="inscription" data-level="1">
+      <div data-level="1" n="83" type="inscription" xml:id="inscription-83">
         <note xml:id="inscription-83-note-80" xml:lang="eng-Latn">
           <placeName xml:id="inscription-83-note-80-placeName-80">Sardes</placeName>
         </note>
@@ -3410,7 +3410,7 @@
           </choice>
         </ab>
       </div>
-      <div n="84" xml:id="inscription-84" type="inscription" data-level="1">
+      <div data-level="1" n="84" type="inscription" xml:id="inscription-84">
         <note xml:id="inscription-84-note-81" xml:lang="eng-Latn">
           <placeName xml:id="inscription-84-note-81-placeName-81">Sardes</placeName>
         </note>
@@ -3422,7 +3422,7 @@
           </choice>
         </ab>
       </div>
-      <div n="85" xml:id="inscription-85" type="inscription" data-level="1">
+      <div data-level="1" n="85" type="inscription" xml:id="inscription-85">
         <note xml:id="inscription-85-note-82" xml:lang="eng-Latn">
           <placeName xml:id="inscription-85-note-82-placeName-82">Sardes</placeName>
         </note>
@@ -3434,7 +3434,7 @@
           </choice>
         </ab>
       </div>
-      <div n="86" xml:id="inscription-86" type="inscription" data-level="1">
+      <div data-level="1" n="86" type="inscription" xml:id="inscription-86">
         <note xml:id="inscription-86-note-83" xml:lang="eng-Latn">
           <placeName xml:id="inscription-86-note-83-placeName-83">Sardes</placeName>
         </note>
@@ -3446,7 +3446,7 @@
           </choice>
         </ab>
       </div>
-      <div n="87" xml:id="inscription-87" type="inscription" data-level="1">
+      <div data-level="1" n="87" type="inscription" xml:id="inscription-87">
         <note xml:id="inscription-87-note-84" xml:lang="eng-Latn">
           <placeName xml:id="inscription-87-note-84-placeName-84">Sardes</placeName>
         </note>
@@ -3458,7 +3458,7 @@
           </choice>
         </ab>
       </div>
-      <div n="88" xml:id="inscription-88" type="inscription" data-level="1">
+      <div data-level="1" n="88" type="inscription" xml:id="inscription-88">
         <note xml:id="inscription-88-note-85" xml:lang="eng-Latn">
           <placeName xml:id="inscription-88-note-85-placeName-85">Sardes</placeName>
         </note>
@@ -3470,7 +3470,7 @@
           </choice>
         </ab>
       </div>
-      <div n="89" xml:id="inscription-89" type="inscription" data-level="1">
+      <div data-level="1" n="89" type="inscription" xml:id="inscription-89">
         <note xml:id="inscription-89-note-86" xml:lang="eng-Latn">
           <placeName xml:id="inscription-89-note-86-placeName-86">Sardes</placeName>
         </note>
@@ -3482,7 +3482,7 @@
           </choice>
         </ab>
       </div>
-      <div n="90" xml:id="inscription-90" type="inscription" data-level="1">
+      <div data-level="1" n="90" type="inscription" xml:id="inscription-90">
         <note xml:id="inscription-90-note-87" xml:lang="eng-Latn">
           <placeName xml:id="inscription-90-note-87-placeName-87">Sardes</placeName>
         </note>
@@ -3494,7 +3494,7 @@
           </choice>
         </ab>
       </div>
-      <div n="91" xml:id="inscription-91" type="inscription" data-level="1">
+      <div data-level="1" n="91" type="inscription" xml:id="inscription-91">
         <note xml:id="inscription-91-note-88" xml:lang="eng-Latn">
           <placeName xml:id="inscription-91-note-88-placeName-88">Sardes</placeName>
         </note>
@@ -3506,7 +3506,7 @@
           </choice>
         </ab>
       </div>
-      <div n="92" xml:id="inscription-92" type="inscription" data-level="1">
+      <div data-level="1" n="92" type="inscription" xml:id="inscription-92">
         <note xml:id="inscription-92-note-89" xml:lang="eng-Latn">
           <placeName xml:id="inscription-92-note-89-placeName-89">Sardes</placeName>
         </note>
@@ -3518,7 +3518,7 @@
           </choice>
         </ab>
       </div>
-      <div n="93" xml:id="inscription-93" type="inscription" data-level="1">
+      <div data-level="1" n="93" type="inscription" xml:id="inscription-93">
         <note xml:id="inscription-93-note-90" xml:lang="eng-Latn">
           <placeName xml:id="inscription-93-note-90-placeName-90">Sardes</placeName>
         </note>
@@ -3530,7 +3530,7 @@
           </choice>
         </ab>
       </div>
-      <div n="94" xml:id="inscription-94" type="inscription" data-level="1">
+      <div data-level="1" n="94" type="inscription" xml:id="inscription-94">
         <note xml:id="inscription-94-note-91" xml:lang="eng-Latn">
           <placeName xml:id="inscription-94-note-91-placeName-91">Sardes</placeName>
         </note>
@@ -3542,7 +3542,7 @@
           </choice>
         </ab>
       </div>
-      <div n="95" xml:id="inscription-95" type="inscription" data-level="1">
+      <div data-level="1" n="95" type="inscription" xml:id="inscription-95">
         <note xml:id="inscription-95-note-92" xml:lang="eng-Latn">
           <placeName xml:id="inscription-95-note-92-placeName-92">Sardes (?)</placeName>
         </note>
@@ -3554,7 +3554,7 @@
           </choice>
         </ab>
       </div>
-      <div n="96" xml:id="inscription-96" type="inscription" data-level="1">
+      <div data-level="1" n="96" type="inscription" xml:id="inscription-96">
         <note xml:id="inscription-96-note-93" xml:lang="eng-Latn">
           <placeName xml:id="inscription-96-note-93-placeName-93">Old-Smyrna</placeName>
         </note>
@@ -3566,7 +3566,7 @@
           </choice>
         </ab>
       </div>
-      <div n="97" xml:id="inscription-97" type="inscription" data-level="1">
+      <div data-level="1" n="97" type="inscription" xml:id="inscription-97">
         <note xml:id="inscription-97-note-94" xml:lang="eng-Latn">
           <placeName xml:id="inscription-97-note-94-placeName-94">Old-Smyrna</placeName>
         </note>
@@ -3578,7 +3578,7 @@
           </choice>
         </ab>
       </div>
-      <div n="98" xml:id="inscription-98" type="inscription" data-level="1">
+      <div data-level="1" n="98" type="inscription" xml:id="inscription-98">
         <note xml:id="inscription-98-note-95" xml:lang="eng-Latn">
           <placeName xml:id="inscription-98-note-95-placeName-95">Old-Smyrna</placeName>
         </note>
@@ -3597,7 +3597,7 @@
           </choice>
         </ab>
       </div>
-      <div n="99" xml:id="inscription-99" type="inscription" data-level="1">
+      <div data-level="1" n="99" type="inscription" xml:id="inscription-99">
         <note xml:id="inscription-99-note-96" xml:lang="eng-Latn">
           <placeName xml:id="inscription-99-note-96-placeName-96">Sardes</placeName>
         </note>
@@ -3609,7 +3609,7 @@
           </choice>
         </ab>
       </div>
-      <div n="100" xml:id="inscription-100" type="inscription" data-level="1">
+      <div data-level="1" n="100" type="inscription" xml:id="inscription-100">
         <note xml:id="inscription-100-note-97" xml:lang="eng-Latn">
           <placeName xml:id="inscription-100-note-97-placeName-97">Sardes</placeName>
         </note>
@@ -3621,7 +3621,7 @@
           </choice>
         </ab>
       </div>
-      <div n="101" xml:id="inscription-101" type="inscription" data-level="1">
+      <div data-level="1" n="101" type="inscription" xml:id="inscription-101">
         <note xml:id="inscription-101-note-98" xml:lang="eng-Latn">
           <placeName xml:id="inscription-101-note-98-placeName-98">Sardes</placeName>
         </note>
@@ -3640,7 +3640,7 @@
           </choice>
         </ab>
       </div>
-      <div n="102" xml:id="inscription-102" type="inscription" data-level="1">
+      <div data-level="1" n="102" type="inscription" xml:id="inscription-102">
         <ab type="rtl-line-wrapper" xml:id="inscription-102-ab-442">
           <lb n="1" />
           <choice>
@@ -3649,7 +3649,7 @@
           </choice>
         </ab>
       </div>
-      <div n="103" xml:id="inscription-103" type="inscription" data-level="1">
+      <div data-level="1" n="103" type="inscription" xml:id="inscription-103">
         <note xml:id="inscription-103-note-99" xml:lang="eng-Latn">
           <placeName xml:id="inscription-103-note-99-placeName-99">Sardes</placeName>
         </note>
@@ -3661,7 +3661,7 @@
           </choice>
         </ab>
       </div>
-      <div n="104" xml:id="inscription-104" type="inscription" data-level="1">
+      <div data-level="1" n="104" type="inscription" xml:id="inscription-104">
         <ab type="rtl-line-wrapper" xml:id="inscription-104-ab-444">
           <lb n="1" />
           <choice>
@@ -3670,7 +3670,7 @@
           </choice>
         </ab>
       </div>
-      <div n="105" xml:id="inscription-105" type="inscription" data-level="1">
+      <div data-level="1" n="105" type="inscription" xml:id="inscription-105">
         <ab type="rtl-line-wrapper" xml:id="inscription-105-ab-445">
           <lb n="1" />
           <choice>
@@ -3679,7 +3679,7 @@
           </choice>
         </ab>
       </div>
-      <div n="106" xml:id="inscription-106" type="inscription" data-level="1">
+      <div data-level="1" n="106" type="inscription" xml:id="inscription-106">
         <ab type="rtl-line-wrapper" xml:id="inscription-106-ab-446">
           <lb n="1" />
           <choice>
@@ -3688,7 +3688,7 @@
           </choice>
         </ab>
       </div>
-      <div n="107" xml:id="inscription-107" type="inscription" data-level="1">
+      <div data-level="1" n="107" type="inscription" xml:id="inscription-107">
         <note xml:id="inscription-107-note-100" xml:lang="eng-Latn">
           <placeName xml:id="inscription-107-note-100-placeName-100">Sardes</placeName>
         </note>
@@ -3700,7 +3700,7 @@
           </choice>
         </ab>
       </div>
-      <div n="108" xml:id="inscription-108" type="inscription" data-level="1">
+      <div data-level="1" n="108" type="inscription" xml:id="inscription-108">
         <note xml:id="inscription-108-note-101" xml:lang="eng-Latn">
           <placeName xml:id="inscription-108-note-101-placeName-101">Sardes</placeName>
         </note>
@@ -3747,7 +3747,7 @@
           </choice>
         </ab>
       </div>
-      <div n="109" xml:id="inscription-109" type="inscription" data-level="1">
+      <div data-level="1" n="109" type="inscription" xml:id="inscription-109">
         <note xml:id="inscription-109-note-102" xml:lang="eng-Latn">
           <placeName xml:id="inscription-109-note-102-placeName-102">Sardes</placeName>
         </note>
